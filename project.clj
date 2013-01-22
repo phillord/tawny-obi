@@ -7,5 +7,11 @@
             :distribution :repo}
 
   :dependencies [[org.clojure/clojure "1.4.0"]
-                 [uk.org.russet/tawny-owl "0.1-SNAPSHOT"]
-                 ])
+                 [uk.org.russet/tawny-owl "0.8-SNAPSHOT"]
+                 
+                 [net.sourceforge.owlapi/owlapi-api "3.4.2"]
+                 
+                 ]
+  ;; this is a problem -- I have this namespace elsewhere
+  :main tawny.core)
+
