@@ -16,7 +16,7 @@
 ;; along with this program.  If not, see http://www.gnu.org/licenses/.
 
 
-(ns tawny.obi
+(ns tawny.obi.obi
   (:refer-clojure :only [fn and filter instance? first filter])
   (:require [tawny.owl]
             [tawny.read]
@@ -81,7 +81,7 @@
 
 ;; Before this is run for the first time, the mapping must be saved using the
 ;; memorise function below.
-(tawny.memorise/remember "./src/tawny/obi_memorise.clj")
+(tawny.memorise/remember "./src/tawny/obi/obi_memorise.clj")
 
 
 

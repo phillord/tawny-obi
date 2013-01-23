@@ -1,5 +1,5 @@
 
-(ns tawny.core
+(ns tawny.obi.core
   (:use [tawny.owl])
   (:require [tawny.obi])
   (:gen-class)

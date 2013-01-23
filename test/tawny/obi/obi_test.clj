@@ -16,12 +16,12 @@
 ;; along with this program.  If not, see http://www.gnu.org/licenses/.
 
 
-(ns tawny.obi-test
+(ns tawny.obi.obi-test
   (:use [clojure.test])
-  (:require [tawny.owl] [tawny.obi]))
+  (:require [tawny.owl] [tawny.obi.obi]))
 
 
 (deftest obiread 
-  (tawny.owl/with-ontology tawny.obi/obi
+  (tawny.owl/with-ontology tawny.obi.obi/obi
     (tawny.owl/save-ontology "obi.omn" :omn)
     (tawny.owl/save-ontology "obi.owl" :owl)))
