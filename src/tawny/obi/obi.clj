@@ -17,7 +17,7 @@
 
 
 (ns tawny.obi.obi
-  (:refer-clojure :only [fn and filter instance? first filter])
+  ;;(:refer-clojure :only [fn and filter instance? first filter])
   (:require [tawny.owl]
             [tawny.read]
             [tawny.memorise])
@@ -49,7 +49,7 @@
     (clojure.string/replace
      ;; with luck these will always be literals, so we can do this
      ;; although not true in general
-     (.getLiteral 
+     (.getLiteral
       ;; get the value of the annotation
       (.getValue
        (first

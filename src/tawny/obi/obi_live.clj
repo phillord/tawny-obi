@@ -11,6 +11,7 @@
 (tawny.read/defread obi-live
   ;; something that the OWL API can interpret. This includes a stream, so
   ;; it's totally generic.
+
   :location (IRI/create "http://purl.obolibrary.org/obo/obi.owl")
   ;; the prefix that you want to use in this case
   :prefix "obo"
