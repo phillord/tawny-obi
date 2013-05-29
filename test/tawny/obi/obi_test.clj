@@ -18,10 +18,38 @@
 
 (ns tawny.obi.obi-test
   (:use [clojure.test])
-  (:require [tawny.owl] [tawny.obi.obi]))
+  (:require [tawny.owl :as o]
+            [tawny.reasoner :as r]
+            [tawny.obi.obi :as obi]))
+
+(defn ontology-reasoner-fixture [tests]
+  ;; this should kill the reasoner factory and all reasoners which is the
+  ;; safest, but slowest way to start.
+  (r/reasoner-factory :hermit)
+
+  ;; inject the pizzaontology into the current namespace, which saves the
+  ;; hassle of using with ontology every where. set this up each time in case
+  ;; pizzaontology has been re-evaled
+  (o/ontology-to-namespace obi/obi)
+  (binding [r/*reasoner-progress-monitor*
+            (atom r/reasoner-progress-monitor-silent)]
+    (tests)))
+
+(use-fixtures :once ontology-reasoner-fixture)
+
+;; Test whether we can save stuff
+(deftest obiread
+  (is
+   (do (tawny.owl/save-ontology "obi.omn" :omn)
+       (tawny.owl/save-ontology "obi.owl" :owl)
+       true)))
+
+(deftest obicoherency
+  (is (r/coherent?))
+  (is (r/consistent?)))
 
 
-(deftest obiread 
-  (tawny.owl/with-ontology tawny.obi.obi/obi
-    (tawny.owl/save-ontology "obi.omn" :omn)
-    (tawny.owl/save-ontology "obi.owl" :owl)))
+(deftest emission
+  (is
+   (o/subclass? obi/excitation_function
+                obi/light_emission_function)))

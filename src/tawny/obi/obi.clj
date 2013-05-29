@@ -92,6 +92,4 @@
 ;; was used, it would probably make more sense to run this at every load.
 
 ;;(tawny.memorise/memorise "./src/tawny/obi_memorise.clj")
-
-
-
+(println "Load Complete")
