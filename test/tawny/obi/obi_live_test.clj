@@ -1,7 +1,5 @@
-
-
-
-(ns tawny.obi.obi-live-test
+(ns
+  tawny.obi.obi-live-test
   (:use [clojure.test])
   (:require
    [tawny.owl :as o]
@@ -28,6 +26,6 @@
 
 
 
-(deftest consistent
+(deftest ^:heavy consistent
   (is (r/consistent?))
   (is (r/coherent?)))
