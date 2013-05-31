@@ -45,3 +45,4 @@
   )
 
 
+(println "obi_live.clj loaded")
