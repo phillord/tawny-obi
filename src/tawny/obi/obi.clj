@@ -17,7 +17,7 @@
 
 
 (ns tawny.obi.obi
-  ;;(:refer-clojure :only [fn and filter instance? first filter])
+  (:refer-clojure :only [fn and filter instance? first filter println])
   (:require [tawny.owl]
             [tawny.read]
             [tawny.memorise])
@@ -92,4 +92,4 @@
 ;; was used, it would probably make more sense to run this at every load.
 
 ;;(tawny.memorise/memorise "./src/tawny/obi_memorise.clj")
-(println "Load Complete")
+(println "obi.clj Load Complete")
