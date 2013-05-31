@@ -19,6 +19,7 @@
 (ns tawny.obi.obi-test
   (:use [clojure.test])
   (:require [tawny.owl :as o]
+            [tawny.profile :as p]
             [tawny.reasoner :as r]
             [tawny.obi.obi :as obi]))
 
@@ -44,12 +45,21 @@
        (tawny.owl/save-ontology "obi.owl" :owl)
        true)))
 
-(deftest obicoherency
+(deftest ^:heavy obicoherency
   (is (r/coherent?))
   (is (r/consistent?)))
 
+(deftest profile
+  (is (p/inprofile?
+       (o/get-current-ontology)
+       p/profile-owl2dl)))
 
 (deftest emission
   (is
    (o/subclass? obi/excitation_function
                 obi/light_emission_function)))
+
+(deftest enzyme
+  (is
+   (r/isubclass? obi/enzyme
+                 obi/restriction_enzyme)))
