@@ -1,7 +1,5 @@
-
-
 (ns tawny.obi.obi-live
-  (:refer-clojure :only [fn and filter instance? first filter])
+  (:refer-clojure :only [println fn and filter instance? first filter])
   (:use [tawny.read])
   (:import  (org.semanticweb.owlapi.model IRI OWLNamedObject))
   )
