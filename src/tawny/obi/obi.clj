@@ -36,33 +36,10 @@
   :viri "http://purl.obolibrary.org/obo/obi/2012-07-01/obi.owl"
   ;; but OBO ontologies are wierd, so pass in a filter function
   :filter
-  (fn [e]
-    (and (instance? OWLNamedObject e)
-         (.startsWith
-          (.toString (.getIRI e))
-          "http://purl.obolibrary.org/obo/OBI"
-          ))
-    )
+  (clojure.core/partial tawny.read/iri-starts-with-filter "http://purl.obolibrary.org/obo/OBI")
   :transform
-  ;; fix the space problem
-  (fn [e]
-    (clojure.string/replace
-     ;; with luck these will always be literals, so we can do this
-     ;; although not true in general
-     (.getLiteral
-      ;; get the value of the annotation
-      (.getValue
-       (first
-        ;; filter for annotations which are labels
-        ;; is lazy, so doesn't eval all
-        (filter
-         #(.isLabel (.getProperty %))
-         ;; get the annotations
-         (.getAnnotations e
-                          (tawny.owl/get-current-ontology))))))
-     #"[ /]" "_"
-     ))
-  )
+  (clojure.core/comp tawny.read/stop-characters-transform
+                     tawny.read/exception-nil-label-transform))
 
 
 
