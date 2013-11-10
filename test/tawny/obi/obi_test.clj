@@ -49,10 +49,10 @@
   (is (r/coherent?))
   (is (r/consistent?)))
 
-(deftest profile
-  (is (p/inprofile?
-       (o/get-current-ontology)
-       p/profile-owl2dl)))
+;; (deftest profile
+;;   (is (p/inprofile?
+;;        (o/get-current-ontology)
+;;        p/profile-owl2dl)))
 
 (deftest emission
   (is
