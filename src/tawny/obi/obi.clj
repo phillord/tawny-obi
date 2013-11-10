@@ -17,9 +17,10 @@
 
 
 (ns tawny.obi.obi
-  (:refer-clojure :only [fn and filter instance? first filter println])
+  (:refer-clojure :only [println])
   (:require [tawny.owl]
             [tawny.read]
+            [tawny.repl]
             [tawny.memorise])
   (:import (java.io File)
            (org.semanticweb.owlapi.model IRI OWLNamedObject)))
@@ -58,15 +59,18 @@
 
 ;; Before this is run for the first time, the mapping must be saved using the
 ;; memorise function below.
-(tawny.memorise/remember "./src/tawny/obi/obi_memorise.clj")
+(tawny.memorise/remember "./src/tawny/obi/obi_memorise.edn")
 
-
-
-;; Memorise mappings between IRIs and atom names. 
+;; Memorise mappings between IRIs and atom names.
 
 ;; In this case, I have downloaded the obi.owl. This form should be run before
 ;; this file is updated. If, instead of storing a snapshot of obi.owl a URL
 ;; was used, it would probably make more sense to run this at every load.
 
-;;(tawny.memorise/memorise "./src/tawny/obi_memorise.clj")
+;;(tawny.memorise/memorise "./src/tawny/obi/obi_memorise.edn")
 (println "obi.clj Load Complete")
+
+;; (clojure.core/time
+;;  (tawny.repl/update-ns-doc))
+
+(println "obi.clj Doc update complete")

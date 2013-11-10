@@ -1,0 +1,3587 @@
+{"http://purl.obolibrary.org/obo/OBI_0000006"
+ #{"role_of_being_consumer_safety_officer"},
+ "http://purl.obolibrary.org/obo/OBI_0000010"
+ #{"fluorescent_reporter_intensity"},
+ "http://purl.obolibrary.org/obo/OBI_0000011" #{"planned_process"},
+ "http://purl.obolibrary.org/obo/OBI_0000014" #{"regulator_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000015"
+ #{"biological_feature_identification_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0000016"
+ #{"regulation-assigned_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000017" #{"regulatory_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000018"
+ #{"material_supplier_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000020"
+ #{"contract_research_organization_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000021" #{"list-mode_data_file"},
+ "http://purl.obolibrary.org/obo/OBI_0000023" #{"classified_data_set"},
+ "http://purl.obolibrary.org/obo/OBI_0000025"
+ #{"reference_substance_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000026"
+ #{"cytological_stain_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000029"
+ #{"centrifuge_pellet_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000032"
+ #{"clinical_research_coordinator_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000034" #{"supernatant_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000038"
+ #{"chromatography_column"},
+ "http://purl.obolibrary.org/obo/OBI_0000040" #{"drug_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000041" #{"pump_valve_switch"},
+ "http://purl.obolibrary.org/obo/OBI_0000043" #{"xenotransplantation"},
+ "http://purl.obolibrary.org/obo/OBI_0000044" #{"physical_document"},
+ "http://purl.obolibrary.org/obo/OBI_0000045" #{"waiting"},
+ "http://purl.obolibrary.org/obo/OBI_0000047" #{"processed_material"},
+ "http://purl.obolibrary.org/obo/OBI_0000048"
+ #{"chromatography_device"},
+ "http://purl.obolibrary.org/obo/OBI_0000049" #{"mass_spectrometer"},
+ "http://purl.obolibrary.org/obo/OBI_0000050" #{"obsolete_platform"},
+ "http://purl.obolibrary.org/obo/OBI_0000051"
+ #{"liquid_chromatography_mass_spectrometry_platform"},
+ "http://purl.obolibrary.org/obo/OBI_0000052" #{"microarray_platform"},
+ "http://purl.obolibrary.org/obo/OBI_0000054"
+ #{"ratio_of_collected_to_emitted_light"},
+ "http://purl.obolibrary.org/obo/OBI_0000055"
+ #{"software_optimization_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0000056" #{"notified_body_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000057" #{"allotransplantation"},
+ "http://purl.obolibrary.org/obo/OBI_0000059" #{"gamma_counter"},
+ "http://purl.obolibrary.org/obo/OBI_0000060" #{"trial_monitor_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000064"
+ #{"positive_reference_substance_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000065"
+ #{"polyethylene_glycol_p-_1,1,3,3-tetramethylbutyl_-phenyl_ether"},
+ "http://purl.obolibrary.org/obo/OBI_0000066" #{"investigation"},
+ "http://purl.obolibrary.org/obo/OBI_0000067" #{"evaluant_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000068"
+ #{"reporting_party_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000070" #{"assay"},
+ "http://purl.obolibrary.org/obo/OBI_0000071"
+ #{"quantitative_confidence_value"},
+ "http://purl.obolibrary.org/obo/OBI_0000073"
+ #{"sample_preparation_for_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0000075"
+ #{"diagnosis_textual_entity"},
+ "http://purl.obolibrary.org/obo/OBI_0000076"
+ #{"unplanned_occurrence_effecting_an_investigation"},
+ "http://purl.obolibrary.org/obo/OBI_0000078" #{"eMedical_record"},
+ "http://purl.obolibrary.org/obo/OBI_0000079" #{"culture_medium"},
+ "http://purl.obolibrary.org/obo/OBI_0000083"
+ #{"electronic_case_report_tabulation"},
+ "http://purl.obolibrary.org/obo/OBI_0000084" #{"polystyrene_tube"},
+ "http://purl.obolibrary.org/obo/OBI_0000086" #{"reagent_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000089"
+ #{"role_of_regulator_of_chemical_manufacturer"},
+ "http://purl.obolibrary.org/obo/OBI_0000091"
+ #{"detector_reagent_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000092"
+ #{"role_of_certified_IRB_professional"},
+ "http://purl.obolibrary.org/obo/OBI_0000093" #{"patient_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000094" #{"material_processing"},
+ "http://purl.obolibrary.org/obo/OBI_0000096"
+ #{"protocol_testing_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0000097" #{"study_subject_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000100"
+ #{"obsolete_role_of_being_first_subject_treated"},
+ "http://purl.obolibrary.org/obo/OBI_0000101"
+ #{"measured_expression_level"},
+ "http://purl.obolibrary.org/obo/OBI_0000102"
+ #{"responsible_party_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000103"
+ #{"principal_investigator_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000105" #{"transplantation"},
+ "http://purl.obolibrary.org/obo/OBI_0000107"
+ #{"provides_service_consumer_with"},
+ "http://purl.obolibrary.org/obo/OBI_0000109"
+ #{"biological_vector_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000110"
+ #{"pH_indicator_dye_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000112" #{"specimen_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000113"
+ #{"sequence_feature_identification_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0000115" #{"intervention_design"},
+ "http://purl.obolibrary.org/obo/OBI_0000116" #{"worker_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000117" #{"Bernoulli_trial"},
+ "http://purl.obolibrary.org/obo/OBI_0000118" #{"gene_list"},
+ "http://purl.obolibrary.org/obo/OBI_0000119"
+ #{"number_of_particles_in_subset"},
+ "http://purl.obolibrary.org/obo/OBI_0000124"
+ #{"is_supported_by_data"},
+ "http://purl.obolibrary.org/obo/OBI_0000125"
+ #{"number_of_lost_events_electronic"},
+ "http://purl.obolibrary.org/obo/OBI_0000129"
+ #{"calibration_substance_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000131"
+ #{"molecular_feature_identification_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0000134"
+ #{"hardware_testing_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0000136" #{"incubator"},
+ "http://purl.obolibrary.org/obo/OBI_0000140" #{"label_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000143"
+ #{"baseline_participant_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000144"
+ #{"role_of_independent_data_monitoring_committee"},
+ "http://purl.obolibrary.org/obo/OBI_0000145" #{"pathologist_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000146"
+ #{"supernatant_collection_system_harvesting_frame"},
+ "http://purl.obolibrary.org/obo/OBI_0000151" #{"filter_paper"},
+ "http://purl.obolibrary.org/obo/OBI_0000153" #{"cell_co-culturing"},
+ "http://purl.obolibrary.org/obo/OBI_0000154"
+ #{"role_of_Institutional_Review_Board"},
+ "http://purl.obolibrary.org/obo/OBI_0000158" #{"eSource_document"},
+ "http://purl.obolibrary.org/obo/OBI_0000161"
+ #{"crossover_population_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000162"
+ #{"complete_nutrient_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000163" #{"radiolabel_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000164" #{"cDNA_library"},
+ "http://purl.obolibrary.org/obo/OBI_0000167"
+ #{"electronic_case_report_form"},
+ "http://purl.obolibrary.org/obo/OBI_0000169" #{"placebo_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000171" #{"autotransplantation"},
+ "http://purl.obolibrary.org/obo/OBI_0000172" #{"parameter_threshold"},
+ "http://purl.obolibrary.org/obo/OBI_0000174" #{"study_group_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000175" #{"p-value"},
+ "http://purl.obolibrary.org/obo/OBI_0000181" #{"population"},
+ "http://purl.obolibrary.org/obo/OBI_0000182"
+ #{"nuclear_magnetic_resonance_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0000185" #{"imaging_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0000186"
+ #{"protocol_optimization_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0000188"
+ #{"role_of_pathology_review_board"},
+ "http://purl.obolibrary.org/obo/OBI_0000192" #{"microtiter_plate"},
+ "http://purl.obolibrary.org/obo/OBI_0000196"
+ #{"role_of_impartial_witness"},
+ "http://purl.obolibrary.org/obo/OBI_0000198"
+ #{"biological_replicate_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000201"
+ #{"radioactivity_detection"},
+ "http://purl.obolibrary.org/obo/OBI_0000202"
+ #{"investigation_agent_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000204" #{"nutrient_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000205"
+ #{"obsolete_dropout_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000207"
+ #{"health_care_provider_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000208"
+ #{"methodology_testing_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0000210"
+ #{"analytical_cytology_data_file"},
+ "http://purl.obolibrary.org/obo/OBI_0000211"
+ #{"proxy_respondent_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000213"
+ #{"fluorescence_compensation_matrix"},
+ "http://purl.obolibrary.org/obo/OBI_0000214"
+ #{"negative_reference_substance_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000215"
+ #{"role_of_legally_acceptable_representative"},
+ "http://purl.obolibrary.org/obo/OBI_0000218"
+ #{"investigation_results_report"},
+ "http://purl.obolibrary.org/obo/OBI_0000219"
+ #{"cellular_feature_identification_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0000220"
+ #{"reference_subject_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000221" #{"vital_dye_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000223"
+ #{"obsolete_blinded_medication_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000224"
+ #{"sub-investigator_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000227" #{"data_encoding"},
+ "http://purl.obolibrary.org/obo/OBI_0000231" #{"enzymatic_cleavage"},
+ "http://purl.obolibrary.org/obo/OBI_0000232"
+ #{"hardware_optimization_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0000233"
+ #{"obsolete_defined_material"},
+ "http://purl.obolibrary.org/obo/OBI_0000234"
+ #{"trial_statistician_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000235" #{"standard_error"},
+ "http://purl.obolibrary.org/obo/OBI_0000237" #{"antigen_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000242"
+ #{"software_testing_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0000243" #{"sponsor_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000245" #{"organization"},
+ "http://purl.obolibrary.org/obo/OBI_0000248" #{"feed_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000249"
+ #{"technical_replicate_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000250" #{"dye_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000251" #{"cluster"},
+ "http://purl.obolibrary.org/obo/OBI_0000252" #{"cohort_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000253"
+ #{"artificially_induced_nucleic_acid_hybridization"},
+ "http://purl.obolibrary.org/obo/OBI_0000257" #{"DNA_extraction"},
+ "http://purl.obolibrary.org/obo/OBI_0000260" #{"plan"},
+ "http://purl.obolibrary.org/obo/OBI_0000264"
+ #{"obsolete_sample_population"},
+ "http://purl.obolibrary.org/obo/OBI_0000268"
+ #{"organism_feature_identification_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0000269"
+ #{"number_of_lost_events_computer"},
+ "http://purl.obolibrary.org/obo/OBI_0000272" #{"protocol"},
+ "http://purl.obolibrary.org/obo/OBI_0000273"
+ #{"role_of_regulator_of_consumables_and_medical_devices"},
+ "http://purl.obolibrary.org/obo/OBI_0000274"
+ #{"adding_a_material_entity_into_a_target"},
+ "http://purl.obolibrary.org/obo/OBI_0000275" #{"analyte_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000278" #{"disease_stage"},
+ "http://purl.obolibrary.org/obo/OBI_0000281"
+ #{"intraperitoneal_injection"},
+ "http://purl.obolibrary.org/obo/OBI_0000286" #{"precipitate"},
+ "http://purl.obolibrary.org/obo/OBI_0000288"
+ #{"protein-protein_interaction_detection"},
+ "http://purl.obolibrary.org/obo/OBI_0000291"
+ #{"transcription_factor_binding_site__identification"},
+ "http://purl.obolibrary.org/obo/OBI_0000292" #{"has_feature_value"},
+ "http://purl.obolibrary.org/obo/OBI_0000293" #{"has_specified_input"},
+ "http://purl.obolibrary.org/obo/OBI_0000294"
+ #{"obsolete_is_concretization_of"},
+ "http://purl.obolibrary.org/obo/OBI_0000295"
+ #{"is_specified_input_of"},
+ "http://purl.obolibrary.org/obo/OBI_0000296" #{"obsolete_enrollment"},
+ "http://purl.obolibrary.org/obo/OBI_0000297"
+ #{"obsolete_is_concretized_as"},
+ "http://purl.obolibrary.org/obo/OBI_0000298"
+ #{"obsolete_has_quality"},
+ "http://purl.obolibrary.org/obo/OBI_0000299"
+ #{"has_specified_output"},
+ "http://purl.obolibrary.org/obo/OBI_0000300"
+ #{"obsolete_is_realized_by"},
+ "http://purl.obolibrary.org/obo/OBI_0000301"
+ #{"obsoleted_has_specified_output_information"},
+ "http://purl.obolibrary.org/obo/OBI_0000304" #{"is_manufactured_by"},
+ "http://purl.obolibrary.org/obo/OBI_0000306"
+ #{"obsolete_has_function"},
+ "http://purl.obolibrary.org/obo/OBI_0000307"
+ #{"obsoleted_is_reagent_in"},
+ "http://purl.obolibrary.org/obo/OBI_0000308" #{"obsolete_realizes"},
+ "http://purl.obolibrary.org/obo/OBI_0000309"
+ #{"obsoleted_utilizes_reagent"},
+ "http://purl.obolibrary.org/obo/OBI_0000310"
+ #{"adverse_event_trigger"},
+ "http://purl.obolibrary.org/obo/OBI_0000311"
+ #{"obsoleted_is_device_for"},
+ "http://purl.obolibrary.org/obo/OBI_0000312"
+ #{"is_specified_output_of"},
+ "http://purl.obolibrary.org/obo/OBI_0000313"
+ #{"obsoleted_utilizes_device"},
+ "http://purl.obolibrary.org/obo/OBI_0000314" #{"is_proxy_for"},
+ "http://purl.obolibrary.org/obo/OBI_0000315"
+ #{"obsoleted_has_specified_input_information"},
+ "http://purl.obolibrary.org/obo/OBI_0000316" #{"obsolete_has_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000317" #{"Transformation-ML"},
+ "http://purl.obolibrary.org/obo/OBI_0000318" #{"eluate"},
+ "http://purl.obolibrary.org/obo/OBI_0000319"
+ #{"material_to_be_added_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000321" #{"ACS"},
+ "http://purl.obolibrary.org/obo/OBI_0000322" #{"XML"},
+ "http://purl.obolibrary.org/obo/OBI_0000323" #{"obsolete_peritoneum"},
+ "http://purl.obolibrary.org/obo/OBI_0000324" #{"RDF"},
+ "http://purl.obolibrary.org/obo/OBI_0000325" #{"zip"},
+ "http://purl.obolibrary.org/obo/OBI_0000326" #{"tar"},
+ "http://purl.obolibrary.org/obo/OBI_0000327" #{"FCS"},
+ "http://purl.obolibrary.org/obo/OBI_0000329" #{"Compensation-ML"},
+ "http://purl.obolibrary.org/obo/OBI_0000330" #{"Gating-ML"},
+ "http://purl.obolibrary.org/obo/OBI_0000332" #{"OWL"},
+ "http://purl.obolibrary.org/obo/OBI_0000338" #{"interpreting_data"},
+ "http://purl.obolibrary.org/obo/OBI_0000339" #{"planning"},
+ "http://purl.obolibrary.org/obo/OBI_0000340"
+ #{"obsolete_documenting"},
+ "http://purl.obolibrary.org/obo/OBI_0000341"
+ #{"histological_sample_preparation"},
+ "http://purl.obolibrary.org/obo/OBI_0000343" #{"inductive_reasoning"},
+ "http://purl.obolibrary.org/obo/OBI_0000345" #{"mass_analyzer"},
+ "http://purl.obolibrary.org/obo/OBI_0000355"
+ #{"hypothesis_driven_investigation"},
+ "http://purl.obolibrary.org/obo/OBI_0000356"
+ #{"hypothesis_generating_investigation"},
+ "http://purl.obolibrary.org/obo/OBI_0000361" #{"ion_source"},
+ "http://purl.obolibrary.org/obo/OBI_0000364" #{"ion_detector"},
+ "http://purl.obolibrary.org/obo/OBI_0000365"
+ #{"obsolete_results_from"},
+ "http://purl.obolibrary.org/obo/OBI_0000366"
+ #{"metabolite_profiling"},
+ "http://purl.obolibrary.org/obo/OBI_0000367"
+ #{"light_emission_function"},
+ "http://purl.obolibrary.org/obo/OBI_0000368" #{"record_function"},
+ "http://purl.obolibrary.org/obo/OBI_0000369" #{"magnify_function"},
+ "http://purl.obolibrary.org/obo/OBI_0000370" #{"contain_function"},
+ "http://purl.obolibrary.org/obo/OBI_0000371" #{"heat_function"},
+ "http://purl.obolibrary.org/obo/OBI_0000372"
+ #{"material_separation_function"},
+ "http://purl.obolibrary.org/obo/OBI_0000373" #{"ionize_process"},
+ "http://purl.obolibrary.org/obo/OBI_0000374" #{"excitation_function"},
+ "http://purl.obolibrary.org/obo/OBI_0000375" #{"freeze_function"},
+ "http://purl.obolibrary.org/obo/OBI_0000376"
+ #{"synthesizing_function"},
+ "http://purl.obolibrary.org/obo/OBI_0000377" #{"perturb_function"},
+ "http://purl.obolibrary.org/obo/OBI_0000378" #{"filter_function"},
+ "http://purl.obolibrary.org/obo/OBI_0000379" #{"mechanical_function"},
+ "http://purl.obolibrary.org/obo/OBI_0000380" #{"gas_filter_function"},
+ "http://purl.obolibrary.org/obo/OBI_0000381"
+ #{"liquid_filter_function"},
+ "http://purl.obolibrary.org/obo/OBI_0000383" #{"transfer_function"},
+ "http://purl.obolibrary.org/obo/OBI_0000384"
+ #{"electricity_supply_function"},
+ "http://purl.obolibrary.org/obo/OBI_0000385" #{"ionization_function"},
+ "http://purl.obolibrary.org/obo/OBI_0000387" #{"cool_function"},
+ "http://purl.obolibrary.org/obo/OBI_0000388" #{"connection_function"},
+ "http://purl.obolibrary.org/obo/OBI_0000389"
+ #{"isoelectric_focusing_device"},
+ "http://purl.obolibrary.org/obo/OBI_0000390"
+ #{"thermostatic_circulator"},
+ "http://purl.obolibrary.org/obo/OBI_0000391"
+ #{"energy_supply_function"},
+ "http://purl.obolibrary.org/obo/OBI_0000392"
+ #{"information_processor_function"},
+ "http://purl.obolibrary.org/obo/OBI_0000393"
+ #{"signal_conversion_function"},
+ "http://purl.obolibrary.org/obo/OBI_0000394" #{"blot_module"},
+ "http://purl.obolibrary.org/obo/OBI_0000395"
+ #{"signal_amplification_function"},
+ "http://purl.obolibrary.org/obo/OBI_0000397"
+ #{"image_acquisition_function"},
+ "http://purl.obolibrary.org/obo/OBI_0000398"
+ #{"image_acquisition_device"},
+ "http://purl.obolibrary.org/obo/OBI_0000399"
+ #{"solid_support_function"},
+ "http://purl.obolibrary.org/obo/OBI_0000400" #{"display_function"},
+ "http://purl.obolibrary.org/obo/OBI_0000401"
+ #{"environment_control_function"},
+ "http://purl.obolibrary.org/obo/OBI_0000403" #{"sort_function"},
+ "http://purl.obolibrary.org/obo/OBI_0000404" #{"gel_dryer"},
+ "http://purl.obolibrary.org/obo/OBI_0000405" #{"primer_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000406" #{"PCR_product"},
+ "http://purl.obolibrary.org/obo/OBI_0000407"
+ #{"viral_RNA_extraction"},
+ "http://purl.obolibrary.org/obo/OBI_0000409"
+ #{"nucleic_acid_template_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000410" #{"recombinant_plasmid"},
+ "http://purl.obolibrary.org/obo/OBI_0000411" #{"cloning_vector_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000413"
+ #{"cell_cycle_synchronization"},
+ "http://purl.obolibrary.org/obo/OBI_0000415"
+ #{"polymerase_chain_reaction"},
+ "http://purl.obolibrary.org/obo/OBI_0000416" #{"cloning_insert_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000417"
+ #{"achieves_planned_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0000418"
+ #{"measuring_glucose_concentration_in_blood_serum"},
+ "http://purl.obolibrary.org/obo/OBI_0000419"
+ #{"reverse_transcriptase"},
+ "http://purl.obolibrary.org/obo/OBI_0000420"
+ #{"obsolete_trypsinized_material"},
+ "http://purl.obolibrary.org/obo/OBI_0000422" #{"syringe"},
+ "http://purl.obolibrary.org/obo/OBI_0000423" #{"extract"},
+ "http://purl.obolibrary.org/obo/OBI_0000424"
+ #{"transcription_profiling_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0000425" #{"averaging_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0000426" #{"injection"},
+ "http://purl.obolibrary.org/obo/OBI_0000427" #{"enzyme"},
+ "http://purl.obolibrary.org/obo/OBI_0000429"
+ #{"intraperitoneal_administration"},
+ "http://purl.obolibrary.org/obo/OBI_0000430" #{"plasmid"},
+ "http://purl.obolibrary.org/obo/OBI_0000431"
+ #{"injection_into_organ_section"},
+ "http://purl.obolibrary.org/obo/OBI_0000432" #{"polyacrylamide_gel"},
+ "http://purl.obolibrary.org/obo/OBI_0000433"
+ #{"DNA_sequence_feature_detection"},
+ "http://purl.obolibrary.org/obo/OBI_0000434"
+ #{"adding_material_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0000435" #{"genotyping_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0000436" #{"needle"},
+ "http://purl.obolibrary.org/obo/OBI_0000437"
+ #{"analyte_measurement_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0000438"
+ #{"DNA_sequence_variation_detection"},
+ "http://purl.obolibrary.org/obo/OBI_0000439" #{"agarose_gel"},
+ "http://purl.obolibrary.org/obo/OBI_0000441" #{"assay_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0000442" #{"obsolete_heart"},
+ "http://purl.obolibrary.org/obo/OBI_0000443" #{"analyte_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0000444"
+ #{"target_of_material_addition_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000445"
+ #{"mass_measurement_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0000446"
+ #{"obsolete_identification"},
+ "http://purl.obolibrary.org/obo/OBI_0000447"
+ #{"intra_cellular_electrophysiology_recording"},
+ "http://purl.obolibrary.org/obo/OBI_0000448" #{"packed_column"},
+ "http://purl.obolibrary.org/obo/OBI_0000449"
+ #{"obsolete_defined_output"},
+ "http://purl.obolibrary.org/obo/OBI_0000450" #{"regulatory_agency"},
+ "http://purl.obolibrary.org/obo/OBI_0000451" #{"normalized_data_set"},
+ "http://purl.obolibrary.org/obo/OBI_0000453" #{"measure_function"},
+ "http://purl.obolibrary.org/obo/OBI_0000454"
+ #{"extracellular_electrophysiology_recording"},
+ "http://purl.obolibrary.org/obo/OBI_0000455"
+ #{"consume_data_function"},
+ "http://purl.obolibrary.org/obo/OBI_0000456"
+ #{"material_transformation_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0000457" #{"manufacturing"},
+ "http://purl.obolibrary.org/obo/OBI_0000458"
+ #{"manufacturing_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0000459"
+ #{"obsoleted_is_specified_information_output_of"},
+ "http://purl.obolibrary.org/obo/OBI_0000461"
+ #{"obsolete_the_supplier_role_of_Affymetrix"},
+ "http://purl.obolibrary.org/obo/OBI_0000462" #{"Affymetrix"},
+ "http://purl.obolibrary.org/obo/OBI_0000463"
+ #{"column_chromatography_detector"},
+ "http://purl.obolibrary.org/obo/OBI_0000464" #{"Bruker_autosampler"},
+ "http://purl.obolibrary.org/obo/OBI_0000465" #{"organic_acid_column"},
+ "http://purl.obolibrary.org/obo/OBI_0000466"
+ #{"thermal_conductivity_detector"},
+ "http://purl.obolibrary.org/obo/OBI_0000467"
+ #{"Bruker_US_2_NMR_magnet"},
+ "http://purl.obolibrary.org/obo/OBI_0000468" #{"protein_column"},
+ "http://purl.obolibrary.org/obo/OBI_0000469" #{"solvent_mixer"},
+ "http://purl.obolibrary.org/obo/OBI_0000470"
+ #{"mass_spectrometry_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0000471"
+ #{"study_design_execution"},
+ "http://purl.obolibrary.org/obo/OBI_0000473"
+ #{"Bruker_NMR_Case_sample_changer"},
+ "http://purl.obolibrary.org/obo/OBI_0000474" #{"nano_pump_system"},
+ "http://purl.obolibrary.org/obo/OBI_0000475"
+ #{"Bruker_AutoClean_system"},
+ "http://purl.obolibrary.org/obo/OBI_0000476"
+ #{"manual_injection_system"},
+ "http://purl.obolibrary.org/obo/OBI_0000477"
+ #{"Varian_GEMINI_spectrometer"},
+ "http://purl.obolibrary.org/obo/OBI_0000478" #{"column_connector"},
+ "http://purl.obolibrary.org/obo/OBI_0000479" #{"solid_NMR_probe"},
+ "http://purl.obolibrary.org/obo/OBI_0000480"
+ #{"Bruker_high_resolution_probe"},
+ "http://purl.obolibrary.org/obo/OBI_0000481"
+ #{"chromatography_detector"},
+ "http://purl.obolibrary.org/obo/OBI_0000482" #{"normal_phase_column"},
+ "http://purl.obolibrary.org/obo/OBI_0000483" #{"APOLLO_console"},
+ "http://purl.obolibrary.org/obo/OBI_0000484" #{"NMR_sample_holder"},
+ "http://purl.obolibrary.org/obo/OBI_0000485"
+ #{"chromatography_instrument"},
+ "http://purl.obolibrary.org/obo/OBI_0000486"
+ #{"continuous_wave_NMR_instrument"},
+ "http://purl.obolibrary.org/obo/OBI_0000487"
+ #{"fourier_transformation_NMR_instrument"},
+ "http://purl.obolibrary.org/obo/OBI_0000489"
+ #{"nitrogen_phosphorous_detector"},
+ "http://purl.obolibrary.org/obo/OBI_0000490"
+ #{"cation_exchange_column"},
+ "http://purl.obolibrary.org/obo/OBI_0000491"
+ #{"direct_detection_NMR_probe"},
+ "http://purl.obolibrary.org/obo/OBI_0000492" #{"Bruker_B-ACS_system"},
+ "http://purl.obolibrary.org/obo/OBI_0000493"
+ #{"rapid_resolution_column"},
+ "http://purl.obolibrary.org/obo/OBI_0000494"
+ #{"liquid_chromatography_autosampler"},
+ "http://purl.obolibrary.org/obo/OBI_0000495" #{"vacuum_degasser"},
+ "http://purl.obolibrary.org/obo/OBI_0000496" #{"capillary_column"},
+ "http://purl.obolibrary.org/obo/OBI_0000497" #{"sample_inlet"},
+ "http://purl.obolibrary.org/obo/OBI_0000498"
+ #{"NMR_tube_washing_system"},
+ "http://purl.obolibrary.org/obo/OBI_0000499" #{"NMR_console"},
+ "http://purl.obolibrary.org/obo/OBI_0000500"
+ #{"dual_loop_autosampler"},
+ "http://purl.obolibrary.org/obo/OBI_0000501"
+ #{"variable_wavelength_detector"},
+ "http://purl.obolibrary.org/obo/OBI_0000503"
+ #{"Bruker_LC-NMR_platform"},
+ "http://purl.obolibrary.org/obo/OBI_0000504"
+ #{"sample_injection_system"},
+ "http://purl.obolibrary.org/obo/OBI_0000505"
+ #{"multiple_wavelength_detector"},
+ "http://purl.obolibrary.org/obo/OBI_0000506"
+ #{"photoionization_detector"},
+ "http://purl.obolibrary.org/obo/OBI_0000507" #{"gas_generator"},
+ "http://purl.obolibrary.org/obo/OBI_0000508" #{"column_jacket"},
+ "http://purl.obolibrary.org/obo/OBI_0000509"
+ #{"electron_capture_detector"},
+ "http://purl.obolibrary.org/obo/OBI_0000510"
+ #{"reversed_phase_column"},
+ "http://purl.obolibrary.org/obo/OBI_0000511" #{"injector_lubricant"},
+ "http://purl.obolibrary.org/obo/OBI_0000512"
+ #{"isolation_of_cell_population"},
+ "http://purl.obolibrary.org/obo/OBI_0000513" #{"DISCOVERY_console"},
+ "http://purl.obolibrary.org/obo/OBI_0000514"
+ #{"Bruker_AMX_series_NMR_instrument"},
+ "http://purl.obolibrary.org/obo/OBI_0000515"
+ #{"chromatofocusing_column"},
+ "http://purl.obolibrary.org/obo/OBI_0000516" #{"NMR_probe"},
+ "http://purl.obolibrary.org/obo/OBI_0000517" #{"NMR_magnet"},
+ "http://purl.obolibrary.org/obo/OBI_0000518" #{"trap_column"},
+ "http://purl.obolibrary.org/obo/OBI_0000519" #{"flow_probe"},
+ "http://purl.obolibrary.org/obo/OBI_0000520"
+ #{"clinical_chemistry_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0000521"
+ #{"flame_ionization_detector"},
+ "http://purl.obolibrary.org/obo/OBI_0000522" #{"vial"},
+ "http://purl.obolibrary.org/obo/OBI_0000523"
+ #{"magic_angle_spinning_rotor"},
+ "http://purl.obolibrary.org/obo/OBI_0000524"
+ #{"Varian_VXR_spectrometer"},
+ "http://purl.obolibrary.org/obo/OBI_0000525"
+ #{"splitless_GC_injector"},
+ "http://purl.obolibrary.org/obo/OBI_0000526"
+ #{"preparative_autosampler"},
+ "http://purl.obolibrary.org/obo/OBI_0000527"
+ #{"flow_high_resolution_probe"},
+ "http://purl.obolibrary.org/obo/OBI_0000528"
+ #{"liquid_chromatography_valve"},
+ "http://purl.obolibrary.org/obo/OBI_0000529" #{"JEOL_NMR_probe"},
+ "http://purl.obolibrary.org/obo/OBI_0000530"
+ #{"Bruker_UltraShield_Plus_NMR_magnet"},
+ "http://purl.obolibrary.org/obo/OBI_0000531" #{"Bruker_CryoProbe"},
+ "http://purl.obolibrary.org/obo/OBI_0000532" #{"column_cartridge"},
+ "http://purl.obolibrary.org/obo/OBI_0000533" #{"affinity_column"},
+ "http://purl.obolibrary.org/obo/OBI_0000534"
+ #{"tecmag_NMR_instrument"},
+ "http://purl.obolibrary.org/obo/OBI_0000535"
+ #{"gel_filtration_column"},
+ "http://purl.obolibrary.org/obo/OBI_0000536" #{"fraction_collector"},
+ "http://purl.obolibrary.org/obo/OBI_0000537"
+ #{"copy_number_variation_profiling"},
+ "http://purl.obolibrary.org/obo/OBI_0000538" #{"in-line_filter"},
+ "http://purl.obolibrary.org/obo/OBI_0000539" #{"imaging_NMR_probe"},
+ "http://purl.obolibrary.org/obo/OBI_0000540"
+ #{"isolation_of_adherent_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0000541"
+ #{"Bruker_AC_series_NMR_instrument"},
+ "http://purl.obolibrary.org/obo/OBI_0000542"
+ #{"gas_chromatography_equipment"},
+ "http://purl.obolibrary.org/obo/OBI_0000543" #{"syringe_filter"},
+ "http://purl.obolibrary.org/obo/OBI_0000544"
+ #{"Bruker_SampleRail_system"},
+ "http://purl.obolibrary.org/obo/OBI_0000545" #{"column_compartment"},
+ "http://purl.obolibrary.org/obo/OBI_0000546"
+ #{"capillary_pump_system"},
+ "http://purl.obolibrary.org/obo/OBI_0000547"
+ #{"evaporative_light_scattering_detector"},
+ "http://purl.obolibrary.org/obo/OBI_0000548" #{"isolation_of_PBMCs"},
+ "http://purl.obolibrary.org/obo/OBI_0000549" #{"column_cartridger"},
+ "http://purl.obolibrary.org/obo/OBI_0000550" #{"nitrogen_generator"},
+ "http://purl.obolibrary.org/obo/OBI_0000551" #{"needle_assembly"},
+ "http://purl.obolibrary.org/obo/OBI_0000552"
+ #{"reverse_transcribed_polymerase_chain_reaction"},
+ "http://purl.obolibrary.org/obo/OBI_0000553"
+ #{"Bruker_Capillary_LC-NMR_platform"},
+ "http://purl.obolibrary.org/obo/OBI_0000554"
+ #{"gas_chromatography_oven"},
+ "http://purl.obolibrary.org/obo/OBI_0000555" #{"autosampler"},
+ "http://purl.obolibrary.org/obo/OBI_0000556"
+ #{"isocratic_pump_system"},
+ "http://purl.obolibrary.org/obo/OBI_0000557" #{"flash_pump_system"},
+ "http://purl.obolibrary.org/obo/OBI_0000558"
+ #{"Varian_UNITY_INOVA_spectrometer"},
+ "http://purl.obolibrary.org/obo/OBI_0000559" #{"liquid_NMR_probe"},
+ "http://purl.obolibrary.org/obo/OBI_0000560" #{"ion_exchange_column"},
+ "http://purl.obolibrary.org/obo/OBI_0000561" #{"Bruker_NMR_probe"},
+ "http://purl.obolibrary.org/obo/OBI_0000562" #{"anion_trap_column"},
+ "http://purl.obolibrary.org/obo/OBI_0000563"
+ #{"fluorescene_detector"},
+ "http://purl.obolibrary.org/obo/OBI_0000564" #{"tecmag_EAGLE_probe"},
+ "http://purl.obolibrary.org/obo/OBI_0000565"
+ #{"electrical_conductivity_detector"},
+ "http://purl.obolibrary.org/obo/OBI_0000566" #{"NMR_instrument"},
+ "http://purl.obolibrary.org/obo/OBI_0000567"
+ #{"Bruker_UltraShield_NMR_magnet"},
+ "http://purl.obolibrary.org/obo/OBI_0000568" #{"piston-seal"},
+ "http://purl.obolibrary.org/obo/OBI_0000569"
+ #{"mass_selective_detector"},
+ "http://purl.obolibrary.org/obo/OBI_0000570" #{"spin_column"},
+ "http://purl.obolibrary.org/obo/OBI_0000571" #{"manufacturer_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000572" #{"transfer_line"},
+ "http://purl.obolibrary.org/obo/OBI_0000573"
+ #{"gradient_pump_system"},
+ "http://purl.obolibrary.org/obo/OBI_0000574"
+ #{"high_temperature_column"},
+ "http://purl.obolibrary.org/obo/OBI_0000575"
+ #{"Bruker_Ultrastabilized_NMR_magnet"},
+ "http://purl.obolibrary.org/obo/OBI_0000576"
+ #{"scattered_molecular_aggregate"},
+ "http://purl.obolibrary.org/obo/OBI_0000577"
+ #{"obsolete_molecular_concentration"},
+ "http://purl.obolibrary.org/obo/OBI_0000578" #{"NMR_sample_tube"},
+ "http://purl.obolibrary.org/obo/OBI_0000579"
+ #{"Varian_UNITY_spectrometer"},
+ "http://purl.obolibrary.org/obo/OBI_0000580"
+ #{"AVANCE_II_spectrometer"},
+ "http://purl.obolibrary.org/obo/OBI_0000581" #{"y-column_connector"},
+ "http://purl.obolibrary.org/obo/OBI_0000582"
+ #{"Bruker_LC-NMR_MS_platform"},
+ "http://purl.obolibrary.org/obo/OBI_0000583"
+ #{"refractive_index_detector"},
+ "http://purl.obolibrary.org/obo/OBI_0000584"
+ #{"anion_exchange_column"},
+ "http://purl.obolibrary.org/obo/OBI_0000586" #{"plunger_column"},
+ "http://purl.obolibrary.org/obo/OBI_0000588"
+ #{"flame_photometric_detector"},
+ "http://purl.obolibrary.org/obo/OBI_0000589"
+ #{"chromatography_pump_system"},
+ "http://purl.obolibrary.org/obo/OBI_0000590"
+ #{"Bruker_1mm_MicroProbe"},
+ "http://purl.obolibrary.org/obo/OBI_0000591"
+ #{"Bruker_BEST_NMR_system"},
+ "http://purl.obolibrary.org/obo/OBI_0000592"
+ #{"chromatography_detector_filter"},
+ "http://purl.obolibrary.org/obo/OBI_0000593" #{"cation_trap_column"},
+ "http://purl.obolibrary.org/obo/OBI_0000594" #{"column_adapter"},
+ "http://purl.obolibrary.org/obo/OBI_0000595"
+ #{"pulsed_amperometric_detector"},
+ "http://purl.obolibrary.org/obo/OBI_0000596"
+ #{"Bruker_NMR_instrument"},
+ "http://purl.obolibrary.org/obo/OBI_0000597" #{"Bruker_NMR_magnet"},
+ "http://purl.obolibrary.org/obo/OBI_0000598"
+ #{"ozone-induced_chemiluminescence_detector"},
+ "http://purl.obolibrary.org/obo/OBI_0000599" #{"tecmag_NMR_console"},
+ "http://purl.obolibrary.org/obo/OBI_0000600" #{"JEOL_NMR_instrument"},
+ "http://purl.obolibrary.org/obo/OBI_0000601"
+ #{"chromatography_consumable"},
+ "http://purl.obolibrary.org/obo/OBI_0000602" #{"column_frit"},
+ "http://purl.obolibrary.org/obo/OBI_0000603"
+ #{"liquid_chromatography_column"},
+ "http://purl.obolibrary.org/obo/OBI_0000604" #{"detector_lamp"},
+ "http://purl.obolibrary.org/obo/OBI_0000605" #{"chart_recorder"},
+ "http://purl.obolibrary.org/obo/OBI_0000606" #{"open_tubular_column"},
+ "http://purl.obolibrary.org/obo/OBI_0000607"
+ #{"high_resolution_magic_angle_spin_probe"},
+ "http://purl.obolibrary.org/obo/OBI_0000608" #{"hydrogen_generator"},
+ "http://purl.obolibrary.org/obo/OBI_0000609" #{"glass_column"},
+ "http://purl.obolibrary.org/obo/OBI_0000610" #{"auto_injector"},
+ "http://purl.obolibrary.org/obo/OBI_0000611"
+ #{"Varian_NMR_instrument"},
+ "http://purl.obolibrary.org/obo/OBI_0000612"
+ #{"Bruker_MATCH_tube_holder_system"},
+ "http://purl.obolibrary.org/obo/OBI_0000613"
+ #{"Bruker_SPE-NMR_platform"},
+ "http://purl.obolibrary.org/obo/OBI_0000614" #{"guard_column"},
+ "http://purl.obolibrary.org/obo/OBI_0000615"
+ #{"protein_expression_profiling"},
+ "http://purl.obolibrary.org/obo/OBI_0000616"
+ #{"high_resolution_probe_with_automatic_tuning_and_matching"},
+ "http://purl.obolibrary.org/obo/OBI_0000617"
+ #{"fluorine-induced_chemiluminescence_detector"},
+ "http://purl.obolibrary.org/obo/OBI_0000618"
+ #{"size_exclusion_column"},
+ "http://purl.obolibrary.org/obo/OBI_0000619"
+ #{"chromatography_splitter"},
+ "http://purl.obolibrary.org/obo/OBI_0000620"
+ #{"Bruker_micro_imaging_probe"},
+ "http://purl.obolibrary.org/obo/OBI_0000621" #{"custom_made_column"},
+ "http://purl.obolibrary.org/obo/OBI_0000622"
+ #{"gel_permeation_column"},
+ "http://purl.obolibrary.org/obo/OBI_0000623" #{"NMR_spectroscopy"},
+ "http://purl.obolibrary.org/obo/OBI_0000624"
+ #{"Bruker_SampleJet_system"},
+ "http://purl.obolibrary.org/obo/OBI_0000625"
+ #{"JEOL_ECX_NMR_spectrometer"},
+ "http://purl.obolibrary.org/obo/OBI_0000626" #{"DNA_sequencing"},
+ "http://purl.obolibrary.org/obo/OBI_0000627"
+ #{"quaternary_pump_system"},
+ "http://purl.obolibrary.org/obo/OBI_0000628"
+ #{"carbon_nanotube_column"},
+ "http://purl.obolibrary.org/obo/OBI_0000629"
+ #{"Bruker_solid_magic_angle_spinning_probe"},
+ "http://purl.obolibrary.org/obo/OBI_0000630" #{"hematology"},
+ "http://purl.obolibrary.org/obo/OBI_0000631"
+ #{"Varian_MERCURY_spectrometer"},
+ "http://purl.obolibrary.org/obo/OBI_0000632"
+ #{"Bruker_Metabolic_Profiler"},
+ "http://purl.obolibrary.org/obo/OBI_0000633" #{"column_heater"},
+ "http://purl.obolibrary.org/obo/OBI_0000634"
+ #{"DNA_methylation_profiling_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0000635" #{"JEOL_CapNMR_probe"},
+ "http://purl.obolibrary.org/obo/OBI_0000636"
+ #{"acquisition_computer"},
+ "http://purl.obolibrary.org/obo/OBI_0000637"
+ #{"gas_chromatography_detector"},
+ "http://purl.obolibrary.org/obo/OBI_0000638" #{"gas_purifier"},
+ "http://purl.obolibrary.org/obo/OBI_0000639"
+ #{"material_separation_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0000640"
+ #{"indirect_detection_probe"},
+ "http://purl.obolibrary.org/obo/OBI_0000641"
+ #{"JEOL_ECA_NMR_spectrometer"},
+ "http://purl.obolibrary.org/obo/OBI_0000642"
+ #{"atomic_emission_detector"},
+ "http://purl.obolibrary.org/obo/OBI_0000643" #{"has_grain"},
+ "http://purl.obolibrary.org/obo/OBI_0000644"
+ #{"obsoleted_is_specified_information_intput_of"},
+ "http://purl.obolibrary.org/obo/OBI_0000645" #{"is_grain_of"},
+ "http://purl.obolibrary.org/obo/OBI_0000646" #{"supplies"},
+ "http://purl.obolibrary.org/obo/OBI_0000647" #{"has_supplier"},
+ "http://purl.obolibrary.org/obo/OBI_0000648" #{"clustered_data_set"},
+ "http://purl.obolibrary.org/obo/OBI_0000649"
+ #{"data_set_of_features"},
+ "http://purl.obolibrary.org/obo/OBI_0000650"
+ #{"differential_expression_analysis_data_transformation"},
+ "http://purl.obolibrary.org/obo/OBI_0000651" #{"urine_specimen"},
+ "http://purl.obolibrary.org/obo/OBI_0000652"
+ #{"material_combination"},
+ "http://purl.obolibrary.org/obo/OBI_0000653"
+ #{"fuzzy_clustering_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0000654" #{"device_setting"},
+ "http://purl.obolibrary.org/obo/OBI_0000655" #{"blood_specimen"},
+ "http://purl.obolibrary.org/obo/OBI_0000656"
+ #{"data_set_of_predicted_values_according_to_fitted_curve"},
+ "http://purl.obolibrary.org/obo/OBI_0000658"
+ #{"data_representational_model"},
+ "http://purl.obolibrary.org/obo/OBI_0000659" #{"specimen_collection"},
+ "http://purl.obolibrary.org/obo/OBI_0000660"
+ #{"background_corrected_data_set"},
+ "http://purl.obolibrary.org/obo/OBI_0000661" #{"ELISA"},
+ "http://purl.obolibrary.org/obo/OBI_0000662"
+ #{"error_corrected_data_set"},
+ "http://purl.obolibrary.org/obo/OBI_0000663"
+ #{"class_prediction_data_transformation"},
+ "http://purl.obolibrary.org/obo/OBI_0000664"
+ #{"BrdU_incorporation_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0000665"
+ #{"intracellular_cytokine_staining_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0000666"
+ #{"background_correction_data_transformation"},
+ "http://purl.obolibrary.org/obo/OBI_0000667"
+ #{"MHC_multimer_staining_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0000668"
+ #{"error_correction_data_transformation"},
+ "http://purl.obolibrary.org/obo/OBI_0000669"
+ #{"tritiated_thymidine_incorporation_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0000671"
+ #{"sample_from_organism"},
+ "http://purl.obolibrary.org/obo/OBI_0000673"
+ #{"statistical_hypothesis_test"},
+ "http://purl.obolibrary.org/obo/OBI_0000674" #{"center_value"},
+ "http://purl.obolibrary.org/obo/OBI_0000675"
+ #{"statistical_hypothesis_test_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0000676"
+ #{"reduced_dimension_data_set"},
+ "http://purl.obolibrary.org/obo/OBI_0000678"
+ #{"portioning_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0000679" #{"average_value"},
+ "http://purl.obolibrary.org/obo/OBI_0000680"
+ #{"whole_organism_preparation"},
+ "http://purl.obolibrary.org/obo/OBI_0000681"
+ #{"separation_into_different_composition_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0000682"
+ #{"obsolete_study_result"},
+ "http://purl.obolibrary.org/obo/OBI_0000684"
+ #{"specimen_creation_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0000685"
+ #{"creating_a_mixture_of_molecules_in_solution"},
+ "http://purl.obolibrary.org/obo/OBI_0000686"
+ #{"material_combination_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0000687"
+ #{"nucleotide_overhang_cloning"},
+ "http://purl.obolibrary.org/obo/OBI_0000688"
+ #{"rodent_care_protocol"},
+ "http://purl.obolibrary.org/obo/OBI_0000689"
+ #{"_454_Genome_Sequence_20"},
+ "http://purl.obolibrary.org/obo/OBI_0000690" #{"immunoprecipitation"},
+ "http://purl.obolibrary.org/obo/OBI_0000691"
+ #{"ABI_377_automated_sequencer"},
+ "http://purl.obolibrary.org/obo/OBI_0000692"
+ #{"recombination_enzyme_based_cloning"},
+ "http://purl.obolibrary.org/obo/OBI_0000693" #{"MeDIP-SEQ_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0000694" #{"animal_feeding"},
+ "http://purl.obolibrary.org/obo/OBI_0000695"
+ #{"chain_termination_sequencing"},
+ "http://purl.obolibrary.org/obo/OBI_0000696" #{"AB_SOLiD_System"},
+ "http://purl.obolibrary.org/obo/OBI_0000697" #{"Helicos_sequencing"},
+ "http://purl.obolibrary.org/obo/OBI_0000698" #{"obsolete_DNA_ligase"},
+ "http://purl.obolibrary.org/obo/OBI_0000699" #{"survival_assessment"},
+ "http://purl.obolibrary.org/obo/OBI_0000700"
+ #{"support_vector_machine"},
+ "http://purl.obolibrary.org/obo/OBI_0000701" #{"self-organizing_map"},
+ "http://purl.obolibrary.org/obo/OBI_0000702"
+ #{"_454_Genome_Sequencer_FLX"},
+ "http://purl.obolibrary.org/obo/OBI_0000703"
+ #{"Illumina_Genome_Analyzer_II"},
+ "http://purl.obolibrary.org/obo/OBI_0000704"
+ #{"decision_tree_induction_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0000705" #{"Edman_degradation"},
+ "http://purl.obolibrary.org/obo/OBI_0000706" #{"SOLiD_sequencing"},
+ "http://purl.obolibrary.org/obo/OBI_0000707"
+ #{"decision_tree_building_data_transformation"},
+ "http://purl.obolibrary.org/obo/OBI_0000708"
+ #{"laboratory_animal_care"},
+ "http://purl.obolibrary.org/obo/OBI_0000709"
+ #{"yeast_artificial_chromosome_vector"},
+ "http://purl.obolibrary.org/obo/OBI_0000710"
+ #{"Li-Cor_4300_DNA_Analysis_System"},
+ "http://purl.obolibrary.org/obo/OBI_0000711" #{"library_preparation"},
+ "http://purl.obolibrary.org/obo/OBI_0000712" #{"pathogen_challenge"},
+ "http://purl.obolibrary.org/obo/OBI_0000713"
+ #{"GenePattern_software"},
+ "http://purl.obolibrary.org/obo/OBI_0000714" #{"graph_of_vertices"},
+ "http://purl.obolibrary.org/obo/OBI_0000715"
+ #{"animal_care_protocol"},
+ "http://purl.obolibrary.org/obo/OBI_0000716" #{"ChIP-seq_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0000717"
+ #{"HeliScope_Single_Molecule_Sequencer"},
+ "http://purl.obolibrary.org/obo/OBI_0000718" #{"pathogen_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000719" #{"vaccine_preparation"},
+ "http://purl.obolibrary.org/obo/OBI_0000720"
+ #{"immunologic_adjuvant_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000721"
+ #{"glucose_tolerance_test"},
+ "http://purl.obolibrary.org/obo/OBI_0000722" #{"paired-end_library"},
+ "http://purl.obolibrary.org/obo/OBI_0000723"
+ #{"DNA_sequencing_by_ligation"},
+ "http://purl.obolibrary.org/obo/OBI_0000724" #{"Solexa_sequencing"},
+ "http://purl.obolibrary.org/obo/OBI_0000725" #{"host_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000726" #{"peak_matching"},
+ "http://purl.obolibrary.org/obo/OBI_0000727" #{"k-nearest_neighbors"},
+ "http://purl.obolibrary.org/obo/OBI_0000728" #{"rodent_care"},
+ "http://purl.obolibrary.org/obo/OBI_0000729" #{"cloning_plasmid"},
+ "http://purl.obolibrary.org/obo/OBI_0000730" #{"pyrosequencing"},
+ "http://purl.obolibrary.org/obo/OBI_0000731" #{"recombinant_vector"},
+ "http://purl.obolibrary.org/obo/OBI_0000732" #{"restriction_enzyme"},
+ "http://purl.obolibrary.org/obo/OBI_0000734"
+ #{"DNA_sequencing_by_synthesis"},
+ "http://purl.obolibrary.org/obo/OBI_0000735" #{"NTP-2000"},
+ "http://purl.obolibrary.org/obo/OBI_0000736"
+ #{"single_fragment_library"},
+ "http://purl.obolibrary.org/obo/OBI_0000737" #{"cloning_vector"},
+ "http://purl.obolibrary.org/obo/OBI_0000738"
+ #{"restriction_enzyme_based_cloning"},
+ "http://purl.obolibrary.org/obo/OBI_0000739" #{"Student's_t-test"},
+ "http://purl.obolibrary.org/obo/OBI_0000740"
+ #{"material_sample_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000741"
+ #{"topologically_preserved_clustered_data_set"},
+ "http://purl.obolibrary.org/obo/OBI_0000742"
+ #{"nucleic_acid_restriction_enzyme_digest"},
+ "http://purl.obolibrary.org/obo/OBI_0000743"
+ #{"immune_response_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0000744"
+ #{"material_sampling_process"},
+ "http://purl.obolibrary.org/obo/OBI_0000747" #{"material_sample"},
+ "http://purl.obolibrary.org/obo/OBI_0000748"
+ #{"bisulfite_sequencing"},
+ "http://purl.obolibrary.org/obo/OBI_0000749" #{"CART"},
+ "http://purl.obolibrary.org/obo/OBI_0000750"
+ #{"independent_variable_specification"},
+ "http://purl.obolibrary.org/obo/OBI_0000751"
+ #{"dependent_variable_specification"},
+ "http://purl.obolibrary.org/obo/OBI_0000752" #{"Thermo"},
+ "http://purl.obolibrary.org/obo/OBI_0000753" #{"Waters"},
+ "http://purl.obolibrary.org/obo/OBI_0000754" #{"BIO-RAD"},
+ "http://purl.obolibrary.org/obo/OBI_0000755"
+ #{"GenePattern_hierarchical_clustering"},
+ "http://purl.obolibrary.org/obo/OBI_0000756" #{"Ambion"},
+ "http://purl.obolibrary.org/obo/OBI_0000757" #{"Helicos"},
+ "http://purl.obolibrary.org/obo/OBI_0000758" #{"Roche"},
+ "http://purl.obolibrary.org/obo/OBI_0000759" #{"Illumina"},
+ "http://purl.obolibrary.org/obo/OBI_0000760" #{"GenePattern_PCA"},
+ "http://purl.obolibrary.org/obo/OBI_0000761"
+ #{"GenePattern_module_SVM"},
+ "http://purl.obolibrary.org/obo/OBI_0000762"
+ #{"GenePattern_k-nearest_neighbors"},
+ "http://purl.obolibrary.org/obo/OBI_0000763" #{"GenePattern_LOOCV"},
+ "http://purl.obolibrary.org/obo/OBI_0000764"
+ #{"GenePattern_k-means_clustering"},
+ "http://purl.obolibrary.org/obo/OBI_0000765" #{"Agilent"},
+ "http://purl.obolibrary.org/obo/OBI_0000766"
+ #{"GenePattern_module_KMeansClustering"},
+ "http://purl.obolibrary.org/obo/OBI_0000767" #{"GenePattern_CART"},
+ "http://purl.obolibrary.org/obo/OBI_0000768"
+ #{"GenePattern_module_CARTXValidation"},
+ "http://purl.obolibrary.org/obo/OBI_0000769" #{"Li-Cor"},
+ "http://purl.obolibrary.org/obo/OBI_0000770" #{"Bruker_Corporation"},
+ "http://purl.obolibrary.org/obo/OBI_0000771"
+ #{"GenePattern_module_KNNXValidation"},
+ "http://purl.obolibrary.org/obo/OBI_0000772"
+ #{"GenePattern_module_PeakMatch"},
+ "http://purl.obolibrary.org/obo/OBI_0000773"
+ #{"GenePattern_module_KNN"},
+ "http://purl.obolibrary.org/obo/OBI_0000774"
+ #{"GenePattern_module_HierarchicalClustering"},
+ "http://purl.obolibrary.org/obo/OBI_0000775" #{"GenePattern_SVM"},
+ "http://purl.obolibrary.org/obo/OBI_0000776" #{"Applied_Biosystems"},
+ "http://purl.obolibrary.org/obo/OBI_0000777"
+ #{"GenePattern_module_PCA"},
+ "http://purl.obolibrary.org/obo/OBI_0000778"
+ #{"GenePattern_peak_matching"},
+ "http://purl.obolibrary.org/obo/OBI_0000779" #{"Bruker_Daltonics"},
+ "http://purl.obolibrary.org/obo/OBI_0000780"
+ #{"GenePattern_HeatMapViewer_data_visualization"},
+ "http://purl.obolibrary.org/obo/OBI_0000781"
+ #{"GenePattern_HierarchicalClusteringViewer_data_visualization"},
+ "http://purl.obolibrary.org/obo/OBI_0000782"
+ #{"GenePattern_module_HeatMapViewer"},
+ "http://purl.obolibrary.org/obo/OBI_0000783"
+ #{"GenePattern_module_HierarchicalClusteringViewer"},
+ "http://purl.obolibrary.org/obo/OBI_0000784"
+ #{"anticoagulant-containing_test_tube"},
+ "http://purl.obolibrary.org/obo/OBI_0000785"
+ #{"controlled_variable_specification"},
+ "http://purl.obolibrary.org/obo/OBI_0000787"
+ #{"human_antithrombin-III__AT-III__in_blood_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0000788"
+ #{"fluorescently_labeled_MHC_multimer"},
+ "http://purl.obolibrary.org/obo/OBI_0000789" #{"survival_rate"},
+ "http://purl.obolibrary.org/obo/OBI_0000790"
+ #{"recombinant_BAC_cloning"},
+ "http://purl.obolibrary.org/obo/OBI_0000791"
+ #{"multiple_testing_correction_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0000792"
+ #{"statistical_model_validation"},
+ "http://purl.obolibrary.org/obo/OBI_0000793"
+ #{"double_blind_study_execution"},
+ "http://purl.obolibrary.org/obo/OBI_0000794"
+ #{"transcription_factor_binding_site"},
+ "http://purl.obolibrary.org/obo/OBI_0000795" #{"glucometer"},
+ "http://purl.obolibrary.org/obo/OBI_0000796"
+ #{"purification_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0000797"
+ #{"obsolete_primary_structure_of_protein"},
+ "http://purl.obolibrary.org/obo/OBI_0000798" #{"capsule_shell"},
+ "http://purl.obolibrary.org/obo/OBI_0000799"
+ #{"recombinant_phage_cloning"},
+ "http://purl.obolibrary.org/obo/OBI_0000800" #{"cross_linking"},
+ "http://purl.obolibrary.org/obo/OBI_0000801" #{"spike_train_datum"},
+ "http://purl.obolibrary.org/obo/OBI_0000802"
+ #{"prothrombin_time_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0000803" #{"denaturing"},
+ "http://purl.obolibrary.org/obo/OBI_0000804"
+ #{"informing_investigator_of_subject_study_arm"},
+ "http://purl.obolibrary.org/obo/OBI_0000805"
+ #{"antithrombin-III__AT-III__berichrome_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0000806"
+ #{"material_maintenance_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0000807"
+ #{"presentation_of_stimulus"},
+ "http://purl.obolibrary.org/obo/OBI_0000808"
+ #{"spectrolyse_heparin_antifactor-Xa_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0000809" #{"amplified_DNA"},
+ "http://purl.obolibrary.org/obo/OBI_0000810"
+ #{"informed_consent_process"},
+ "http://purl.obolibrary.org/obo/OBI_0000811"
+ #{"primary_structure_of_DNA_macromolecule"},
+ "http://purl.obolibrary.org/obo/OBI_0000812"
+ #{"measuring_neural_activity_in_the_caudate_nucleus"},
+ "http://purl.obolibrary.org/obo/OBI_0000813"
+ #{"to_be_treated_with_active_ingredient_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000814" #{"guar_gum"},
+ "http://purl.obolibrary.org/obo/OBI_0000815"
+ #{"Berichrom_r__Antithrombin_III__A__Kit"},
+ "http://purl.obolibrary.org/obo/OBI_0000816" #{"micro_electrode"},
+ "http://purl.obolibrary.org/obo/OBI_0000817" #{"fucoidan"},
+ "http://purl.obolibrary.org/obo/OBI_0000818" #{"calibration"},
+ "http://purl.obolibrary.org/obo/OBI_0000819"
+ #{"anticoagulant_tube_storage_of_blood_specimen"},
+ "http://purl.obolibrary.org/obo/OBI_0000820"
+ #{"activated_partial_thromboplastin_time__aPTT__assay"},
+ "http://purl.obolibrary.org/obo/OBI_0000821" #{"filled_capsule"},
+ "http://purl.obolibrary.org/obo/OBI_0000822"
+ #{"single_blind_study_execution"},
+ "http://purl.obolibrary.org/obo/OBI_0000823" #{"thrombin_time_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0000824"
+ #{"recombinant_YAC_cloning"},
+ "http://purl.obolibrary.org/obo/OBI_0000825"
+ #{"to_be_treated_with_placebo_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000826"
+ #{"treatment_portion_of_study_execution"},
+ "http://purl.obolibrary.org/obo/OBI_0000827" #{"pill"},
+ "http://purl.obolibrary.org/obo/OBI_0000828"
+ #{"research_organization"},
+ "http://purl.obolibrary.org/obo/OBI_0000829"
+ #{"Sysmex_Corporation,_Kobe,_Japan"},
+ "http://purl.obolibrary.org/obo/OBI_0000830"
+ #{"obsolete_primary_structure_of_sequence_macromolecule"},
+ "http://purl.obolibrary.org/obo/OBI_0000831"
+ #{"DNA_residue_methylation"},
+ "http://purl.obolibrary.org/obo/OBI_0000832" #{"measurement_device"},
+ "http://purl.obolibrary.org/obo/OBI_0000833"
+ #{"objective_achieved_by"},
+ "http://purl.obolibrary.org/obo/OBI_0000834"
+ #{"high_molecular_weight_DNA_extract"},
+ "http://purl.obolibrary.org/obo/OBI_0000835" #{"manufacturer"},
+ "http://purl.obolibrary.org/obo/OBI_0000836" #{"test_tube"},
+ "http://purl.obolibrary.org/obo/OBI_0000837"
+ #{"oral_ingestion_of_pill"},
+ "http://purl.obolibrary.org/obo/OBI_0000838"
+ #{"material_maintenance"},
+ "http://purl.obolibrary.org/obo/OBI_0000839"
+ #{"labeled_oligonucleotide"},
+ "http://purl.obolibrary.org/obo/OBI_0000840" #{"unblinding_process"},
+ "http://purl.obolibrary.org/obo/OBI_0000841"
+ #{"subject_agrees_they_understand_informed_consent_document"},
+ "http://purl.obolibrary.org/obo/OBI_0000842"
+ #{"informing_subject_of_study_arm"},
+ "http://purl.obolibrary.org/obo/OBI_0000843"
+ #{"Sysmex_CA-6000_Coagulation_Analyzer"},
+ "http://purl.obolibrary.org/obo/OBI_0000844" #{"hospital"},
+ "http://purl.obolibrary.org/obo/OBI_0000845"
+ #{"primary_structure_of_RNA_molecule"},
+ "http://purl.obolibrary.org/obo/OBI_0000846"
+ #{"is_member_of_organization"},
+ "http://purl.obolibrary.org/obo/OBI_0000847" #{"test_substance_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000848"
+ #{"polyA_RNA_extraction"},
+ "http://purl.obolibrary.org/obo/OBI_0000849"
+ #{"organellar_RNA_extraction"},
+ "http://purl.obolibrary.org/obo/OBI_0000850"
+ #{"obsolete_the_manufacturer_role_of_Agilent"},
+ "http://purl.obolibrary.org/obo/OBI_0000851"
+ #{"obsolete_diethyl_pyrocarbonate"},
+ "http://purl.obolibrary.org/obo/OBI_0000852"
+ #{"record_of_missing_knowledge"},
+ "http://purl.obolibrary.org/obo/OBI_0000853"
+ #{"obsolete_manufacturer_role_of_Bruker_Daltonics"},
+ "http://purl.obolibrary.org/obo/OBI_0000854"
+ #{"western_blot_analysis"},
+ "http://purl.obolibrary.org/obo/OBI_0000855"
+ #{"total_RNA_extraction"},
+ "http://purl.obolibrary.org/obo/OBI_0000856"
+ #{"intracellular_material_detection_by_flow_cytometry_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0000857"
+ #{"complementary_nucleotide_probe_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000858"
+ #{"record_of_unknown_sex"},
+ "http://purl.obolibrary.org/obo/OBI_0000859"
+ #{"cytoplasmic_RNA_extraction"},
+ "http://purl.obolibrary.org/obo/OBI_0000860"
+ #{"northern_blot_analysis"},
+ "http://purl.obolibrary.org/obo/OBI_0000861"
+ #{"Likelihood-ratio_test"},
+ "http://purl.obolibrary.org/obo/OBI_0000862" #{"nuclear_RNA_extract"},
+ "http://purl.obolibrary.org/obo/OBI_0000863"
+ #{"obsolete_the_manufacturer_role_of_Thermo"},
+ "http://purl.obolibrary.org/obo/OBI_0000864"
+ #{"obsolete_the_manufacturer_role_of_Li-Cor"},
+ "http://purl.obolibrary.org/obo/OBI_0000865"
+ #{"_96-well_neutralization_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0000866"
+ #{"obsolete_the_manufacturer_role_of_Roche"},
+ "http://purl.obolibrary.org/obo/OBI_0000867"
+ #{"establishing_a_cancer_cell_line"},
+ "http://purl.obolibrary.org/obo/OBI_0000868"
+ #{"pattern_matching_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0000869" #{"polyA_RNA_extract"},
+ "http://purl.obolibrary.org/obo/OBI_0000870"
+ #{"single-nucleotide-resolution_nucleic_acid_structure_mapping_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0000871"
+ #{"viral_hemagglutination_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0000872"
+ #{"serum_neutralization_of_viral_infectivity_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0000873" #{"pre-mortem_specimen"},
+ "http://purl.obolibrary.org/obo/OBI_0000874"
+ #{"detection_of_specific_nucleic_acids_with_complementary_probes"},
+ "http://purl.obolibrary.org/obo/OBI_0000875"
+ #{"viral_hemagglutination_inhibition_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0000876"
+ #{"cytoplasmic_RNA_extract"},
+ "http://purl.obolibrary.org/obo/OBI_0000877"
+ #{"cell_line_immortalization"},
+ "http://purl.obolibrary.org/obo/OBI_0000878"
+ #{"obsolete_the_manufacturer_role_of_Ambion"},
+ "http://purl.obolibrary.org/obo/OBI_0000879"
+ #{"random_primed_DNA_labeling"},
+ "http://purl.obolibrary.org/obo/OBI_0000880" #{"RNA_extract"},
+ "http://purl.obolibrary.org/obo/OBI_0000881"
+ #{"obsolete_the_manufacturer_role_of_BIO-RAD"},
+ "http://purl.obolibrary.org/obo/OBI_0000882"
+ #{"cell_mediated_cell_killing_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0000883"
+ #{"in_vivo_cell_mediated_cell_killing_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0000884"
+ #{"obsolete_the_regulator_role_of_the_FDA"},
+ "http://purl.obolibrary.org/obo/OBI_0000885"
+ #{"secondary_structure_of_sequence_macromolecule"},
+ "http://purl.obolibrary.org/obo/OBI_0000886"
+ #{"obsolete_the_manufacturer_role_of_Illumina"},
+ "http://purl.obolibrary.org/obo/OBI_0000887"
+ #{"obsolete_the_manufacturer_role_of_Helicos"},
+ "http://purl.obolibrary.org/obo/OBI_0000888"
+ #{"nuclear_RNA_extraction"},
+ "http://purl.obolibrary.org/obo/OBI_0000889" #{"survival_curve"},
+ "http://purl.obolibrary.org/obo/OBI_0000890"
+ #{"obsolete_manufacturer_role_of_Bruker_Corporation"},
+ "http://purl.obolibrary.org/obo/OBI_0000891"
+ #{"cell_proliferation_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0000892"
+ #{"Southern_blot_analysis"},
+ "http://purl.obolibrary.org/obo/OBI_0000893"
+ #{"real_time_polymerase_chain_reaction_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0000894" #{"protein_extract"},
+ "http://purl.obolibrary.org/obo/OBI_0000895" #{"total_RNA_extract"},
+ "http://purl.obolibrary.org/obo/OBI_0000896"
+ #{"secondary_structure_of_RNA_molecule"},
+ "http://purl.obolibrary.org/obo/OBI_0000897"
+ #{"DEPC_structure_mapping_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0000898"
+ #{"obsolete_the_manufacturer_role_of_Waters"},
+ "http://purl.obolibrary.org/obo/OBI_0000899"
+ #{"organellar_RNA_extract"},
+ "http://purl.obolibrary.org/obo/OBI_0000900"
+ #{"obsolete_manufacturer_role_of_applied_biosystems"},
+ "http://purl.obolibrary.org/obo/OBI_0000901"
+ #{"U.S._Food_and_Drug_Administration"},
+ "http://purl.obolibrary.org/obo/OBI_0000902"
+ #{"post_mortem_specimen"},
+ "http://purl.obolibrary.org/obo/OBI_0000903"
+ #{"in_vitro_cell_mediated_cell_killing_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0000904"
+ #{"cell_culture_analyte_detection_bioassay"},
+ "http://purl.obolibrary.org/obo/OBI_0000905"
+ #{"sequence_feature_annotation"},
+ "http://purl.obolibrary.org/obo/OBI_0000906"
+ #{"induced_hemagglutination"},
+ "http://purl.obolibrary.org/obo/OBI_0000907" #{"supplying"},
+ "http://purl.obolibrary.org/obo/OBI_0000908" #{"labeled_DNA_extract"},
+ "http://purl.obolibrary.org/obo/OBI_0000909" #{"cloacal_specimen"},
+ "http://purl.obolibrary.org/obo/OBI_0000910" #{"radio_immuno_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0000911"
+ #{"real_time_reverse-transcription_polymerase_chain_reaction__assay"},
+ "http://purl.obolibrary.org/obo/OBI_0000912"
+ #{"X-ray_crystallography_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0000913"
+ #{"promoter_activity_detection_by_reporter_gene_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0000914"
+ #{"nasopharyngeal_aspirate_specimen"},
+ "http://purl.obolibrary.org/obo/OBI_0000915" #{"freezing_storage"},
+ "http://purl.obolibrary.org/obo/OBI_0000916"
+ #{"flow_cytometry_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0000917" #{"nasal_swab_specimen"},
+ "http://purl.obolibrary.org/obo/OBI_0000918"
+ #{"Dulbecco's_modified_Eagle_medium"},
+ "http://purl.obolibrary.org/obo/OBI_0000919"
+ #{"animal_euthanization"},
+ "http://purl.obolibrary.org/obo/OBI_0000920"
+ #{"cytometric_bead_array_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0000921" #{"labeled_RNA_extract"},
+ "http://purl.obolibrary.org/obo/OBI_0000922" #{"frozen_specimen"},
+ "http://purl.obolibrary.org/obo/OBI_0000923"
+ #{"surface_plasmon_resonance_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0000924" #{"labeled_specimen"},
+ "http://purl.obolibrary.org/obo/OBI_0000925" #{"infectious_agent"},
+ "http://purl.obolibrary.org/obo/OBI_0000926"
+ #{"obsolete_ambidexterious_handedness"},
+ "http://purl.obolibrary.org/obo/OBI_0000927"
+ #{"lyophilization_storage"},
+ "http://purl.obolibrary.org/obo/OBI_0000928"
+ #{"material_combination_function"},
+ "http://purl.obolibrary.org/obo/OBI_0000929"
+ #{"obsolete_training_service_provider_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000930" #{"calorimeter"},
+ "http://purl.obolibrary.org/obo/OBI_0000931" #{"study_intervention"},
+ "http://purl.obolibrary.org/obo/OBI_0000932"
+ #{"material_separation_device"},
+ "http://purl.obolibrary.org/obo/OBI_0000933"
+ #{"positron_emission_tomography_scanner"},
+ "http://purl.obolibrary.org/obo/OBI_0000934"
+ #{"intramuscular_injection"},
+ "http://purl.obolibrary.org/obo/OBI_0000935" #{"micromanipulator"},
+ "http://purl.obolibrary.org/obo/OBI_0000936"
+ #{"obsolete_material_access_provider_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000937"
+ #{"obsolete_left_handedness"},
+ "http://purl.obolibrary.org/obo/OBI_0000938"
+ #{"categorical_measurement_datum"},
+ "http://purl.obolibrary.org/obo/OBI_0000939" #{"training_process"},
+ "http://purl.obolibrary.org/obo/OBI_0000940" #{"optical_microscope"},
+ "http://purl.obolibrary.org/obo/OBI_0000941"
+ #{"service_consumer_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000942"
+ #{"intradermal_injection"},
+ "http://purl.obolibrary.org/obo/OBI_0000943" #{"chemical_cleavage"},
+ "http://purl.obolibrary.org/obo/OBI_0000944" #{"handedness_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0000945"
+ #{"vibration_isolation_table"},
+ "http://purl.obolibrary.org/obo/OBI_0000946"
+ #{"sterilization_function"},
+ "http://purl.obolibrary.org/obo/OBI_0000947"
+ #{"service_provider_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000948" #{"oscilloscope"},
+ "http://purl.obolibrary.org/obo/OBI_0000949"
+ #{"accessed_material_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000950" #{"paraffin_specimen"},
+ "http://purl.obolibrary.org/obo/OBI_0000951"
+ #{"compound_treatment_design"},
+ "http://purl.obolibrary.org/obo/OBI_0000952" #{"oral_administration"},
+ "http://purl.obolibrary.org/obo/OBI_0000953" #{"processed_specimen"},
+ "http://purl.obolibrary.org/obo/OBI_0000954"
+ #{"subcutaneous_injection"},
+ "http://purl.obolibrary.org/obo/OBI_0000955" #{"electrode_puller"},
+ "http://purl.obolibrary.org/obo/OBI_0000956" #{"obsolete_handedness"},
+ "http://purl.obolibrary.org/obo/OBI_0000957"
+ #{"self_reported_handedness_assessment"},
+ "http://purl.obolibrary.org/obo/OBI_0000958" #{"right_handed"},
+ "http://purl.obolibrary.org/obo/OBI_0000959" #{"vibrotome"},
+ "http://purl.obolibrary.org/obo/OBI_0000960"
+ #{"reagent_application_function"},
+ "http://purl.obolibrary.org/obo/OBI_0000961"
+ #{"addition_of_molecular_tracer_function"},
+ "http://purl.obolibrary.org/obo/OBI_0000962" #{"training_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0000963" #{"categorical_label"},
+ "http://purl.obolibrary.org/obo/OBI_0000964" #{"in_live_cell_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0000965"
+ #{"lyophilized_specimen"},
+ "http://purl.obolibrary.org/obo/OBI_0000966"
+ #{"in_live_organism_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0000967" #{"container"},
+ "http://purl.obolibrary.org/obo/OBI_0000968" #{"device"},
+ "http://purl.obolibrary.org/obo/OBI_0000969" #{"dose_specification"},
+ "http://purl.obolibrary.org/obo/OBI_0000970"
+ #{"scalar_score_from_composite_inputs"},
+ "http://purl.obolibrary.org/obo/OBI_0000971" #{"fresh_specimen"},
+ "http://purl.obolibrary.org/obo/OBI_0000972"
+ #{"obsolete_electrically_powered_device"},
+ "http://purl.obolibrary.org/obo/OBI_0000973" #{"sequence_data"},
+ "http://purl.obolibrary.org/obo/OBI_0000974"
+ #{"obsolete_right_handedness"},
+ "http://purl.obolibrary.org/obo/OBI_0000975"
+ #{"cell-cell_binding_detection_by_flow_cytometry_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0000976"
+ #{"handedness_categorical_measurement_datum"},
+ "http://purl.obolibrary.org/obo/OBI_0000977" #{"paraffin_storage"},
+ "http://purl.obolibrary.org/obo/OBI_0000978" #{"in_container_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0000979" #{"ambidexterous"},
+ "http://purl.obolibrary.org/obo/OBI_0000980"
+ #{"obsolete_protocol_service_provider_role"},
+ "http://purl.obolibrary.org/obo/OBI_0000981" #{"agar_stab_specimen"},
+ "http://purl.obolibrary.org/obo/OBI_0000982"
+ #{"computed_tomography_scanner"},
+ "http://purl.obolibrary.org/obo/OBI_0000983"
+ #{"intranasal_mucosal_administration"},
+ "http://purl.obolibrary.org/obo/OBI_0000984" #{"dose"},
+ "http://purl.obolibrary.org/obo/OBI_0000985"
+ #{"growth_condition_intervention_design"},
+ "http://purl.obolibrary.org/obo/OBI_0000986"
+ #{"obsolete_DNA_sequencing_training_service"},
+ "http://purl.obolibrary.org/obo/OBI_0000987"
+ #{"obsolete_general_scalar_measurement_datum"},
+ "http://purl.obolibrary.org/obo/OBI_0000988"
+ #{"performing_a_diagnosis"},
+ "http://purl.obolibrary.org/obo/OBI_0000989" #{"PCR_instrument"},
+ "http://purl.obolibrary.org/obo/OBI_0000990" #{"electron_microscope"},
+ "http://purl.obolibrary.org/obo/OBI_0000991" #{"Edinburgh_score"},
+ "http://purl.obolibrary.org/obo/OBI_0000992"
+ #{"DNA_sequencing_service"},
+ "http://purl.obolibrary.org/obo/OBI_0000993"
+ #{"service_provision_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0000994"
+ #{"intravenous_injection"},
+ "http://purl.obolibrary.org/obo/OBI_0000995"
+ #{"administration_of_material_to_specimen"},
+ "http://purl.obolibrary.org/obo/OBI_0000996"
+ #{"device_creation_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0000997" #{"growth_environment"},
+ "http://purl.obolibrary.org/obo/OBI_0000998" #{"left_handed"},
+ "http://purl.obolibrary.org/obo/OBI_0000999" #{"has_category_label"},
+ "http://purl.obolibrary.org/obo/OBI_0001000" #{"questionnaire"},
+ "http://purl.obolibrary.org/obo/OBI_0001001"
+ #{"Edinburgh_handedness_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001002" #{"Faraday_cage"},
+ "http://purl.obolibrary.org/obo/OBI_0001003" #{"agar_stab_storage"},
+ "http://purl.obolibrary.org/obo/OBI_0001004"
+ #{"Edingburgh_handedness_inventory"},
+ "http://purl.obolibrary.org/obo/OBI_0001005"
+ #{"RNASE_CL3_structure_mapping_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001006"
+ #{"CMCT_structure_mapping_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001007" #{"image_acquisition"},
+ "http://purl.obolibrary.org/obo/OBI_0001008"
+ #{"MPE-Fe_II__structure_mapping_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001009"
+ #{"obsolete_qualitative_binding_detection_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001010"
+ #{"nucleic_acid_extract"},
+ "http://purl.obolibrary.org/obo/OBI_0001011"
+ #{"ENU_structure_mapping_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001012"
+ #{"RNASE_V1_structure_mapping_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001013"
+ #{"kethoxal_structure_mapping_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001014"
+ #{"single-nucleotide-resolution_nucleic_acid_structure_mapping_assay_using_enzymatic_probing"},
+ "http://purl.obolibrary.org/obo/OBI_0001015"
+ #{"DMS_structure_mapping_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001016"
+ #{"DNASE_1_structure_mapping_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001017"
+ #{"single-nucleotide-resolution_nucleic_acid_structure_mapping_assay_using_chemical_probing"},
+ "http://purl.obolibrary.org/obo/OBI_0001018"
+ #{"Rhodium_DNA_structure_mapping_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001019"
+ #{"RNA_ADA_I_RNA_structure_mapping_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001020"
+ #{"Lead_structure_mapping_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001021"
+ #{"RNASE_T2_structure_mapping_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001022" #{"gene_dosage_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001023"
+ #{"Fe-BABE_RNA_structure_mapping_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001024"
+ #{"RNASE_U2_structure_mapping_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001025"
+ #{"binding_constant_determination_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001026"
+ #{"NMIA_RNA_structure_mapping_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001027"
+ #{"Terbium_RNA_structure_mapping_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001028" #{"feature_extraction"},
+ "http://purl.obolibrary.org/obo/OBI_0001029"
+ #{"OH-radical_structure_mapping_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001030"
+ #{"RNASE_T1_structure_mapping_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001031"
+ #{"array_image_acquisition"},
+ "http://purl.obolibrary.org/obo/OBI_0001032"
+ #{"light_emission_device"},
+ "http://purl.obolibrary.org/obo/OBI_0001033" #{"perturbation_device"},
+ "http://purl.obolibrary.org/obo/OBI_0001034"
+ #{"environmental_control_device"},
+ "http://purl.obolibrary.org/obo/OBI_0001035"
+ #{"Nuclease_S1_structure_mapping_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001036"
+ #{"specimen_fixation_function"},
+ "http://purl.obolibrary.org/obo/OBI_0001037"
+ #{"obsolete_specimen_fixation_function"},
+ "http://purl.obolibrary.org/obo/OBI_0001038"
+ #{"Ruthenium_structure_mapping_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001039"
+ #{"inline_probing_RNA_structure_mapping"},
+ "http://purl.obolibrary.org/obo/OBI_0001040"
+ #{"current_amplification_function"},
+ "http://purl.obolibrary.org/obo/OBI_0001041"
+ #{"stabilization_function"},
+ "http://purl.obolibrary.org/obo/OBI_0001042" #{"pump_function"},
+ "http://purl.obolibrary.org/obo/OBI_0001043"
+ #{"cell_transfer_function"},
+ "http://purl.obolibrary.org/obo/OBI_0001044" #{"angiograph"},
+ "http://purl.obolibrary.org/obo/OBI_0001045" #{"capillary_blotter"},
+ "http://purl.obolibrary.org/obo/OBI_0001046" #{"bioreactor"},
+ "http://purl.obolibrary.org/obo/OBI_0001047" #{"pH_meter"},
+ "http://purl.obolibrary.org/obo/OBI_0001048" #{"digital_camera"},
+ "http://purl.obolibrary.org/obo/OBI_0001049"
+ #{"chip_spotting_device"},
+ "http://purl.obolibrary.org/obo/OBI_0001050"
+ #{"RNA_extraction_purification_instrument"},
+ "http://purl.obolibrary.org/obo/OBI_0001051" #{"DNA_extract"},
+ "http://purl.obolibrary.org/obo/OBI_0001052"
+ #{"two-photon_laser_detector"},
+ "http://purl.obolibrary.org/obo/OBI_0001053"
+ #{"electrophoresis_system"},
+ "http://purl.obolibrary.org/obo/OBI_0001054" #{"PET_synthesizer"},
+ "http://purl.obolibrary.org/obo/OBI_0001055"
+ #{"spinning-disk_confocal_microscope"},
+ "http://purl.obolibrary.org/obo/OBI_0001056" #{"DNA_synthesizer"},
+ "http://purl.obolibrary.org/obo/OBI_0001057"
+ #{"high_performance_liquid_chromatography_instrument"},
+ "http://purl.obolibrary.org/obo/OBI_0001058" #{"microplate_reader"},
+ "http://purl.obolibrary.org/obo/OBI_0001059"
+ #{"ELISA_microplate_reader"},
+ "http://purl.obolibrary.org/obo/OBI_0001060" #{"spot_cutter"},
+ "http://purl.obolibrary.org/obo/OBI_0001061"
+ #{"microwave_synthesis_system"},
+ "http://purl.obolibrary.org/obo/OBI_0001062" #{"densitometer"},
+ "http://purl.obolibrary.org/obo/OBI_0001063"
+ #{"automatic_staining_machine"},
+ "http://purl.obolibrary.org/obo/OBI_0001064"
+ #{"automatic_tissue_processor"},
+ "http://purl.obolibrary.org/obo/OBI_0001065" #{"stereo_microscope"},
+ "http://purl.obolibrary.org/obo/OBI_0001066" #{"top_loading_balance"},
+ "http://purl.obolibrary.org/obo/OBI_0001067" #{"perfusion_station"},
+ "http://purl.obolibrary.org/obo/OBI_0001068" #{"SPECT_scanner"},
+ "http://purl.obolibrary.org/obo/OBI_0001069"
+ #{"array_manufacturer_role"},
+ "http://purl.obolibrary.org/obo/OBI_0001070"
+ #{"scintillation_counter"},
+ "http://purl.obolibrary.org/obo/OBI_0001071"
+ #{"programmable_array_microscope"},
+ "http://purl.obolibrary.org/obo/OBI_0001072" #{"cryostat"},
+ "http://purl.obolibrary.org/obo/OBI_0001073"
+ #{"microtome_knife_maker"},
+ "http://purl.obolibrary.org/obo/OBI_0001074" #{"cryofixation_device"},
+ "http://purl.obolibrary.org/obo/OBI_0001075" #{"hybridization_oven"},
+ "http://purl.obolibrary.org/obo/OBI_0001076" #{"incubator_shaker"},
+ "http://purl.obolibrary.org/obo/OBI_0001077"
+ #{"small-animal_image_acquisition_device"},
+ "http://purl.obolibrary.org/obo/OBI_0001078"
+ #{"infrared_image_acquisition_device"},
+ "http://purl.obolibrary.org/obo/OBI_0001079" #{"confocal_microscope"},
+ "http://purl.obolibrary.org/obo/OBI_0001080" #{"patch_clamp_device"},
+ "http://purl.obolibrary.org/obo/OBI_0001081" #{"gel_imaging_system"},
+ "http://purl.obolibrary.org/obo/OBI_0001082"
+ #{"protein_separation_apparatus"},
+ "http://purl.obolibrary.org/obo/OBI_0001083"
+ #{"multichannel_electronic_pipette"},
+ "http://purl.obolibrary.org/obo/OBI_0001084"
+ #{"vitrification_apparatus"},
+ "http://purl.obolibrary.org/obo/OBI_0001085"
+ #{"radiography_instrument"},
+ "http://purl.obolibrary.org/obo/OBI_0001086"
+ #{"radiation_measurement_device"},
+ "http://purl.obolibrary.org/obo/OBI_0001087" #{"lyophilizer"},
+ "http://purl.obolibrary.org/obo/OBI_0001088"
+ #{"tandem_mass_spectrometer"},
+ "http://purl.obolibrary.org/obo/OBI_0001089"
+ #{"microhardness_tester"},
+ "http://purl.obolibrary.org/obo/OBI_0001090"
+ #{"multimode_microplate_reader"},
+ "http://purl.obolibrary.org/obo/OBI_0001091" #{"mechanical_balance"},
+ "http://purl.obolibrary.org/obo/OBI_0001092" #{"computer_cluster"},
+ "http://purl.obolibrary.org/obo/OBI_0001093"
+ #{"microtome_knife_sharpener"},
+ "http://purl.obolibrary.org/obo/OBI_0001094" #{"plate_shaker"},
+ "http://purl.obolibrary.org/obo/OBI_0001095"
+ #{"coagulation_analyzer"},
+ "http://purl.obolibrary.org/obo/OBI_0001096"
+ #{"laser_capture_microdissection_microscope"},
+ "http://purl.obolibrary.org/obo/OBI_0001097"
+ #{"liquid_extraction_robot"},
+ "http://purl.obolibrary.org/obo/OBI_0001098" #{"ultrasound_machine"},
+ "http://purl.obolibrary.org/obo/OBI_0001099" #{"immunoblot_scanner"},
+ "http://purl.obolibrary.org/obo/OBI_0001100" #{"microcentrifuge"},
+ "http://purl.obolibrary.org/obo/OBI_0001101"
+ #{"electronic_repeater_pipette"},
+ "http://purl.obolibrary.org/obo/OBI_0001102"
+ #{"electron_paramagnetic_resonance_spectrometer"},
+ "http://purl.obolibrary.org/obo/OBI_0001103" #{"rocker"},
+ "http://purl.obolibrary.org/obo/OBI_0001104" #{"analytical_balance"},
+ "http://purl.obolibrary.org/obo/OBI_0001105"
+ #{"scanning_force_microscope"},
+ "http://purl.obolibrary.org/obo/OBI_0001106"
+ #{"pulsed-field_gel_electrophoresis_system"},
+ "http://purl.obolibrary.org/obo/OBI_0001107"
+ #{"tissue_embedding_station"},
+ "http://purl.obolibrary.org/obo/OBI_0001108"
+ #{"nucleic_acid_sequencer"},
+ "http://purl.obolibrary.org/obo/OBI_0001109" #{"bead_array_reader"},
+ "http://purl.obolibrary.org/obo/OBI_0001110"
+ #{"real-time_PCR_machine"},
+ "http://purl.obolibrary.org/obo/OBI_0001111" #{"paraffin_oven"},
+ "http://purl.obolibrary.org/obo/OBI_0001112" #{"autoclave"},
+ "http://purl.obolibrary.org/obo/OBI_0001113" #{"microplate_washer"},
+ "http://purl.obolibrary.org/obo/OBI_0001114"
+ #{"nucleic_acid_extraction_purification_instrument"},
+ "http://purl.obolibrary.org/obo/OBI_0001115"
+ #{"ELISA_microplate_washer"},
+ "http://purl.obolibrary.org/obo/OBI_0001116" #{"vacuum_manifold"},
+ "http://purl.obolibrary.org/obo/OBI_0001117"
+ #{"DNA_extraction_purification_instrument"},
+ "http://purl.obolibrary.org/obo/OBI_0001118"
+ #{"multichannel_pipette"},
+ "http://purl.obolibrary.org/obo/OBI_0001119" #{"cell_harvester"},
+ "http://purl.obolibrary.org/obo/OBI_0001120"
+ #{"portable_fluorometer"},
+ "http://purl.obolibrary.org/obo/OBI_0001121"
+ #{"gel_electrophoresis_system"},
+ "http://purl.obolibrary.org/obo/OBI_0001122" #{"diffractometer"},
+ "http://purl.obolibrary.org/obo/OBI_0001123"
+ #{"microdissection_instrument"},
+ "http://purl.obolibrary.org/obo/OBI_0001124" #{"micropipette_puller"},
+ "http://purl.obolibrary.org/obo/OBI_0001125"
+ #{"laser_scanning_confocal_microscope"},
+ "http://purl.obolibrary.org/obo/OBI_0001126" #{"digital_microscope"},
+ "http://purl.obolibrary.org/obo/OBI_0001127"
+ #{"freeze_substitution_system"},
+ "http://purl.obolibrary.org/obo/OBI_0001128" #{"micropipette"},
+ "http://purl.obolibrary.org/obo/OBI_0001129"
+ #{"voltage_clamp_device"},
+ "http://purl.obolibrary.org/obo/OBI_0001130" #{"vacuum_oven"},
+ "http://purl.obolibrary.org/obo/OBI_0001131" #{"slide_warmer"},
+ "http://purl.obolibrary.org/obo/OBI_0001132"
+ #{"capillary_electrophoresis_instrument"},
+ "http://purl.obolibrary.org/obo/OBI_0001133"
+ #{"denaturing_high-performance_liquid_chromatography_instrument"},
+ "http://purl.obolibrary.org/obo/OBI_0001134"
+ #{"agarose_gel_electrophoresis_system"},
+ "http://purl.obolibrary.org/obo/OBI_0001135" #{"balance"},
+ "http://purl.obolibrary.org/obo/OBI_0001136"
+ #{"surface_plasmon_resonance_instrument"},
+ "http://purl.obolibrary.org/obo/OBI_0001137" #{"protein_sequencer"},
+ "http://purl.obolibrary.org/obo/OBI_0001138" #{"X-ray_source"},
+ "http://purl.obolibrary.org/obo/OBI_0001139"
+ #{"liquid_chromatography_instrument"},
+ "http://purl.obolibrary.org/obo/OBI_0001140"
+ #{"spike-in_quality_control_role"},
+ "http://purl.obolibrary.org/obo/OBI_0001141"
+ #{"individual_organism_identifier"},
+ "http://purl.obolibrary.org/obo/OBI_0001142"
+ #{"dye_swap_quality_control_role"},
+ "http://purl.obolibrary.org/obo/OBI_0001143"
+ #{"labeled_nucleic_acid_extract"},
+ "http://purl.obolibrary.org/obo/OBI_0001144" #{"binding_constant"},
+ "http://purl.obolibrary.org/obo/OBI_0001145"
+ #{"binding_complex_3D_structure_determination_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001146" #{"binding_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001147"
+ #{"cell_culture_expansion"},
+ "http://purl.obolibrary.org/obo/OBI_0001148" #{"gene_knock_out"},
+ "http://purl.obolibrary.org/obo/OBI_0001149" #{"gene_knock_in"},
+ "http://purl.obolibrary.org/obo/OBI_0001150"
+ #{"chromosomal_substitution"},
+ "http://purl.obolibrary.org/obo/OBI_0001151"
+ #{"genetically_modified_material"},
+ "http://purl.obolibrary.org/obo/OBI_0001152" #{"transfection"},
+ "http://purl.obolibrary.org/obo/OBI_0001153"
+ #{"genetic_transformation_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0001154" #{"induced_mutation"},
+ "http://purl.obolibrary.org/obo/OBI_0001155"
+ #{"_3D_structural_organization_datum"},
+ "http://purl.obolibrary.org/obo/OBI_0001156"
+ #{"age_since_planting_measurement_datum"},
+ "http://purl.obolibrary.org/obo/OBI_0001157"
+ #{"age_since_hatching_measurement_datum"},
+ "http://purl.obolibrary.org/obo/OBI_0001158"
+ #{"age_measurement_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001159"
+ #{"age_since_egg_laying_measurement_datum"},
+ "http://purl.obolibrary.org/obo/OBI_0001160"
+ #{"assay_validation_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0001161"
+ #{"age_since_germination_measurement_datum"},
+ "http://purl.obolibrary.org/obo/OBI_0001162"
+ #{"validation_by_reverse_transcription_PCR_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001163"
+ #{"age_since_eclosion_measurement_datum"},
+ "http://purl.obolibrary.org/obo/OBI_0001164"
+ #{"age_since_sowing_measurement_datum"},
+ "http://purl.obolibrary.org/obo/OBI_0001165"
+ #{"age_since_coitus_measurement_datum"},
+ "http://purl.obolibrary.org/obo/OBI_0001166"
+ #{"validation_by_real_time_PCR_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001167"
+ #{"age_measurement_datum"},
+ "http://purl.obolibrary.org/obo/OBI_0001168"
+ #{"age_since_fertilization_measurement_datum"},
+ "http://purl.obolibrary.org/obo/OBI_0001169"
+ #{"age_since_birth_measurement_datum"},
+ "http://purl.obolibrary.org/obo/OBI_0001170"
+ #{"reverse_transcription_polymerase_chain_reaction_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001171"
+ #{"half_life_datum__t_1_2_"},
+ "http://purl.obolibrary.org/obo/OBI_0001172" #{"dose_response_curve"},
+ "http://purl.obolibrary.org/obo/OBI_0001173" #{"service"},
+ "http://purl.obolibrary.org/obo/OBI_0001174"
+ #{"passive_immunization"},
+ "http://purl.obolibrary.org/obo/OBI_0001175"
+ #{"selective_organism_creation_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0001176"
+ #{"Individual_epitope_immunization_in_vivo"},
+ "http://purl.obolibrary.org/obo/OBI_0001177" #{"RNA_sequencing"},
+ "http://purl.obolibrary.org/obo/OBI_0001178"
+ #{"efficacy_of_epitope_intervention_experiment"},
+ "http://purl.obolibrary.org/obo/OBI_0001179"
+ #{"epitope_protection_from_infectious_challenge_experiment"},
+ "http://purl.obolibrary.org/obo/OBI_0001180"
+ #{"half_maximal_effective_concentration__EC50_"},
+ "http://purl.obolibrary.org/obo/OBI_0001181" #{"binding_datum"},
+ "http://purl.obolibrary.org/obo/OBI_0001182"
+ #{"negative_binding_datum"},
+ "http://purl.obolibrary.org/obo/OBI_0001183"
+ #{"epitope_protection_from_tumor_challenge_experiment"},
+ "http://purl.obolibrary.org/obo/OBI_0001184"
+ #{"epitope_protection_experiment"},
+ "http://purl.obolibrary.org/obo/OBI_0001185"
+ #{"selectively_maintained_organism"},
+ "http://purl.obolibrary.org/obo/OBI_0001186"
+ #{"epitope_protection_from_infectious_challenge_experiment_based_on_pathogen_burden_"},
+ "http://purl.obolibrary.org/obo/OBI_0001187"
+ #{"infectious_agent_detection_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001188"
+ #{"epitope_disease_exacerbation_experiment"},
+ "http://purl.obolibrary.org/obo/OBI_0001189"
+ #{"epitope_protection_experiment_based_on_survival"},
+ "http://purl.obolibrary.org/obo/OBI_0001190"
+ #{"epitope_treatment_experiment"},
+ "http://purl.obolibrary.org/obo/OBI_0001191"
+ #{"half_maximal_inhibitory_concentration__IC50_"},
+ "http://purl.obolibrary.org/obo/OBI_0001192"
+ #{"epitope_specific_immune_intervention"},
+ "http://purl.obolibrary.org/obo/OBI_0001193"
+ #{"epitope_specific_cytokine_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001194"
+ #{"ELISPOT_assay_of_epitope_specific_transforming_growth_factor-beta_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001195"
+ #{"operator_variation_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001196"
+ #{"cytometric_bead_array_assay_of_epitope_specific_IP-10_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001197"
+ #{"comparative_genome_hybridization_by_array_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001198"
+ #{"assay_of_epitope_specific_interleukin-27_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001199" #{"in_vivo_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001200"
+ #{"genotyping_by_high_throughput_sequencing_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001201"
+ #{"epitope_specific_tolerance_induction_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001202"
+ #{"innate_behavior_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001203"
+ #{"detection_of_specific_nucleic_acids_with_complementary_probes_of_epitope_specific_transforming_growth_factor-beta_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001204" #{"SNP_microarray"},
+ "http://purl.obolibrary.org/obo/OBI_0001205"
+ #{"cell_component_comparison_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001206"
+ #{"ELISPOT_assay_of_epitope_specific_granulocyte_macrophage_colony-stimulating_factor_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001207"
+ #{"epitope_specific_macrophage_inflammatory_protein-1_alpha_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001208"
+ #{"epitope_specific_T_cell_activation"},
+ "http://purl.obolibrary.org/obo/OBI_0001209"
+ #{"assay_of_epitope_specific_interleukin-10_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001210"
+ #{"cytometric_bead_array_assay_of_epitope_specific_transforming_growth_factor-beta_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001211" #{"ex_vivo_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001212"
+ #{"epitope_specific_type_IV_hypersensitivity_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001213" #{"eBioscience"},
+ "http://purl.obolibrary.org/obo/OBI_0001214"
+ #{"normalization_testing_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001215"
+ #{"intracellular_staining_assay_of_epitope_specific_perforin_production"},
+ "http://purl.obolibrary.org/obo/OBI_0001216"
+ #{"cell_culture_analyte_detection_bioassay_of_epitope_specific_interleukin-2_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001217"
+ #{"assay_of_epitope_specific_interleukin-22_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001218"
+ #{"assay_of_epitope_specific_interleukin-8_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001219"
+ #{"epitope_specific_chemokine__C-C_motif__ligand_1_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001220"
+ #{"cell_culture_analyte_detection_bioassay_of_epitope_specific_interleukin-10_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001221"
+ #{"ChIP-chip_by_SNP_array_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001222"
+ #{"ELISA_of_epitope_specific_RANTES_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001223"
+ #{"cytometric_bead_array_assay_of_epitope_specific_interleukin-1_beta_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001224" #{"Cytopeia"},
+ "http://purl.obolibrary.org/obo/OBI_0001225"
+ #{"genetic_population_background_information"},
+ "http://purl.obolibrary.org/obo/OBI_0001226"
+ #{"environmental_history_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001227"
+ #{"ELISPOT_assay_of_epitope_specific_interleukin-6_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001228"
+ #{"assay_of_epitope_specific_T_cell_enhancement_of_B_cell_mediated_immune_response"},
+ "http://purl.obolibrary.org/obo/OBI_0001229"
+ #{"surface_plasmon_resonance_assay_of_MHC:epitope_complex_binding_to_TCR"},
+ "http://purl.obolibrary.org/obo/OBI_0001230"
+ #{"assay_of_epitope_specific_interleukin-5_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001231"
+ #{"ELISA_of_epitope_specific_transforming_growth_factor-beta_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001232"
+ #{"assay_of_epitope_specific_RANTES_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001233"
+ #{"assay_of_epitope_specific_granulocyte_macrophage_colony_stimulating_factor_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001234"
+ #{"epigenetic_modification_identification_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0001235"
+ #{"transcription_profiling_by_tiling_array_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001236"
+ #{"ELISA_of_epitope_specific_interleukin-22_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001237"
+ #{"assay_of_epitope_specific_interleukin-21_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001238"
+ #{"ELISA_of_epitope_specific_interleukin-9_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001239"
+ #{"transcription_profiling_by_high_thoughput_sequencing_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001240"
+ #{"intracellular_cytokine_staining_assay_of_epitope_specific_interleukin-6_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001241"
+ #{"cell_culture_analyte_detection_bioassay_of_epitope_specific_interleukin-4_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001242"
+ #{"detection_of_specific_nucleic_acids_with_complementary_probes_of_epitope_specific_tumor_necrosis_factor_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001243"
+ #{"cytometric_bead_array_assay_of_epitope_specific_monocyte_chemotactic_protein-1_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001244"
+ #{"ELISA_of_epitope_specific_interleukin-23_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001245"
+ #{"detection_of_specific_nucleic_acids_with_complementary_probes_of_epitope_specific_perforin_production"},
+ "http://purl.obolibrary.org/obo/OBI_0001246"
+ #{"ELISA_of_epitope_specific_tumor_necrosis_factor_superfamily_cytokine_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001247"
+ #{"genotyping_by_high_throughput_sequencing_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001248" #{"ChIP-chip_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001249"
+ #{"epitope_specific_T_cell_tolerance_induction"},
+ "http://purl.obolibrary.org/obo/OBI_0001250"
+ #{"intracellular_material_detection_by_flow_cytometry_assay__of_epitope_specific_cytotoxic_T_cell_degranulation"},
+ "http://purl.obolibrary.org/obo/OBI_0001251"
+ #{"assay_of_epitope_specific_interleukin-13_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001252"
+ #{"array_platform_variation_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001253"
+ #{"assay_of_epitope_specific_interleukin-9_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001254"
+ #{"epitope_specific_interleukin-3_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001255"
+ #{"detection_of_specific_nucleic_acids_with_complementary_probes_of_epitope_specific_interleukin-5_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001256"
+ #{"epitope_specific_lymphotoxin_A_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001257"
+ #{"epitope_specific_interleukin-1_alpha_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001258" #{"ChIP-seq_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001259"
+ #{"translational_bias_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001260"
+ #{"ELISA_of_epitope_specific_interleukin-3_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001261"
+ #{"ELISA_of_epitope_specific_interleukin-1_alpha_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001262"
+ #{"epitope_specific_interleukin-27_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001263"
+ #{"assay_of_epitope_specific_helper_T_cell_enhancement_of_T_cell_mediated_immune_response"},
+ "http://purl.obolibrary.org/obo/OBI_0001264"
+ #{"assay_of_epitope_specific_transforming_growth_factor-beta_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001265"
+ #{"FWER_adjusted_p-value"},
+ "http://purl.obolibrary.org/obo/OBI_0001266"
+ #{"DNA_methylation_profiling_by_high_throughput_sequencing_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001267"
+ #{"epitope_specific_transforming_growth_factor-beta_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001268"
+ #{"detection_of_specific_nucleic_acids_with_complementary_probes_of_epitope_specific_interleukin-12_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001269"
+ #{"assay_of_epitope_specific_cytotoxic_T_cell_degranulation"},
+ "http://purl.obolibrary.org/obo/OBI_0001270"
+ #{"cell_culture_analyte_detection_bioassay_of_epitope_specific_transforming_growth_factor-beta_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001271" #{"RNA-seq_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001272"
+ #{"ELISPOT_assay_of_epitope_specific_tumor_necrosis_factor_superfamily_cytokine_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001273"
+ #{"cell_culture_analyte_detection_bioassay_of_epitope_specific_interleukin-5_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001274"
+ #{"genotyping_by_array_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001275"
+ #{"epitope_specific_interleukin-16_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001276"
+ #{"assay_of_epitope_specific_chemokine__C-C_motif__ligand_1_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001277"
+ #{"detection_of_specific_nucleic_acids_with_complementary_probes_of_epitope_specific_interleukin-2_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001278"
+ #{"DNA_methylation_profiling_by_array_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001279"
+ #{"detection_of_specific_nucleic_acids_with_complementary_probes_of_epitope_specific_interleukin-22_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001280"
+ #{"assay_of_epitope_specific_interleukin-16_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001281"
+ #{"ELISA_of_epitope_specific_IP-10_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001282"
+ #{"translation_profiling_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001283"
+ #{"ELISA_of_epitope_specific_interleukin-15_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001284"
+ #{"cytometric_bead_array_assay_of_epitope_specific_interleukin-12_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001285" #{"in_vitro_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001286"
+ #{"RNAi_profiling_by_array_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001287" #{"Exalpha_Biological"},
+ "http://purl.obolibrary.org/obo/OBI_0001288"
+ #{"ELISA_of_epitope_specific_lymphotoxin_A_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001289"
+ #{"cytometric_bead_array_assay_of_epitope_specific_interleukin-5_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001290"
+ #{"transcription_profiling_by_array_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001291"
+ #{"detection_of_specific_nucleic_acids_with_complementary_probes_of_epitope_specific_interleukin-17_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001292"
+ #{"assay_of_epitope_specific_interleukin-15_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001293"
+ #{"disease_state_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001294"
+ #{"wild_type_organism_genotype_information"},
+ "http://purl.obolibrary.org/obo/OBI_0001295"
+ #{"assay_of_epitope_specific_interleukin-17_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001296"
+ #{"cytometric_bead_array_assay_of_epitope_specific_interleukin-17_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001297"
+ #{"cytometric_bead_array_assay_of_epitope_specific_interleukin-10_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001298"
+ #{"detection_of_specific_nucleic_acids_with_complementary_probes_of_epitope_specific_interleukin-21_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001299"
+ #{"intracellular_cytokine_staining_assay_of_epitope_specific_interleukin-5_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001300"
+ #{"cytometric_bead_array_assay_of_epitope_specific_interleukin-2_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001301"
+ #{"cell_culture_analyte_detection_bioassay_of_epitope_specific_interleukin-16_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001302"
+ #{"ELISA_of_epitope_specific_macrophage_inflammatory_protein-1_alpha_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001303"
+ #{"intracellular_cytokine_staining_assay_of_epitope_specific_granulocyte_macrophage_colony-stimulating_factor_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001304"
+ #{"RNAi_profiling_by_array_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001305"
+ #{"genotype_information"},
+ "http://purl.obolibrary.org/obo/OBI_0001306"
+ #{"RNA_stability_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001307" #{"tiling_microarray"},
+ "http://purl.obolibrary.org/obo/OBI_0001308"
+ #{"assay_of_epitope_specific_IP-10_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001309"
+ #{"intracellular_cytokine_staining_assay_of_epitope_specific_interleukin-13_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001310"
+ #{"species_comparison_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001311"
+ #{"X-ray_crystallography_assay_of_MHC:epitope_complex_binding_to_TCR"},
+ "http://purl.obolibrary.org/obo/OBI_0001312" #{"Apogee_Flow_Systems"},
+ "http://purl.obolibrary.org/obo/OBI_0001313"
+ #{"transcription_profiling_by_RT-PCR_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001314"
+ #{"epitope_specific_T_cell_enhancement_of_B_cell_mediated_immune_response"},
+ "http://purl.obolibrary.org/obo/OBI_0001315"
+ #{"ELISA_of_epitope_specific_chemokine__C-C_motif__ligand_1_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001316"
+ #{"epitope_specific_interleukin-21_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001317"
+ #{"cell-cell_binding_detection_by_flow_cytometry_assay_of_MHC:epitope_complex_binding_to_TCR"},
+ "http://purl.obolibrary.org/obo/OBI_0001318"
+ #{"proteomic_profiling_by_array_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001319"
+ #{"cell_culture_analyte_detection_bioassay_of_epitope_specific_interferon-gamma_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001320" #{"Exbio_Antibodies"},
+ "http://purl.obolibrary.org/obo/OBI_0001321"
+ #{"Becton_Dickinson__BD_Biosciences_"},
+ "http://purl.obolibrary.org/obo/OBI_0001322"
+ #{"ELISPOT_assay_of_epitope_specific_granzyme_B_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001323"
+ #{"microRNA_profiling_by_array_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001324"
+ #{"assay_of_T_cell_epitope_specific_tolerance_induction"},
+ "http://purl.obolibrary.org/obo/OBI_0001325"
+ #{"detection_of_specific_nucleic_acids_with_complementary_probes_of_epitope_specific_RANTES_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001326"
+ #{"cytometric_bead_array_assay_of_epitope_specific_interleukin-4_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001327"
+ #{"assay_of_epitope_specific_lymphotoxin_A_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001328"
+ #{"organism_development_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001329"
+ #{"family_history_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001330"
+ #{"ELISA_of_epitope_specific_chemokine__C-X-C_motif__ligand_9_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001331"
+ #{"transcription_profiling_identification_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0001332"
+ #{"DNA_methylation_profiling_by_array_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001333"
+ #{"assay_of_epitope_specific_macrophage_inflammatory_protein-1_alpha_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001334"
+ #{"epitope_specific_granulocyte_colony_stimulating_factor_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001335"
+ #{"microRNA_profiling_by_array_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001336"
+ #{"quality_control_testing_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001337"
+ #{"clinical_history_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001338" #{"Dako_Cytomation"},
+ "http://purl.obolibrary.org/obo/OBI_0001339"
+ #{"detection_of_specific_nucleic_acids_with_complementary_probes_of_epitope_specific_interleukin-4_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001340" #{"Millipore"},
+ "http://purl.obolibrary.org/obo/OBI_0001341"
+ #{"cell_culture_analyte_detection_bioassay_of_epitope_specific_granulocyte_macrophage_colony-stimulating_factor_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001342"
+ #{"intracellular_cytokine_staining_assay_of_epitope_specific_interleukin-21_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001343"
+ #{"detection_of_specific_nucleic_acids_with_complementary_probes_of_epitope_specific_monocyte_chemotactic_protein-1_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001344"
+ #{"ELISA_of_epitope_specific_monocyte_chemotactic_protein-1_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001345"
+ #{"assay_of_epitope_specific_chemokine__C-C_motif__ligand_4_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001346"
+ #{"ELISA_of_epitope_specific_interleukin-21_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001347" #{"Antigenix"},
+ "http://purl.obolibrary.org/obo/OBI_0001348"
+ #{"assay_of_epitope_specific_type_IV_hypersensitivity_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001349"
+ #{"cytometric_bead_array_assay_of_epitope_specific_interleukin-13_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001350"
+ #{"detection_of_specific_nucleic_acids_with_complementary_probes_of_epitope_specific_interferon-gamma_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001351"
+ #{"epitope_specific_tumor_necrosis_factor_superfamily_cytokine_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001352" #{"allele_information"},
+ "http://purl.obolibrary.org/obo/OBI_0001353"
+ #{"cytometric_bead_array_assay_of_epitope_specific_tumor_necrosis_factor_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001354"
+ #{"ELISPOT_assay_of_epitope_specific_interleukin-17_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001355" #{"Partec"},
+ "http://purl.obolibrary.org/obo/OBI_0001356"
+ #{"detection_of_specific_nucleic_acids_with_complementary_probes_of_epitope_specific_interferon-beta_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001357"
+ #{"detection_of_specific_nucleic_acids_with_complementary_probes_of_epitope_specific_granulocyte_macrophage_colony-stimulating_factor_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001358"
+ #{"post-transcriptional_modification_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001359"
+ #{"ELISA_of_epitope_specific_interleukin-8_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001360"
+ #{"cytometric_bead_array_assay_of_epitope_specific_interleukin-6_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001361"
+ #{"transcription_profiling_by_RT-PCR_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001362"
+ #{"epitope_specific_chemokine__C-C_motif__ligand_4_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001363"
+ #{"assay_of_epitope_specific_interleukin-23_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001364"
+ #{"genetic_alteration_information"},
+ "http://purl.obolibrary.org/obo/OBI_0001365"
+ #{"cellular_process_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001366"
+ #{"epitope_specific_RANTES_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001367"
+ #{"detection_of_specific_nucleic_acids_with_complementary_probes_of_epitope_specific_interleukin-10_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001368"
+ #{"cytometric_bead_array_assay_of_epitope_specific_tumor_necrosis_factor_superfamily_cytokine_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001369"
+ #{"wild_type_allele_information"},
+ "http://purl.obolibrary.org/obo/OBI_0001370"
+ #{"intracellular_cytokine_staining_assay_of_epitope_specific_chemokine__C-C_motif__ligand_4_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001371"
+ #{"epitope_specific_granzyme_B_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001372" #{"Beckman_Coulter"},
+ "http://purl.obolibrary.org/obo/OBI_0001373"
+ #{"epitope_specific_interleukin-8_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001374" #{"injury_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001375"
+ #{"Advanced_Instruments_Inc.__AI_Companies_"},
+ "http://purl.obolibrary.org/obo/OBI_0001376"
+ #{"intracellular_cytokine_staining_assay_of_epitope_specific_interleukin-3_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001377"
+ #{"organism_status_comparison_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001378"
+ #{"ELISA_of_epitope_specific_chemokine__C-C_motif__ligand_4_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001379"
+ #{"cytometric_bead_array_assay_of_epitope_specific_interferon-gamma_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001380"
+ #{"assay_of_epitope_specific_interleukin-18_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001381"
+ #{"epitope_specific_interleukin-23_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001382"
+ #{"detection_of_specific_nucleic_acids_with_complementary_probes_of_epitope_specific_interleukin-27_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001383"
+ #{"detection_of_specific_nucleic_acids_with_complementary_probes_of_epitope_specific_IP-10_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001384"
+ #{"cell_culture_analyte_detection_bioassay_of_epitope_specific_interleukin-3_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001385"
+ #{"intracellular_cytokine_staining_assay_of_epitope_specific_tumor_necrosis_factor_superfamily_cytokine_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001386"
+ #{"epitope_specific_monocyte_chemotactic_protein-1_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001387"
+ #{"genotyping_by_array_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001388"
+ #{"assay_of_epitope_specific_interleukin-1_alpha_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001389"
+ #{"detection_of_specific_nucleic_acids_with_complementary_probes_of_epitope_specific_interleukin-6_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001390"
+ #{"assay_of_epitope_specific_interferon-beta_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001391"
+ #{"assay_of_epitope_specific_interleukin-12_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001392"
+ #{"in_vivo_cell_mediated_cell_killing_assay_of_epitope_specific_T_cell_mediated_cytotoxicity"},
+ "http://purl.obolibrary.org/obo/OBI_0001393"
+ #{"comparative_genomic_hybridization_by_array_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001394"
+ #{"epitope_specific_cytotoxic_T_cell_degranulation"},
+ "http://purl.obolibrary.org/obo/OBI_0001395"
+ #{"detection_of_specific_nucleic_acids_with_complementary_probes_of_epitope_specific_interleukin-23_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001396"
+ #{"stimulus_or_stress_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001397"
+ #{"cytometric_bead_array_assay_of_epitope_specific_granulocyte_colony_stimulating_factor_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001398"
+ #{"protein_and_DNA_interaction_identification_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0001399"
+ #{"epitope_specific_interleukin-22_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001400"
+ #{"assay_of_epitope_specific_tumor_necrosis_factor_superfamily_cytokine_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001401"
+ #{"protocol_optimization_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001402"
+ #{"Promoter_activity_detection_by_reporter_gene_assay_of_epitope_specific_interleukin-2_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001403" #{"ChIP-chip_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001404"
+ #{"genetic_characteristics_information"},
+ "http://purl.obolibrary.org/obo/OBI_0001405"
+ #{"cytometric_bead_array_assay_of_epitope_specific_macrophage_inflammatory_protein-1_alpha_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001406"
+ #{"assay_of_epitope_specific_interleukin-3_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001407"
+ #{"assay_of_epitope_specific_T_cell_activation"},
+ "http://purl.obolibrary.org/obo/OBI_0001408" #{"imprinting_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001409" #{"cell_cycle_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001410"
+ #{"translation_profiling_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001411"
+ #{"cell_type_comparison_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001412"
+ #{"cytometric_bead_array_assay_of_epitope_specific_RANTES_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001413"
+ #{"cell_culture_analyte_detection_bioassay_of_epitope_specific_interleukin-6_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001414"
+ #{"assay_of_epitope_specific_interferon-gamma_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001415"
+ #{"epitope_specific_interleukin-9_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001416"
+ #{"assay_of_epitope_specific_tumor_necrosis_factor_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001417"
+ #{"ChIP-chip_by_tiling_array_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001418"
+ #{"dose_response_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001419"
+ #{"ChIP-chip_by_tiling_array_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001420"
+ #{"epitope_specific_helper_T_cell_enhancement_of_T_cell_mediated_immune_response"},
+ "http://purl.obolibrary.org/obo/OBI_0001421"
+ #{"epitope_specific_interferon-beta_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001422"
+ #{"organism_part_comparison_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001423"
+ #{"intracellular_material_detection_of_epitope_specific_granzyme_B_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001424" #{"Miltenyi_Biotec"},
+ "http://purl.obolibrary.org/obo/OBI_0001425"
+ #{"protein_binding_site_identification_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001426"
+ #{"sex_comparison_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001427"
+ #{"transcription_profiling_by_tiling_array_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001428" #{"AES_Chemunex"},
+ "http://purl.obolibrary.org/obo/OBI_0001429"
+ #{"cell_differentiation_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001430"
+ #{"transcription_profiling_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001431" #{"Bentley_Instruments"},
+ "http://purl.obolibrary.org/obo/OBI_0001432"
+ #{"operon_identification_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001433"
+ #{"radio_immuno_assay_of_epitope_specific_interferon-gamma_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001434" #{"Invitrogen"},
+ "http://purl.obolibrary.org/obo/OBI_0001435"
+ #{"DNA_methylation_profiling_by_high_throughput_sequencing_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001436"
+ #{"assay_of_epitope_specific_granzyme_B_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001437"
+ #{"intracellular_cytokine_staining_assay_of_epitope_specific_chemokine__C-X-C_motif__ligand_9_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001438"
+ #{"ELISA_of_epitope_specific_macrophage_inflammatory_protein-1_gamma_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001439"
+ #{"epitope_specific_chemokine__C-X-C_motif__ligand_9_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001440" #{"all_pairs_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001441"
+ #{"proteomic_profiling_by_array_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001442" #{"q-value"},
+ "http://purl.obolibrary.org/obo/OBI_0001443" #{"Luminex"},
+ "http://purl.obolibrary.org/obo/OBI_0001444" #{"genotyping_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001445"
+ #{"assay_of_epitope_specific_interleukin-2_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001446"
+ #{"epitope_specific_interleukin-15_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001447"
+ #{"epitope_specific_macrophage_inflammatory_protein-1_gamma_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001448"
+ #{"individual_genetic_characteristics_comparison_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001449"
+ #{"assay_of_epitope_specific_interleukin-1_beta_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001450"
+ #{"assay_of_epitope_specific_interleukin-4_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001451"
+ #{"assay_of_epitope_specific_interleukin-6_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001452"
+ #{"cell_culture_analyte_detection_bioassay_of_epitope_specific_tumor_necrosis_factor_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001453"
+ #{"intracellular_cytokine_staining_assay_of_epitope_specific_lymphotoxin_A_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001454"
+ #{"pathogenicity_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001455"
+ #{"ELISPOT_assay_of_epitope_specific_interleukin-5_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001456"
+ #{"assay_of_epitope_specific_macrophage_inflammatory_protein-1_gamma_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001457"
+ #{"cytometric_bead_array_assay_of_epitope_specific_interleukin-8_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001459"
+ #{"assay_of_epitope_specific_chemokine__C-X-C_motif__ligand_9_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001460"
+ #{"genetic_modification_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001461"
+ #{"ELISA_of_epitope_specific_granzyme_B_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001462"
+ #{"epitope_specific_IP-10_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001463"
+ #{"transcription_profiling_by_array_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001464"
+ #{"strain_comparison_design"},
+ "http://purl.obolibrary.org/obo/OBI_0001465"
+ #{"assay_of_epitope_specific_monocyte_chemotactic_protein-1_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001466"
+ #{"intracellular_cytokine_staining_assay_of_epitope_specific_interleukin-12_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001467"
+ #{"T_cell_epitope_disease_exacerbation_experiment"},
+ "http://purl.obolibrary.org/obo/OBI_0001468" #{"cell_specimen"},
+ "http://purl.obolibrary.org/obo/OBI_0001469"
+ #{"monospecific_T_cell_recognition_of_eluted_MHC_ligand_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001470"
+ #{"epitope_specific_interleukin-17F_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001471"
+ #{"T_cell_epitope_specific_immune_intervention"},
+ "http://purl.obolibrary.org/obo/OBI_0001472"
+ #{"specimen_with_known_storage_state"},
+ "http://purl.obolibrary.org/obo/OBI_0001473"
+ #{"T_cell_epitope_protection_from_tumor_challenge"},
+ "http://purl.obolibrary.org/obo/OBI_0001474"
+ #{"lowess_group_transformation"},
+ "http://purl.obolibrary.org/obo/OBI_0001475"
+ #{"T_cell_epitope_protection_from_infectious_challenge_based_on_pathogen_burden"},
+ "http://purl.obolibrary.org/obo/OBI_0001476"
+ #{"phage_display_binding_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001477"
+ #{"lowess_transformation"},
+ "http://purl.obolibrary.org/obo/OBI_0001478"
+ #{"mass_spectrometry_of_eluted_MHC_ligand_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001479" #{"tissue_specimen"},
+ "http://purl.obolibrary.org/obo/OBI_0001480"
+ #{"phage_display_library_panning"},
+ "http://purl.obolibrary.org/obo/OBI_0001481"
+ #{"lowess_global_transformation"},
+ "http://purl.obolibrary.org/obo/OBI_0001482"
+ #{"intracellular_cytokine_staining_assay_of_epitope_specific_transforming_growth_factor-beta_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001483" #{"cell_collecting"},
+ "http://purl.obolibrary.org/obo/OBI_0001484"
+ #{"efficacy_of_T_cell_epitope_intervention_experiment"},
+ "http://purl.obolibrary.org/obo/OBI_0001485"
+ #{"purified_MHC_molecule_preparation"},
+ "http://purl.obolibrary.org/obo/OBI_0001486"
+ #{"disposition_to_be_bound_by_an_MHC_protein_complex"},
+ "http://purl.obolibrary.org/obo/OBI_0001487"
+ #{"B_cell_epitope_specific_immune_intervention"},
+ "http://purl.obolibrary.org/obo/OBI_0001488"
+ #{"epitope_tolerance_induction_experiment"},
+ "http://purl.obolibrary.org/obo/OBI_0001489"
+ #{"mass_spectrometry_of_MHC_ligands_eluted_from_whole_cells_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001490"
+ #{"cytometric_bead_array_of_epitope_specific_granulocyte_macrophage_colony-stimulating_factor_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001491"
+ #{"radioactivity_detection_binding_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001492"
+ #{"T_cell_epitope_protection_experiment_based_on_survival"},
+ "http://purl.obolibrary.org/obo/OBI_0001493"
+ #{"cell_bound_MHC_competitive_binding_assay_using_T_cell_epitope_recognition_assay\n"},
+ "http://purl.obolibrary.org/obo/OBI_0001494"
+ #{"linear_amplification"},
+ "http://purl.obolibrary.org/obo/OBI_0001495"
+ #{"assay_of_epitope_specific_T_cell_helper_activity"},
+ "http://purl.obolibrary.org/obo/OBI_0001496"
+ #{"intracellular_cytokine_staining_assay_of_epitope_specific_interleukin-22_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001497"
+ #{"assay_of_epitope_specific_perforin_release_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001498" #{"atmosphere"},
+ "http://purl.obolibrary.org/obo/OBI_0001499"
+ #{"fluorescence_detection_binding_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001500"
+ #{"T_cell_recognition_of_HPLC_fractionated_MHC_ligand_eluate_compared_to_synthetic_ligand_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001501"
+ #{"fluorescence_detection"},
+ "http://purl.obolibrary.org/obo/OBI_0001502"
+ #{"epitope_specific_perforin_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001503"
+ #{"MHC_protein_complex_binding_to_ligand"},
+ "http://purl.obolibrary.org/obo/OBI_0001504" #{"dissection"},
+ "http://purl.obolibrary.org/obo/OBI_0001505" #{"purification"},
+ "http://purl.obolibrary.org/obo/OBI_0001506"
+ #{"specimen_with_pre-_or_post-mortem_status"},
+ "http://purl.obolibrary.org/obo/OBI_0001507"
+ #{"T_cell_epitope_treatment_experiment"},
+ "http://purl.obolibrary.org/obo/OBI_0001508"
+ #{"sampling_time_measurement_datum"},
+ "http://purl.obolibrary.org/obo/OBI_0001509"
+ #{"Edman_degradation_of_eluted_MHC_ligand_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001510"
+ #{"mass_spectrometry_of_ligands_eluted_from_secreted_MHC_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001511"
+ #{"disposition_to_be_a_product_of_antigen_processing_and_presentation"},
+ "http://purl.obolibrary.org/obo/OBI_0001512"
+ #{"cytometric_bead_array_assay_of_epitope_specific_interleukin-17A_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001513"
+ #{"purified_MHC_competitive_binding_assay_using_radioactivity_detection"},
+ "http://purl.obolibrary.org/obo/OBI_0001514"
+ #{"minimal_inhibitory_concentration"},
+ "http://purl.obolibrary.org/obo/OBI_0001515"
+ #{"material_maintenance_service"},
+ "http://purl.obolibrary.org/obo/OBI_0001516"
+ #{"cell_lysate_MHC_direct_binding_assay_measuring_half_maximal_effective_concentration__EC50__[nM]_using_radioactivity_detection"},
+ "http://purl.obolibrary.org/obo/OBI_0001517"
+ #{"cell_bound_MHC_competitive_binding_assay_measuring_half_maximal_inhibitory_concentration__IC50__[nM]_using_radioactivity_detection"},
+ "http://purl.obolibrary.org/obo/OBI_0001518"
+ #{"epitope_specific_tumor_necrosis_factor__ligand__superfamily_member_11_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001519"
+ #{"cell_lysate_MHC_direct_binding_assay_using_fluorescence_detection"},
+ "http://purl.obolibrary.org/obo/OBI_0001520"
+ #{"cell_bound_MHC_competitive_binding_assay_measuring_half_maximal_inhibitory_concentration__IC50__[nM]_using_fluorescence_detection"},
+ "http://purl.obolibrary.org/obo/OBI_0001521"
+ #{"ELISA_of_epitope_specific_granulocyte_colony_stimulating_factor_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001522"
+ #{"sequence_assembly_algorithm"},
+ "http://purl.obolibrary.org/obo/OBI_0001523"
+ #{"cytometric_bead_array_assay_of_epitope_specific_interleukin-17F_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001524"
+ #{"cell_bound_MHC_direct_binding_assay_measuring_equilibrium_association_constant__KA__[1_M]_using_fluorescence_detection"},
+ "http://purl.obolibrary.org/obo/OBI_0001525" #{"PDB_file"},
+ "http://purl.obolibrary.org/obo/OBI_0001526"
+ #{"epitope_specific_interleukin-17A_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001527" #{"support_service"},
+ "http://purl.obolibrary.org/obo/OBI_0001528" #{"material_service"},
+ "http://purl.obolibrary.org/obo/OBI_0001529"
+ #{"data_analysis_service"},
+ "http://purl.obolibrary.org/obo/OBI_0001530" #{"data_service"},
+ "http://purl.obolibrary.org/obo/OBI_0001531"
+ #{"purified_MHC_direct_binding_assay_measuring_half_life_of_binding_datum_[min]_using_fluorescence_detection"},
+ "http://purl.obolibrary.org/obo/OBI_0001532"
+ #{"cytometric_bead_array_assay_of_epitope_specific_interleukin-9_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001533"
+ #{"data_storage_service"},
+ "http://purl.obolibrary.org/obo/OBI_0001534"
+ #{"purified_MHC_competitive_binding_assay_using_fluorescence_detection"},
+ "http://purl.obolibrary.org/obo/OBI_0001535"
+ #{"epitope_specific_interleukin-7_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001536"
+ #{"equilibrium_dissociation_constant__KD_"},
+ "http://purl.obolibrary.org/obo/OBI_0001537"
+ #{"purified_MHC_competitive_binding_assay_measuring_equilibrium_dissociation_constant__KD__[nM]_using_fluorescence_detection"},
+ "http://purl.obolibrary.org/obo/OBI_0001538" #{"training_service"},
+ "http://purl.obolibrary.org/obo/OBI_0001539"
+ #{"cell_bound_MHC_competitive_binding_assay_measuring_equilibrium_dissociation_constant__KD__[nM]_using_fluorescence_detection"},
+ "http://purl.obolibrary.org/obo/OBI_0001540"
+ #{"T_cell_recognition_of_eluted_MHC_ligand_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001541"
+ #{"purified_MHC_direct_binding_assay_measuring_binding_on_rate_measurement_datum__kon__[nM^-1_s^-1]_using_fluorescence_detection"},
+ "http://purl.obolibrary.org/obo/OBI_0001542"
+ #{"detection_of_specific_nucleic_acids_with_complementary_probes_of_epitope_specific_interleukin-13_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001543"
+ #{"purified_MHC_direct_binding_assay_measuring_equilibrium_dissociation_constant__KD__approximated_by_EC50_[nM]_using_fluorescence_detection"},
+ "http://purl.obolibrary.org/obo/OBI_0001544"
+ #{"cell_lysate_MHC_competitive_binding_assay_measuring_equilibrium_dissociation_constant__KD__[nM]_using_radioactivity_detection"},
+ "http://purl.obolibrary.org/obo/OBI_0001545"
+ #{"intracellular_cytokine_staining_assay_of_epitope_specific_macrophage_inflammatory_protein-1_alpha_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001546"
+ #{"comparative_phenotypic_assessment"},
+ "http://purl.obolibrary.org/obo/OBI_0001547"
+ #{"material_analysis_service"},
+ "http://purl.obolibrary.org/obo/OBI_0001548"
+ #{"equilibrium_association_constant__KA_"},
+ "http://purl.obolibrary.org/obo/OBI_0001549"
+ #{"cell_bound_MHC_competitive_binding_assay_measuring_equilibrium_dissociation_constant__KD__[nM]_using_radioactivity_detection"},
+ "http://purl.obolibrary.org/obo/OBI_0001550"
+ #{"cell_bound_MHC_binding_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001551" #{"access_service"},
+ "http://purl.obolibrary.org/obo/OBI_0001552"
+ #{"intracellular_cytokine_staining_assay_of_epitope_specific_tumor_necrosis_factor__ligand__superfamily_member_11_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001553"
+ #{"MHC_binding_constant_determination_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001554"
+ #{"rate_measurement_datum"},
+ "http://purl.obolibrary.org/obo/OBI_0001555"
+ #{"purified_MHC_binding_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001556"
+ #{"cell_lysate_MHC_direct_binding_assay_using_radioactivity_detection"},
+ "http://purl.obolibrary.org/obo/OBI_0001557"
+ #{"material_storage_service"},
+ "http://purl.obolibrary.org/obo/OBI_0001558"
+ #{"cell_bound_MHC_direct_binding_assay_measuring_half_life_of_binding_datum_[min]_using_radioactivity_detection"},
+ "http://purl.obolibrary.org/obo/OBI_0001559"
+ #{"cell_bound_MHC_direct_binding_assay_measuring_half_life_of_binding_datum_[min]_using_fluorescence_detection"},
+ "http://purl.obolibrary.org/obo/OBI_0001560"
+ #{"cell_lysate_MHC_binding_constant_determination_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001561"
+ #{"cell_bound_MHC_direct_binding_assay_measuring_half_maximal_effective_concentration__EC50__[nM]_using_fluorescence_detection"},
+ "http://purl.obolibrary.org/obo/OBI_0001562"
+ #{"intracellular_cytokine_staining_assay_of_epitope_specific_interleukin-17F_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001563"
+ #{"material_processing_service"},
+ "http://purl.obolibrary.org/obo/OBI_0001564"
+ #{"purified_MHC_competitive_binding_assay_measuring_equilibrium_dissociation_constant__KD__approximated_by_IC50_[nM]_using_radioactivity_detection"},
+ "http://purl.obolibrary.org/obo/OBI_0001565"
+ #{"cell_lysate_MHC_direct_binding_assay_measuring_half_life_of_binding_datum_[min]_using_radioactivity_detection"},
+ "http://purl.obolibrary.org/obo/OBI_0001566"
+ #{"_50%_dissociation_of_binding_temperature__Tm_"},
+ "http://purl.obolibrary.org/obo/OBI_0001567"
+ #{"cell_lysate_MHC_direct_binding_assay_measuring_binding_off_rate_measurement_datum__koff__[s^-1]_using_radioactivity_detection"},
+ "http://purl.obolibrary.org/obo/OBI_0001568"
+ #{"purified_MHC_competitive_binding_assay_measuring_half_maximal_inhibitory_concentration__IC50__[nM]_using_radioactivity_detection"},
+ "http://purl.obolibrary.org/obo/OBI_0001569"
+ #{"purified_MHC_direct_binding_assay_measuring_binding_off_rate_measurement_datum__koff__[s^-1]_using_fluorescence_detection"},
+ "http://purl.obolibrary.org/obo/OBI_0001570"
+ #{"assay_of_epitope_specific_vascular_endothelial_growth_factor_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001571"
+ #{"equilibrium_dissociation_constant__KD__approximated_by_IC50"},
+ "http://purl.obolibrary.org/obo/OBI_0001572"
+ #{"cell_bound_MHC_binding_constant_determination_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001573" #{"DNA_sequence_data"},
+ "http://purl.obolibrary.org/obo/OBI_0001574"
+ #{"cell_lysate_MHC_competitive_binding_assay_using_radioactivity_detection"},
+ "http://purl.obolibrary.org/obo/OBI_0001575"
+ #{"assigning_gene_property_based_on_phenotypic_assessment"},
+ "http://purl.obolibrary.org/obo/OBI_0001576"
+ #{"purified_MHC_binding_constant_determination_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001577"
+ #{"cytometric_bead_array_assay_of_epitope_specific_interleukin-22_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001578"
+ #{"ELISA_of_epitope_specific_vascular_endothelial_growth_factor_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001579"
+ #{"cell_lysate_MHC_binding_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001580"
+ #{"material_transport_service"},
+ "http://purl.obolibrary.org/obo/OBI_0001581"
+ #{"equilibrium_dissociation_constant__KD__approximated_by_EC50"},
+ "http://purl.obolibrary.org/obo/OBI_0001582"
+ #{"cell_bound_MHC_direct_binding_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001583"
+ #{"half_life_of_binding_datum"},
+ "http://purl.obolibrary.org/obo/OBI_0001584"
+ #{"purified_MHC_direct_binding_assay_using_phage_display_binding_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001585"
+ #{"cytometric_bead_array_assay_of_epitope_specific_interleukin-7_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001586"
+ #{"purified_MHC_direct_binding_assay_measuring_half_life_of_binding_datum_[min]_using_radioactivity_detection"},
+ "http://purl.obolibrary.org/obo/OBI_0001587"
+ #{"assay_of_epitope_specific_interleukin-7_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001588" #{"binding"},
+ "http://purl.obolibrary.org/obo/OBI_0001589"
+ #{"intracellular_cytokine_staining_assay_of_epitope_specific_interleukin-17A_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001590"
+ #{"purified_MHC_direct_binding_assay_using_fluorescence_detection"},
+ "http://purl.obolibrary.org/obo/OBI_0001591"
+ #{"direct_binding_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001592"
+ #{"purified_MHC_direct_binding_assay_measuring_half_maximal_effective_concentration__EC50__[nM]_using_fluorescence_detection"},
+ "http://purl.obolibrary.org/obo/OBI_0001593"
+ #{"competitive_inhibition_of_binding_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001594"
+ #{"cell_bound_MHC_competitive_binding_assay_using_fluorescence_detection"},
+ "http://purl.obolibrary.org/obo/OBI_0001595"
+ #{"_3D_structure_determination_of_MHC:ligand_complex_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001596" #{"PDB_file_chain"},
+ "http://purl.obolibrary.org/obo/OBI_0001597"
+ #{"cell_bound_MHC_competitive_binding_assay_measuring_half_maximal_inhibitory_concentration__IC50__[nM]_using_T_cell_epitope_recognition_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001598"
+ #{"data_maintenance_service"},
+ "http://purl.obolibrary.org/obo/OBI_0001599"
+ #{"cell_bound_MHC_competitive_binding_assay_using_radioactivity_detection"},
+ "http://purl.obolibrary.org/obo/OBI_0001600"
+ #{"assay_of_epitope_specific_granulocyte_colony_stimulating_factor_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001601"
+ #{"cytometric_bead_array_assay_of_epitope_specific_interleukin-21_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001602"
+ #{"cell_bound_MHC_direct_binding_assay_using_radioactivity_detection"},
+ "http://purl.obolibrary.org/obo/OBI_0001603"
+ #{"binding_off_rate_measurement_datum__koff_"},
+ "http://purl.obolibrary.org/obo/OBI_0001604"
+ #{"purified_MHC_direct_binding_assay_measuring_50%_dissociation_of_binding_temperature__Tm__[°C]_using_fluorescence_detection"},
+ "http://purl.obolibrary.org/obo/OBI_0001605"
+ #{"binding_on_rate_measurement_datum__kon_"},
+ "http://purl.obolibrary.org/obo/OBI_0001606"
+ #{"cell_bound_MHC_direct_binding_assay_using_fluorescence_detection"},
+ "http://purl.obolibrary.org/obo/OBI_0001607"
+ #{"assay_of_epitope_specific_tumor_necrosis_factor__ligand__superfamily_member_11_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001608"
+ #{"purified_MHC_direct_binding_assay_using_radioactivity_detection"},
+ "http://purl.obolibrary.org/obo/OBI_0001609"
+ #{"intracellular_cytokine_staining_assay_of_epitope_specific_interleukin-8_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001610"
+ #{"cytometric_bead_array_assay_of_epitope_specific_interleukin-23_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001611"
+ #{"purified_MHC_direct_binding_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001612"
+ #{"epitope_specific_vascular_endothelial_growth_factor_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001613"
+ #{"purified_MHC_competitive_binding_assay_measuring_half_maximal_inhibitory_concentration__IC50__[nM]_using_fluorescence_detection"},
+ "http://purl.obolibrary.org/obo/OBI_0001614" #{"GenBank_ID"},
+ "http://purl.obolibrary.org/obo/OBI_0001615"
+ #{"investigation_description"},
+ "http://purl.obolibrary.org/obo/OBI_0001616" #{"specimen_identifier"},
+ "http://purl.obolibrary.org/obo/OBI_0001617" #{"PubMed_ID"},
+ "http://purl.obolibrary.org/obo/OBI_0001618"
+ #{"average_depth_of_sequence_coverage"},
+ "http://purl.obolibrary.org/obo/OBI_0001619"
+ #{"specimen_creation_time_measurement_datum"},
+ "http://purl.obolibrary.org/obo/OBI_0001620"
+ #{"latitude_coordinate_measurement_datum"},
+ "http://purl.obolibrary.org/obo/OBI_0001621"
+ #{"longitude_coordinate_measurement_datum"},
+ "http://purl.obolibrary.org/obo/OBI_0001622" #{"investigation_title"},
+ "http://purl.obolibrary.org/obo/OBI_0001623"
+ #{"organism_identification_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0001624"
+ #{"organism_identification_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001625"
+ #{"sequence_annotation_algorithm"},
+ "http://purl.obolibrary.org/obo/OBI_0001626"
+ #{"Bioinformatics_Resource_Center"},
+ "http://purl.obolibrary.org/obo/OBI_0001627" #{"country_name"},
+ "http://purl.obolibrary.org/obo/OBI_0001628"
+ #{"investigation_identifier"},
+ "http://purl.obolibrary.org/obo/OBI_0001629" #{"grant_identifier"},
+ "http://purl.obolibrary.org/obo/OBI_0001630"
+ #{"analytical_chromatography"},
+ "http://purl.obolibrary.org/obo/OBI_0001631"
+ #{"electron_microscopy_imaging"},
+ "http://purl.obolibrary.org/obo/OBI_0001632"
+ #{"immuno_staining_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001633" #{"purified_material"},
+ "http://purl.obolibrary.org/obo/OBI_0001634" #{"calorimetric_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001635"
+ #{"antibody_binding_detection_by_fluorescence_quenching"},
+ "http://purl.obolibrary.org/obo/OBI_0001636" #{"grant"},
+ "http://purl.obolibrary.org/obo/OBI_0001637"
+ #{"has_disposition_to_bind"},
+ "http://purl.obolibrary.org/obo/OBI_0001638"
+ #{"B_cell_epitope_specific_antigen_inhibition_of_epitope:antibody_binding_measuring_equilibrium_dissociation_constant__KD__approximated_by_IC50_[nM]_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001639"
+ #{"B_cell_epitope_specific_Ig-mediated_histamine_release_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001640"
+ #{"B_cell_epitope_specific_immunoglobulin-mediated_antigen_activation_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001641"
+ #{"B_cell_epitope_specific_complement-dependent_cytotoxicity_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001642"
+ #{"B_cell_epitope_specific_antibody-dependent_cellular_cytotoxicity_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001643"
+ #{"B_cell_epitope_specific_immunoglobulin-mediated_neutralization_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001644"
+ #{"B_cell_epitope_specific_opsonization_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001645"
+ #{"B_cell_epitope_specific_calorimetry_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001646"
+ #{"B_cell_epitope_specific_electron_microscopy_measuring_3D_structure_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001647"
+ #{"B_cell_epitope_specific_nuclear_magnetic_resonance__NMR__measuring_3D_structure_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001648"
+ #{"B_cell_epitope_specific_antibody_cross_blocking_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001649"
+ #{"B_cell_epitope_specific_radio_immuno_assay__RIA_"},
+ "http://purl.obolibrary.org/obo/OBI_0001650"
+ #{"B_cell_epitope_specific_western_blot_analysis"},
+ "http://purl.obolibrary.org/obo/OBI_0001651"
+ #{"B_cell_epitope_specific_surface_plasmon_resonance__SPR__assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001652"
+ #{"B_cell_epitope_specific_immuno_staining_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001653"
+ #{"B_cell_epitope_specific_immunoprecipitation_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001654"
+ #{"B_cell_epitope_specific_mass_spectrometry_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001655"
+ #{"B_cell_epitope_specific_phage_display_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001656"
+ #{"B_cell_epitope_specific_electron_microscopy_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001657"
+ #{"B_cell_epitope_specific_ELISA"},
+ "http://purl.obolibrary.org/obo/OBI_0001658"
+ #{"B_cell_epitope_specific_ELISPOT"},
+ "http://purl.obolibrary.org/obo/OBI_0001659"
+ #{"B_cell_epitope_specific_flow_cytometry_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001660"
+ #{"intracellular_cytokine_staining_assay_of_epitope_specific_granzyme_A_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001661"
+ #{"B_cell_epitope_specific_chromatography_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001662"
+ #{"B_cell_epitope_nuclear_magnetic_resonance__NMR_"},
+ "http://purl.obolibrary.org/obo/OBI_0001663"
+ #{"ELISA_of_epitope_specific_granulysin_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001664"
+ #{"intracellular_cytokine_staining_assay_of_epitope_specific_granulysin_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001665"
+ #{"cell_bound_MHC_direct_binding_assay_measuring_binding_off_rate_measurement_datum__koff__[s^-1]_using_fluorescence_detection"},
+ "http://purl.obolibrary.org/obo/OBI_0001666"
+ #{"cell_bound_MHC_direct_binding_assay_measuring_binding_on_rate_measurement_datum__kon__[nM^-1_s^-1]_using_fluorescence_detection"},
+ "http://purl.obolibrary.org/obo/OBI_0001667"
+ #{"purified_MHC_competitive_binding_assay_measuring_equilibrium_dissociation_constant__KD__approximated_by_IC50_[nM]_using_fluorescence_detection"},
+ "http://purl.obolibrary.org/obo/OBI_0001668"
+ #{"split-ubiquitin_assay_"},
+ "http://purl.obolibrary.org/obo/OBI_0001669" #{"far-Western_blot"},
+ "http://purl.obolibrary.org/obo/OBI_0001670"
+ #{"RNA_protection_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001671"
+ #{"electrophoretic_mobility_shift_assay_"},
+ "http://purl.obolibrary.org/obo/OBI_0001672"
+ #{"gene_knock-down_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001673"
+ #{"nano-cap_analysis_of_gene_expression_"},
+ "http://purl.obolibrary.org/obo/OBI_0001674"
+ #{"cap_analysis_of_gene_expression_"},
+ "http://purl.obolibrary.org/obo/OBI_0001675"
+ #{"ELISA_of_epitope_specific_interleukin-17A_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001676"
+ #{"detection_of_specific_nucleic_acids_with_complementary_probes_of_epitope_specific_interleukin-7_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001677"
+ #{"epitope_specific_granulysin_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001678"
+ #{"epitope_specific_granzyme_A_production_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_0001679" #{"yeast_2-hybrid_"},
+ "http://purl.obolibrary.org/obo/OBI_0001680"
+ #{"Sos-recruitment_assay_"},
+ "http://purl.obolibrary.org/obo/OBI_0001681" #{"yeast_one-hybrid_"},
+ "http://purl.obolibrary.org/obo/OBI_0001682"
+ #{"bacterial_one-hybrid_"},
+ "http://purl.obolibrary.org/obo/OBI_0001683"
+ #{"fluorescence_in-situ_hybridization"},
+ "http://purl.obolibrary.org/obo/OBI_0001684"
+ #{"methylation-specific_polymerase_chain_reaction_"},
+ "http://purl.obolibrary.org/obo/OBI_0001685"
+ #{"amplification_of_intermethylated_sites__AIMS__assay_"},
+ "http://purl.obolibrary.org/obo/OBI_0001686"
+ #{"in-situ_hybridization"},
+ "http://purl.obolibrary.org/obo/OBI_0001687"
+ #{"contact_representative_role"},
+ "http://purl.obolibrary.org/obo/OBI_0001688"
+ #{"has_organization_member"},
+ "http://purl.obolibrary.org/obo/OBI_0001689"
+ #{"cytochalasin-induced_inhibition_of_actin_polymerization_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001690"
+ #{"molecular_function_identification_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0001691"
+ #{"cellular_structure_feature_identification_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0001692"
+ #{"B_cell_epitope_reduction_of_fertility_experiment"},
+ "http://purl.obolibrary.org/obo/OBI_0001693"
+ #{"B_cell_epitope_specific_induction_of_tolerance_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001694"
+ #{"B_cell_epitope_induction_of_hypersensitivity_experiment"},
+ "http://purl.obolibrary.org/obo/OBI_0001695"
+ #{"B_cell_epitope_specific_immune_complex_formation_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001696"
+ #{"B_cell_epitope_protection_experiment_based_on_survival"},
+ "http://purl.obolibrary.org/obo/OBI_0001697"
+ #{"B_cell_epitope_treatment_experiment"},
+ "http://purl.obolibrary.org/obo/OBI_0001698"
+ #{"efficacy_of_B_cell_epitope_intervention_experiment"},
+ "http://purl.obolibrary.org/obo/OBI_0001699"
+ #{"antibody_cross-blocking_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001700"
+ #{"immunoprecipitation_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001701"
+ #{"antigen_inhibition_of_epitope:antibody_binding_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001702"
+ #{"immunoglobulin_binding_to_epitope"},
+ "http://purl.obolibrary.org/obo/OBI_0001703"
+ #{"B_cell_epitope_binding_to_antibody_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001704"
+ #{"B_cell_epitope_specific_activation_of_additional_immune_response_in_vitro"},
+ "http://purl.obolibrary.org/obo/OBI_0001705"
+ #{"B_cell_epitope_specific_neutralization_of_antigen_in_vitro_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001706"
+ #{"B_cell_epitope_dependent_biological_activity_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001707"
+ #{"immunoglobulin_mediated_histamine_release"},
+ "http://purl.obolibrary.org/obo/OBI_0001708"
+ #{"B_cell_epitope_equilibrium_dissociation_constant__KD__determination_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001709"
+ #{"B_cell_epitope_binding_constant_determination_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001710"
+ #{"B_cell_epitope_protection_experiment"},
+ "http://purl.obolibrary.org/obo/OBI_0001711"
+ #{"B_cell_epitope_disease_exacerbation_experiment"},
+ "http://purl.obolibrary.org/obo/OBI_0001712"
+ #{"B_cell_epitope_direct_binding_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001713"
+ #{"B_cell_epitope_specific_opsonization"},
+ "http://purl.obolibrary.org/obo/OBI_0001714"
+ #{"B_cell_epitope_specific_immunoglobulin-mediated_neutralization"},
+ "http://purl.obolibrary.org/obo/OBI_0001715"
+ #{"B_cell_epitope_competitive_binding_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001716"
+ #{"B_cell_epitope_specific_complement-dependent_cytotoxicity"},
+ "http://purl.obolibrary.org/obo/OBI_0001717"
+ #{"B_cell_epitope_specific_antibody-dependent_cellular_cytotoxicity"},
+ "http://purl.obolibrary.org/obo/OBI_0001718"
+ #{"B_cell_epitope_binding_binding_on_rate_measurement_datum__kon__determination_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001719"
+ #{"B_cell_epitope_equilibrium_association_constant__KA__determination_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001720"
+ #{"B_cell_epitope_specific_immune_complex_formation"},
+ "http://purl.obolibrary.org/obo/OBI_0001721"
+ #{"B_cell_epitope_3D_structure_determination_of_antibody:epitope_complex_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001722"
+ #{"B_cell_epitope_specific_hypersensitivity"},
+ "http://purl.obolibrary.org/obo/OBI_0001723"
+ #{"B_cell_epitope_binding_off_rate_measurement_datum__koff__determination_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001724"
+ #{"B_cell_epitope_specific_hemagglutination_inhibition_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001725"
+ #{"B_cell_epitope_specific_histamine_secretion_mediated_by_immunoglobulin"},
+ "http://purl.obolibrary.org/obo/OBI_0001726"
+ #{"B_cell_epitope_fluorescence_immuno_assay__FIA_"},
+ "http://purl.obolibrary.org/obo/OBI_0001727"
+ #{"B_cell_epitope_specific_radio_immuno_assay__RIA__measuring_KD_[nM]"},
+ "http://purl.obolibrary.org/obo/OBI_0001728"
+ #{"B_cell_epitope_specific_ELISA_measuring_KD_[nM]"},
+ "http://purl.obolibrary.org/obo/OBI_0001729"
+ #{"B_cell_epitope_specific_fluorescence_immuno_assay__FIA__measuring_KD_[nM]"},
+ "http://purl.obolibrary.org/obo/OBI_0001730"
+ #{"B_cell_epitope_specific_surface_plasmon_resonance__SPR__measuring_KA_[1_nM]_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001731"
+ #{"B_cell_epitope_specific_surface_plasmon_resonance__SPR__measuring_KD_[nM]_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001732"
+ #{"B_cell_epitope_specific_fluorescence_immuno_assay__FIA__measuring_KA_[1_nM]"},
+ "http://purl.obolibrary.org/obo/OBI_0001733"
+ #{"B_cell_epitope_specific_calorimetry_measuring_KA_[1_nM]_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001734"
+ #{"B_cell_epitope_specific_calorimetry_measuring_KD_[nM]_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001735"
+ #{"B_cell_epitope_specific_ELISA_measuring_KA_[1_nM]_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001736"
+ #{"B_cell_epitope_specific_radio_immuno_assay__RIA__measuring_KA_[1_nM]"},
+ "http://purl.obolibrary.org/obo/OBI_0001737"
+ #{"B_cell_epitope_specific_X-ray_crystallography_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001738"
+ #{"B_cell_epitope_specific_X-ray_crystallography_measuring_3D_structure_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001739"
+ #{"B_cell_epitope_specific_surface_plasmon_resonance__SPR__measuring_koff__kd__[1_s]_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0001740"
+ #{"B_cell_epitope_specific_fluorescence_immuno_assay__FIA__measuring_koff_[1_s]"},
+ "http://purl.obolibrary.org/obo/OBI_0001741"
+ #{"B_cell_epitope_specific_surface_plasmon_resonance_measuring_kon_ka_[M^-1_s^-1]"},
+ "http://purl.obolibrary.org/obo/OBI_0001742"
+ #{"B_cell_epitope_specific_fluorescence_immuno_assay__FIA__measuring_kon_[M^-1_s^-1]"},
+ "http://purl.obolibrary.org/obo/OBI_0005246" #{"injection_function"},
+ "http://purl.obolibrary.org/obo/OBI_0100010"
+ #{"Epstein_Barr_virus_transformed_B_cell"},
+ "http://purl.obolibrary.org/obo/OBI_0100014" #{"chimera"},
+ "http://purl.obolibrary.org/obo/OBI_0100015"
+ #{"obsolete_anatomical_entity"},
+ "http://purl.obolibrary.org/obo/OBI_0100016"
+ #{"blood_plasma_specimen"},
+ "http://purl.obolibrary.org/obo/OBI_0100017"
+ #{"blood_serum_specimen"},
+ "http://purl.obolibrary.org/obo/OBI_0100026" #{"organism"},
+ "http://purl.obolibrary.org/obo/OBI_0100035" #{"immortal_cell"},
+ "http://purl.obolibrary.org/obo/OBI_0100039"
+ #{"obsolete_fragment_derived_from_protein"},
+ "http://purl.obolibrary.org/obo/OBI_0100046"
+ #{"phosphate_buffered_saline_solution"},
+ "http://purl.obolibrary.org/obo/OBI_0100051" #{"specimen"},
+ "http://purl.obolibrary.org/obo/OBI_0100055" #{"cell_line_cell"},
+ "http://purl.obolibrary.org/obo/OBI_0100056"
+ #{"immortalized_cell_line_culture"},
+ "http://purl.obolibrary.org/obo/OBI_0100058" #{"xenograft"},
+ "http://purl.obolibrary.org/obo/OBI_0100060" #{"cell_culture"},
+ "http://purl.obolibrary.org/obo/OBI_0100061"
+ #{"primary_cell_culture"},
+ "http://purl.obolibrary.org/obo/OBI_0100062" #{"cell_line_culture"},
+ "http://purl.obolibrary.org/obo/OBI_0100063" #{"clonal_cell_culture"},
+ "http://purl.obolibrary.org/obo/OBI_0100064" #{"screening_library"},
+ "http://purl.obolibrary.org/obo/OBI_0100065" #{"synthetic_peptide"},
+ "http://purl.obolibrary.org/obo/OBI_0100066" #{"organ_section"},
+ "http://purl.obolibrary.org/obo/OBI_0100067"
+ #{"bronchial_alveolar_lavage"},
+ "http://purl.obolibrary.org/obo/OBI_0100069" #{"obsolete_polymer"},
+ "http://purl.obolibrary.org/obo/OBI_0100086" #{"glucose_in_solution"},
+ "http://purl.obolibrary.org/obo/OBI_0200000" #{"data_transformation"},
+ "http://purl.obolibrary.org/obo/OBI_0200002"
+ #{"logistic-log_curve_fitting"},
+ "http://purl.obolibrary.org/obo/OBI_0200003"
+ #{"logit-log_curve_fitting"},
+ "http://purl.obolibrary.org/obo/OBI_0200004"
+ #{"log-log_curve_fitting"},
+ "http://purl.obolibrary.org/obo/OBI_0200005"
+ #{"feature_extraction_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0200006"
+ #{"biexponential_transformation"},
+ "http://purl.obolibrary.org/obo/OBI_0200007"
+ #{"box-cox_transformation"},
+ "http://purl.obolibrary.org/obo/OBI_0200008"
+ #{"hyperlog_transformation"},
+ "http://purl.obolibrary.org/obo/OBI_0200010"
+ #{"loess_scale_group_transformation_one-channel"},
+ "http://purl.obolibrary.org/obo/OBI_0200011"
+ #{"logical_transformation"},
+ "http://purl.obolibrary.org/obo/OBI_0200012"
+ #{"loess_scale_group_transformation_two-channel"},
+ "http://purl.obolibrary.org/obo/OBI_0200013"
+ #{"loess_global_transformation_one-channel"},
+ "http://purl.obolibrary.org/obo/OBI_0200014"
+ #{"split-scale_transformation"},
+ "http://purl.obolibrary.org/obo/OBI_0200015"
+ #{"loess_global_transformation_two-channel"},
+ "http://purl.obolibrary.org/obo/OBI_0200016" #{"sine_transformation"},
+ "http://purl.obolibrary.org/obo/OBI_0200017"
+ #{"cosine_transformation"},
+ "http://purl.obolibrary.org/obo/OBI_0200018"
+ #{"loess_group_transformation_one-channel"},
+ "http://purl.obolibrary.org/obo/OBI_0200019"
+ #{"loess_group_transformation_two-channel"},
+ "http://purl.obolibrary.org/obo/OBI_0200020"
+ #{"homogeneous_polynomial_transformation"},
+ "http://purl.obolibrary.org/obo/OBI_0200021"
+ #{"linlog_transformation"},
+ "http://purl.obolibrary.org/obo/OBI_0200022"
+ #{"variance_stabilizing_transformation"},
+ "http://purl.obolibrary.org/obo/OBI_0200023"
+ #{"loess_global_transformation"},
+ "http://purl.obolibrary.org/obo/OBI_0200024"
+ #{"loess_group_transformation"},
+ "http://purl.obolibrary.org/obo/OBI_0200025"
+ #{"loess_scale_group_transformation"},
+ "http://purl.obolibrary.org/obo/OBI_0200026"
+ #{"total_intensity_transformation_single"},
+ "http://purl.obolibrary.org/obo/OBI_0200027"
+ #{"total_intensity_transformation_paired"},
+ "http://purl.obolibrary.org/obo/OBI_0200028"
+ #{"quantile_transformation"},
+ "http://purl.obolibrary.org/obo/OBI_0200029" #{"mean_centering"},
+ "http://purl.obolibrary.org/obo/OBI_0200030" #{"median_centering"},
+ "http://purl.obolibrary.org/obo/OBI_0200031"
+ #{"differential_expression_analysis_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0200032"
+ #{"K-fold_cross_validation_method"},
+ "http://purl.obolibrary.org/obo/OBI_0200033"
+ #{"leave_one_out_cross_validation_method"},
+ "http://purl.obolibrary.org/obo/OBI_0200034" #{"jackknifing_method"},
+ "http://purl.obolibrary.org/obo/OBI_0200035" #{"boostrapping"},
+ "http://purl.obolibrary.org/obo/OBI_0200036"
+ #{"Benjamini_and_Hochberg_false_discovery_rate_correction_method"},
+ "http://purl.obolibrary.org/obo/OBI_0200037" #{"pareto_scaling"},
+ "http://purl.obolibrary.org/obo/OBI_0200040"
+ #{"modular_decomposition"},
+ "http://purl.obolibrary.org/obo/OBI_0200041" #{"k-means_clustering"},
+ "http://purl.obolibrary.org/obo/OBI_0200042"
+ #{"hierarchical_clustering"},
+ "http://purl.obolibrary.org/obo/OBI_0200043"
+ #{"average_linkage_hierarchical_clustering"},
+ "http://purl.obolibrary.org/obo/OBI_0200044"
+ #{"complete_linkage_hierarchical_clustering"},
+ "http://purl.obolibrary.org/obo/OBI_0200045"
+ #{"single_linkage_hierarchical_clustering"},
+ "http://purl.obolibrary.org/obo/OBI_0200049"
+ #{"Benjamini_and_Yekutieli_false_discovery_rate_correction_method"},
+ "http://purl.obolibrary.org/obo/OBI_0200050"
+ #{"dimensionality_reduction"},
+ "http://purl.obolibrary.org/obo/OBI_0200051"
+ #{"principal_components_analysis_dimensionality_reduction"},
+ "http://purl.obolibrary.org/obo/OBI_0200052"
+ #{"probabilistic_algorithm"},
+ "http://purl.obolibrary.org/obo/OBI_0200053"
+ #{"expectation_maximization"},
+ "http://purl.obolibrary.org/obo/OBI_0200054"
+ #{"global_modularity_calculation"},
+ "http://purl.obolibrary.org/obo/OBI_0200055" #{"dye_swap_merge"},
+ "http://purl.obolibrary.org/obo/OBI_0200056" #{"moving_average"},
+ "http://purl.obolibrary.org/obo/OBI_0200057" #{"replicate_analysis"},
+ "http://purl.obolibrary.org/obo/OBI_0200058"
+ #{"b_cell_epitope_prediction"},
+ "http://purl.obolibrary.org/obo/OBI_0200059"
+ #{"mhc_binding_prediction"},
+ "http://purl.obolibrary.org/obo/OBI_0200060"
+ #{"t_cell_epitope_prediction"},
+ "http://purl.obolibrary.org/obo/OBI_0200061" #{"data_imputation"},
+ "http://purl.obolibrary.org/obo/OBI_0200062"
+ #{"continuum_mass_spectrum"},
+ "http://purl.obolibrary.org/obo/OBI_0200063"
+ #{"characteristic_path_length_calculation"},
+ "http://purl.obolibrary.org/obo/OBI_0200064"
+ #{"centroid_mass_spectrum"},
+ "http://purl.obolibrary.org/obo/OBI_0200066"
+ #{"Holm-Bonferroni_family-wise_error_rate_correction_method"},
+ "http://purl.obolibrary.org/obo/OBI_0200070" #{"edge_weighting"},
+ "http://purl.obolibrary.org/obo/OBI_0200071"
+ #{"loess_transformation"},
+ "http://purl.obolibrary.org/obo/OBI_0200072"
+ #{"curve_fitting_data_transformation"},
+ "http://purl.obolibrary.org/obo/OBI_0200073"
+ #{"family_wise_error_rate_correction_method"},
+ "http://purl.obolibrary.org/obo/OBI_0200074"
+ #{"submatrix_extraction"},
+ "http://purl.obolibrary.org/obo/OBI_0200075"
+ #{"row_submatrix_extraction"},
+ "http://purl.obolibrary.org/obo/OBI_0200076"
+ #{"column_submatrix_extraction"},
+ "http://purl.obolibrary.org/obo/OBI_0200077" #{"gating"},
+ "http://purl.obolibrary.org/obo/OBI_0200078"
+ #{"descriptive_statistical_calculation_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0200079" #{"mean_calculation"},
+ "http://purl.obolibrary.org/obo/OBI_0200080" #{"network_analysis"},
+ "http://purl.obolibrary.org/obo/OBI_0200081"
+ #{"sequence_analysis_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0200082"
+ #{"longitudinal_data_analysis"},
+ "http://purl.obolibrary.org/obo/OBI_0200083"
+ #{"survival_analysis_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0200085"
+ #{"mass_spectrometry_analysis"},
+ "http://purl.obolibrary.org/obo/OBI_0200086"
+ #{"spread_calculation_data_transformation"},
+ "http://purl.obolibrary.org/obo/OBI_0200088" #{"Kaplan_Meier"},
+ "http://purl.obolibrary.org/obo/OBI_0200089"
+ #{"multiple_testing_correction_method"},
+ "http://purl.obolibrary.org/obo/OBI_0200091"
+ #{"inter-rater_reliability_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0200092"
+ #{"Westfall_and_Young_family_wise_error_rate_correction"},
+ "http://purl.obolibrary.org/obo/OBI_0200093"
+ #{"polynomial_transformation"},
+ "http://purl.obolibrary.org/obo/OBI_0200094"
+ #{"logarithmic_transformation"},
+ "http://purl.obolibrary.org/obo/OBI_0200095"
+ #{"exponential_transformation"},
+ "http://purl.obolibrary.org/obo/OBI_0200097"
+ #{"non-negative_matrix_factorization"},
+ "http://purl.obolibrary.org/obo/OBI_0200098"
+ #{"soft_independent_modeling_of_class_analogy_analysis"},
+ "http://purl.obolibrary.org/obo/OBI_0200099"
+ #{"discriminant_function_analysis"},
+ "http://purl.obolibrary.org/obo/OBI_0200100"
+ #{"canonical_variate_analysis"},
+ "http://purl.obolibrary.org/obo/OBI_0200101"
+ #{"linear_discriminant_functional_analysis"},
+ "http://purl.obolibrary.org/obo/OBI_0200102"
+ #{"regression_analysis_method"},
+ "http://purl.obolibrary.org/obo/OBI_0200103"
+ #{"multiple_linear_regression_analysis"},
+ "http://purl.obolibrary.org/obo/OBI_0200104"
+ #{"principal_component_regression"},
+ "http://purl.obolibrary.org/obo/OBI_0200105"
+ #{"partial_least_square_regression_analysis"},
+ "http://purl.obolibrary.org/obo/OBI_0200106"
+ #{"discriminant_analysis"},
+ "http://purl.obolibrary.org/obo/OBI_0200107"
+ #{"partial_least_square_discriminant_analysis"},
+ "http://purl.obolibrary.org/obo/OBI_0200108" #{"eh_transformation"},
+ "http://purl.obolibrary.org/obo/OBI_0200109" #{"b_transformation"},
+ "http://purl.obolibrary.org/obo/OBI_0200110" #{"s_transformation"},
+ "http://purl.obolibrary.org/obo/OBI_0200111" #{"data_visualization"},
+ "http://purl.obolibrary.org/obo/OBI_0200113"
+ #{"similarity_calculation"},
+ "http://purl.obolibrary.org/obo/OBI_0200114"
+ #{"euclidean_distance_calculation"},
+ "http://purl.obolibrary.org/obo/OBI_0200115"
+ #{"pearson_correlation_coefficient_calculation"},
+ "http://purl.obolibrary.org/obo/OBI_0200116" #{"loess_fitting"},
+ "http://purl.obolibrary.org/obo/OBI_0200117" #{"mode_calculation"},
+ "http://purl.obolibrary.org/obo/OBI_0200118"
+ #{"quantile_calculation"},
+ "http://purl.obolibrary.org/obo/OBI_0200119" #{"median_calculation"},
+ "http://purl.obolibrary.org/obo/OBI_0200120"
+ #{"variance_calculation"},
+ "http://purl.obolibrary.org/obo/OBI_0200121"
+ #{"standard_deviation_calculation"},
+ "http://purl.obolibrary.org/obo/OBI_0200122"
+ #{"interquartile-range_calculation"},
+ "http://purl.obolibrary.org/obo/OBI_0200123"
+ #{"skewness_calculation"},
+ "http://purl.obolibrary.org/obo/OBI_0200124"
+ #{"kurtosis_calculation"},
+ "http://purl.obolibrary.org/obo/OBI_0200125" #{"data_combination"},
+ "http://purl.obolibrary.org/obo/OBI_0200126"
+ #{"network_graph_construction"},
+ "http://purl.obolibrary.org/obo/OBI_0200127"
+ #{"weighted_network_graph_construction"},
+ "http://purl.obolibrary.org/obo/OBI_0200128"
+ #{"directed_network_graph_construction"},
+ "http://purl.obolibrary.org/obo/OBI_0200129"
+ #{"node_quality_calculation"},
+ "http://purl.obolibrary.org/obo/OBI_0200130"
+ #{"node_degree_calculation"},
+ "http://purl.obolibrary.org/obo/OBI_0200131"
+ #{"quantitative_node_degree_calculation"},
+ "http://purl.obolibrary.org/obo/OBI_0200132"
+ #{"node_in-degree_calculation"},
+ "http://purl.obolibrary.org/obo/OBI_0200133"
+ #{"node_out-degree_calculation"},
+ "http://purl.obolibrary.org/obo/OBI_0200134"
+ #{"node_shortest_path_identification"},
+ "http://purl.obolibrary.org/obo/OBI_0200135"
+ #{"edge_quality_calculation"},
+ "http://purl.obolibrary.org/obo/OBI_0200136"
+ #{"edge_betweenness_calculation"},
+ "http://purl.obolibrary.org/obo/OBI_0200137"
+ #{"network_subgraph_quality_calculation"},
+ "http://purl.obolibrary.org/obo/OBI_0200138"
+ #{"subgraph_degree_calculation"},
+ "http://purl.obolibrary.org/obo/OBI_0200139"
+ #{"quantitative_subgraph_degree_calculation"},
+ "http://purl.obolibrary.org/obo/OBI_0200140"
+ #{"mathematical_feature"},
+ "http://purl.obolibrary.org/obo/OBI_0200141" #{"log_base"},
+ "http://purl.obolibrary.org/obo/OBI_0200143"
+ #{"subgraph_in-degree_calculation"},
+ "http://purl.obolibrary.org/obo/OBI_0200144"
+ #{"subgraph_out-degree_calculation"},
+ "http://purl.obolibrary.org/obo/OBI_0200145"
+ #{"intra_subgraph_connectivity_calculation"},
+ "http://purl.obolibrary.org/obo/OBI_0200146"
+ #{"subgraph_modularity_calculation"},
+ "http://purl.obolibrary.org/obo/OBI_0200147"
+ #{"network_graph_quality_calculation"},
+ "http://purl.obolibrary.org/obo/OBI_0200149"
+ #{"unit-variance_scaling"},
+ "http://purl.obolibrary.org/obo/OBI_0200150" #{"MA_transformation"},
+ "http://purl.obolibrary.org/obo/OBI_0200151" #{"exponential_base"},
+ "http://purl.obolibrary.org/obo/OBI_0200152" #{"polynomial_degree"},
+ "http://purl.obolibrary.org/obo/OBI_0200153" #{"number_of_variables"},
+ "http://purl.obolibrary.org/obo/OBI_0200154"
+ #{"agglomerative_hierarchical_clustering"},
+ "http://purl.obolibrary.org/obo/OBI_0200155"
+ #{"divisive_hierarchical_clustering"},
+ "http://purl.obolibrary.org/obo/OBI_0200156" #{"data_partitioning"},
+ "http://purl.obolibrary.org/obo/OBI_0200157"
+ #{"data_vector_reduction_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0200160"
+ #{"generalized_family_wise_error_rate_correction_method"},
+ "http://purl.obolibrary.org/obo/OBI_0200161"
+ #{"quantile_number_of_false_positives_correction_method"},
+ "http://purl.obolibrary.org/obo/OBI_0200162"
+ #{"tail_probability_for_the_proportion_of_false_positives_correction_method"},
+ "http://purl.obolibrary.org/obo/OBI_0200163"
+ #{"false_discovery_rate_correction_method"},
+ "http://purl.obolibrary.org/obo/OBI_0200164"
+ #{"proportion_of_expected_false_positives_correction_method"},
+ "http://purl.obolibrary.org/obo/OBI_0200165"
+ #{"quantile_proportion_of_false_positives_correction_method"},
+ "http://purl.obolibrary.org/obo/OBI_0200166"
+ #{"data_transformation_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0200167"
+ #{"data_normalization_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0200168"
+ #{"correction_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0200169"
+ #{"normalization_data_transformation"},
+ "http://purl.obolibrary.org/obo/OBI_0200170"
+ #{"averaging_data_transformation"},
+ "http://purl.obolibrary.org/obo/OBI_0200171"
+ #{"partitioning_data_transformation"},
+ "http://purl.obolibrary.org/obo/OBI_0200172"
+ #{"partitioning_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0200173"
+ #{"background_correction_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0200174"
+ #{"curve_fitting_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0200175"
+ #{"class_discovery_data_transformation"},
+ "http://purl.obolibrary.org/obo/OBI_0200176" #{"Fisher's_exact_test"},
+ "http://purl.obolibrary.org/obo/OBI_0200177"
+ #{"center_calculation_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0200178"
+ #{"class_discovery_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0200179"
+ #{"class_prediction_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0200180"
+ #{"spread_calculation_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0200181"
+ #{"center_calculation_data_transformation"},
+ "http://purl.obolibrary.org/obo/OBI_0200182"
+ #{"data_vector_reduction_data_transformation"},
+ "http://purl.obolibrary.org/obo/OBI_0200183" #{"scaling_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0200184"
+ #{"descriptive_statistical_calculation_data_transformation"},
+ "http://purl.obolibrary.org/obo/OBI_0200185"
+ #{"scaling_data_transformation"},
+ "http://purl.obolibrary.org/obo/OBI_0200186"
+ #{"error_correction_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0200187"
+ #{"sequence_analysis_data_transformation"},
+ "http://purl.obolibrary.org/obo/OBI_0200188"
+ #{"cross_validation_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0200189" #{"merging_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0200190"
+ #{"clustered_data_visualization"},
+ "http://purl.obolibrary.org/obo/OBI_0200191"
+ #{"gene_list_visualization"},
+ "http://purl.obolibrary.org/obo/OBI_0200192"
+ #{"classified_data_visualization"},
+ "http://purl.obolibrary.org/obo/OBI_0200193"
+ #{"background_corrected_data_visualization"},
+ "http://purl.obolibrary.org/obo/OBI_0200194"
+ #{"survival_analysis_data_transformation"},
+ "http://purl.obolibrary.org/obo/OBI_0200195"
+ #{"proportional_hazards_model_estimation"},
+ "http://purl.obolibrary.org/obo/OBI_0200196"
+ #{"correlation_study_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0200197"
+ #{"spectrum_analysis_objective"},
+ "http://purl.obolibrary.org/obo/OBI_0200198"
+ #{"tandem_mass_spectrometry"},
+ "http://purl.obolibrary.org/obo/OBI_0200199"
+ #{"gas_chromatography_mass_spectrometry"},
+ "http://purl.obolibrary.org/obo/OBI_0200200" #{"chi_square_test"},
+ "http://purl.obolibrary.org/obo/OBI_0200201" #{"ANOVA"},
+ "http://purl.obolibrary.org/obo/OBI_0300310" #{"sequential_design"},
+ "http://purl.obolibrary.org/obo/OBI_0300311" #{"observation_design"},
+ "http://purl.obolibrary.org/obo/OBI_0302714"
+ #{"obsolete_collection__of_entities_of_organismal_origin_"},
+ "http://purl.obolibrary.org/obo/OBI_0302716" #{"pool_of_specimens"},
+ "http://purl.obolibrary.org/obo/OBI_0302729" #{"chemical_solution"},
+ "http://purl.obolibrary.org/obo/OBI_0302731" #{"buffer_role"},
+ "http://purl.obolibrary.org/obo/OBI_0302732" #{"solvent_role"},
+ "http://purl.obolibrary.org/obo/OBI_0302733" #{"solute_role"},
+ "http://purl.obolibrary.org/obo/OBI_0302736" #{"comet_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0302737" #{"PCR-SSCP_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0302743" #{"obsolete_liver"},
+ "http://purl.obolibrary.org/obo/OBI_0302745"
+ #{"obsolete_adipose_tissue"},
+ "http://purl.obolibrary.org/obo/OBI_0302835" #{"denatured_polymer"},
+ "http://purl.obolibrary.org/obo/OBI_0302837"
+ #{"decapitated_organism"},
+ "http://purl.obolibrary.org/obo/OBI_0302838"
+ #{"validated_information"},
+ "http://purl.obolibrary.org/obo/OBI_0302840" #{"curated_information"},
+ "http://purl.obolibrary.org/obo/OBI_0302846"
+ #{"randomized_group_participant_role"},
+ "http://purl.obolibrary.org/obo/OBI_0302847" #{"methylated_polymer"},
+ "http://purl.obolibrary.org/obo/OBI_0302859"
+ #{"genetically_modified_organism"},
+ "http://purl.obolibrary.org/obo/OBI_0302867" #{"predicted_data_item"},
+ "http://purl.obolibrary.org/obo/OBI_0302868" #{"mean-centered_data"},
+ "http://purl.obolibrary.org/obo/OBI_0302874" #{"edited_document"},
+ "http://purl.obolibrary.org/obo/OBI_0302876"
+ #{"dissolved_material_entity"},
+ "http://purl.obolibrary.org/obo/OBI_0302884" #{"extraction"},
+ "http://purl.obolibrary.org/obo/OBI_0302885" #{"filtration"},
+ "http://purl.obolibrary.org/obo/OBI_0302886" #{"centrifugation"},
+ "http://purl.obolibrary.org/obo/OBI_0302887" #{"staining"},
+ "http://purl.obolibrary.org/obo/OBI_0302888" #{"washing"},
+ "http://purl.obolibrary.org/obo/OBI_0302889" #{"irradiation"},
+ "http://purl.obolibrary.org/obo/OBI_0302890" #{"polymerization"},
+ "http://purl.obolibrary.org/obo/OBI_0302891" #{"trypsination"},
+ "http://purl.obolibrary.org/obo/OBI_0302892" #{"enzymatic_ligation"},
+ "http://purl.obolibrary.org/obo/OBI_0302893" #{"storage"},
+ "http://purl.obolibrary.org/obo/OBI_0302894" #{"cell_lysis"},
+ "http://purl.obolibrary.org/obo/OBI_0302895" #{"electrocution"},
+ "http://purl.obolibrary.org/obo/OBI_0302896"
+ #{"cervical_dislocation"},
+ "http://purl.obolibrary.org/obo/OBI_0302897" #{"asphyxiation"},
+ "http://purl.obolibrary.org/obo/OBI_0302898"
+ #{"intentional_overdosing"},
+ "http://purl.obolibrary.org/obo/OBI_0302899" #{"decapitation"},
+ "http://purl.obolibrary.org/obo/OBI_0302900" #{"group_randomization"},
+ "http://purl.obolibrary.org/obo/OBI_0302901" #{"obsolete_activation"},
+ "http://purl.obolibrary.org/obo/OBI_0302902" #{"immobilization"},
+ "http://purl.obolibrary.org/obo/OBI_0302903"
+ #{"nucleic_acid_hybridization"},
+ "http://purl.obolibrary.org/obo/OBI_0302905" #{"elution"},
+ "http://purl.obolibrary.org/obo/OBI_0302906" #{"DNA_Subtraction"},
+ "http://purl.obolibrary.org/obo/OBI_0302908" #{"document_editing"},
+ "http://purl.obolibrary.org/obo/OBI_0302910" #{"prediction"},
+ "http://purl.obolibrary.org/obo/OBI_0302911" #{"validation"},
+ "http://purl.obolibrary.org/obo/OBI_0302912" #{"electroporation"},
+ "http://purl.obolibrary.org/obo/OBI_0302914" #{"digital_curation"},
+ "http://purl.obolibrary.org/obo/OBI_0400005" #{"A10-Analyzer"},
+ "http://purl.obolibrary.org/obo/OBI_0400006" #{"A40-MiniFCM"},
+ "http://purl.obolibrary.org/obo/OBI_0400007"
+ #{"analog-to-digital_converter"},
+ "http://purl.obolibrary.org/obo/OBI_0400008"
+ #{"flow_cytometer_analyzer"},
+ "http://purl.obolibrary.org/obo/OBI_0400009" #{"arc_lamp"},
+ "http://purl.obolibrary.org/obo/OBI_0400010" #{"argon_ion_laser"},
+ "http://purl.obolibrary.org/obo/OBI_0400011"
+ #{"avalanche_photodiode"},
+ "http://purl.obolibrary.org/obo/OBI_0400012" #{"Bactiflow"},
+ "http://purl.obolibrary.org/obo/OBI_0400013" #{"band_pass_filter"},
+ "http://purl.obolibrary.org/obo/OBI_0400014" #{"BioSorter1000"},
+ "http://purl.obolibrary.org/obo/OBI_0400015" #{"BioSorter2000"},
+ "http://purl.obolibrary.org/obo/OBI_0400016" #{"BioSorter250"},
+ "http://purl.obolibrary.org/obo/OBI_0400017" #{"BioSorter500"},
+ "http://purl.obolibrary.org/obo/OBI_0400018" #{"Cell_Lab_Quanta_SC"},
+ "http://purl.obolibrary.org/obo/OBI_0400019" #{"charge_plate"},
+ "http://purl.obolibrary.org/obo/OBI_0400020"
+ #{"cell_sorter_collection_tube"},
+ "http://purl.obolibrary.org/obo/OBI_0400022" #{"Cyan"},
+ "http://purl.obolibrary.org/obo/OBI_0400023" #{"CYFlow_ML"},
+ "http://purl.obolibrary.org/obo/OBI_0400024" #{"CyFlow_SL"},
+ "http://purl.obolibrary.org/obo/OBI_0400025" #{"CyFlow_SL3"},
+ "http://purl.obolibrary.org/obo/OBI_0400026" #{"CyFlow_Space"},
+ "http://purl.obolibrary.org/obo/OBI_0400027" #{"CytoBuoy"},
+ "http://purl.obolibrary.org/obo/OBI_0400028" #{"CytoSence"},
+ "http://purl.obolibrary.org/obo/OBI_0400029" #{"CytoSub"},
+ "http://purl.obolibrary.org/obo/OBI_0400030" #{"dichroic_filter"},
+ "http://purl.obolibrary.org/obo/OBI_0400031" #{"dichroic_mirror"},
+ "http://purl.obolibrary.org/obo/OBI_0400032"
+ #{"differential_pressure_gauge"},
+ "http://purl.obolibrary.org/obo/OBI_0400033" #{"diode_laser"},
+ "http://purl.obolibrary.org/obo/OBI_0400034" #{"dye_laser"},
+ "http://purl.obolibrary.org/obo/OBI_0400036" #{"FACS_Calibur"},
+ "http://purl.obolibrary.org/obo/OBI_0400037" #{"FACS_Canto"},
+ "http://purl.obolibrary.org/obo/OBI_0400038" #{"FACS_Canto2"},
+ "http://purl.obolibrary.org/obo/OBI_0400039" #{"FACS_Scan"},
+ "http://purl.obolibrary.org/obo/OBI_0400040" #{"FACSAria"},
+ "http://purl.obolibrary.org/obo/OBI_0400041" #{"FACSvantage"},
+ "http://purl.obolibrary.org/obo/OBI_0400042" #{"FC_500"},
+ "http://purl.obolibrary.org/obo/OBI_0400043" #{"flow_cell"},
+ "http://purl.obolibrary.org/obo/OBI_0400044" #{"flow_cytometer"},
+ "http://purl.obolibrary.org/obo/OBI_0400045"
+ #{"fluid_pressure_regulator"},
+ "http://purl.obolibrary.org/obo/OBI_0400047" #{"gas_laser"},
+ "http://purl.obolibrary.org/obo/OBI_0400048" #{"Guava_EasyCyte_Mini"},
+ "http://purl.obolibrary.org/obo/OBI_0400049" #{"Guava_EasyCyte_Plus"},
+ "http://purl.obolibrary.org/obo/OBI_0400050"
+ #{"Guava_Personal_Cell_Analysis"},
+ "http://purl.obolibrary.org/obo/OBI_0400051"
+ #{"Guava_Personal_Cell_Analysis-96"},
+ "http://purl.obolibrary.org/obo/OBI_0400052"
+ #{"helium_cadmium_ion_laser"},
+ "http://purl.obolibrary.org/obo/OBI_0400053"
+ #{"helium_neon_ion_laser"},
+ "http://purl.obolibrary.org/obo/OBI_0400054" #{"Amnis_ImageStream"},
+ "http://purl.obolibrary.org/obo/OBI_0400055" #{"inFlux_Analyzer"},
+ "http://purl.obolibrary.org/obo/OBI_0400056" #{"Influx_Cell_Sorter"},
+ "http://purl.obolibrary.org/obo/OBI_0400059" #{"interrogation_point"},
+ "http://purl.obolibrary.org/obo/OBI_0400060" #{"ion_laser"},
+ "http://purl.obolibrary.org/obo/OBI_0400061"
+ #{"jet_in_air_flow_chamber"},
+ "http://purl.obolibrary.org/obo/OBI_0400062" #{"krypton_ion_laser"},
+ "http://purl.obolibrary.org/obo/OBI_0400063" #{"LactoScope_C4"},
+ "http://purl.obolibrary.org/obo/OBI_0400064" #{"laser"},
+ "http://purl.obolibrary.org/obo/OBI_0400065" #{"light_source"},
+ "http://purl.obolibrary.org/obo/OBI_0400066"
+ #{"logarithmic_voltage_amplifier"},
+ "http://purl.obolibrary.org/obo/OBI_0400067" #{"long_pass_filter"},
+ "http://purl.obolibrary.org/obo/OBI_0400068" #{"LSR2"},
+ "http://purl.obolibrary.org/obo/OBI_0400069" #{"Luminex_100"},
+ "http://purl.obolibrary.org/obo/OBI_0400070" #{"Luminex_200"},
+ "http://purl.obolibrary.org/obo/OBI_0400071" #{"MACS_Quant"},
+ "http://purl.obolibrary.org/obo/OBI_0400073" #{"metal_vapor_laser"},
+ "http://purl.obolibrary.org/obo/OBI_0400074"
+ #{"mixed_argon-krypton_gas_laser"},
+ "http://purl.obolibrary.org/obo/OBI_0400075" #{"MoFlo"},
+ "http://purl.obolibrary.org/obo/OBI_0400076" #{"multi-well_plate"},
+ "http://purl.obolibrary.org/obo/OBI_0400077" #{"neodymium-YAG_laser"},
+ "http://purl.obolibrary.org/obo/OBI_0400078" #{"obscuration_bar"},
+ "http://purl.obolibrary.org/obo/OBI_0400079" #{"optical_filter"},
+ "http://purl.obolibrary.org/obo/OBI_0400080" #{"optical_subsystem"},
+ "http://purl.obolibrary.org/obo/OBI_0400081"
+ #{"particle_delivery_vessel"},
+ "http://purl.obolibrary.org/obo/OBI_0400082" #{"photodetector"},
+ "http://purl.obolibrary.org/obo/OBI_0400083" #{"photodiode"},
+ "http://purl.obolibrary.org/obo/OBI_0400084"
+ #{"photomultiplier_tube"},
+ "http://purl.obolibrary.org/obo/OBI_0400085"
+ #{"piezo_electric_crystal"},
+ "http://purl.obolibrary.org/obo/OBI_0400086" #{"plate_loader"},
+ "http://purl.obolibrary.org/obo/OBI_0400087" #{"preamplifier"},
+ "http://purl.obolibrary.org/obo/OBI_0400088"
+ #{"quartz_cuvette_flow_chamber"},
+ "http://purl.obolibrary.org/obo/OBI_0400089" #{"Reflection"},
+ "http://purl.obolibrary.org/obo/OBI_0400091"
+ #{"cytometer_sample_tube"},
+ "http://purl.obolibrary.org/obo/OBI_0400094" #{"sheath_tank"},
+ "http://purl.obolibrary.org/obo/OBI_0400095" #{"short_pass_filter"},
+ "http://purl.obolibrary.org/obo/OBI_0400096" #{"solid_state_laser"},
+ "http://purl.obolibrary.org/obo/OBI_0400097" #{"Somacount"},
+ "http://purl.obolibrary.org/obo/OBI_0400098" #{"SomaScope"},
+ "http://purl.obolibrary.org/obo/OBI_0400099"
+ #{"flow_cytometer_sorter"},
+ "http://purl.obolibrary.org/obo/OBI_0400100" #{"syringe_pump"},
+ "http://purl.obolibrary.org/obo/OBI_0400101" #{"voltage_amplifier"},
+ "http://purl.obolibrary.org/obo/OBI_0400102" #{"waste_tank"},
+ "http://purl.obolibrary.org/obo/OBI_0400103" #{"DNA_sequencer"},
+ "http://purl.obolibrary.org/obo/OBI_0400104" #{"array_scanner"},
+ "http://purl.obolibrary.org/obo/OBI_0400105" #{"arrayer"},
+ "http://purl.obolibrary.org/obo/OBI_0400106" #{"centrifuge"},
+ "http://purl.obolibrary.org/obo/OBI_0400107" #{"computer"},
+ "http://purl.obolibrary.org/obo/OBI_0400108" #{"heating_block"},
+ "http://purl.obolibrary.org/obo/OBI_0400109" #{"homogenizer"},
+ "http://purl.obolibrary.org/obo/OBI_0400110"
+ #{"hybridization_chamber"},
+ "http://purl.obolibrary.org/obo/OBI_0400111"
+ #{"hybridization_station"},
+ "http://purl.obolibrary.org/obo/OBI_0400112" #{"liquid_handler"},
+ "http://purl.obolibrary.org/obo/OBI_0400113"
+ #{"oligonucleotide_synthesizer"},
+ "http://purl.obolibrary.org/obo/OBI_0400114" #{"sonicator"},
+ "http://purl.obolibrary.org/obo/OBI_0400115" #{"spectrophotometer"},
+ "http://purl.obolibrary.org/obo/OBI_0400116" #{"thermal_cycler"},
+ "http://purl.obolibrary.org/obo/OBI_0400117" #{"vacuum_dryer"},
+ "http://purl.obolibrary.org/obo/OBI_0400118" #{"vortexer"},
+ "http://purl.obolibrary.org/obo/OBI_0400119"
+ #{"microarray_wash_station"},
+ "http://purl.obolibrary.org/obo/OBI_0400120"
+ #{"temperature_control_bath"},
+ "http://purl.obolibrary.org/obo/OBI_0400121"
+ #{"molecular_crosslinker"},
+ "http://purl.obolibrary.org/obo/OBI_0400135" #{"image_cytometer"},
+ "http://purl.obolibrary.org/obo/OBI_0400137" #{"cytometer"},
+ "http://purl.obolibrary.org/obo/OBI_0400140" #{"gel_tank"},
+ "http://purl.obolibrary.org/obo/OBI_0400142" #{"power_supply"},
+ "http://purl.obolibrary.org/obo/OBI_0400143" #{"fluorometer"},
+ "http://purl.obolibrary.org/obo/OBI_0400146"
+ #{"multispectral_imaging_flow_cytometer"},
+ "http://purl.obolibrary.org/obo/OBI_0400147" #{"microarray"},
+ "http://purl.obolibrary.org/obo/OBI_0400148" #{"DNA_microarray"},
+ "http://purl.obolibrary.org/obo/OBI_0400149" #{"protein_microarray"},
+ "http://purl.obolibrary.org/obo/OBI_0400153" #{"droplet_sorter"},
+ "http://purl.obolibrary.org/obo/OBI_0400155" #{"water_bath"},
+ "http://purl.obolibrary.org/obo/OBI_0400157" #{"oil_bath"},
+ "http://purl.obolibrary.org/obo/OBI_0400158"
+ #{"digital-to-analog_converter"},
+ "http://purl.obolibrary.org/obo/OBI_0400168" #{"microtome"},
+ "http://purl.obolibrary.org/obo/OBI_0400169" #{"microscope"},
+ "http://purl.obolibrary.org/obo/OBI_0400170" #{"microscope_slide"},
+ "http://purl.obolibrary.org/obo/OBI_0400171" #{"animal_cage"},
+ "http://purl.obolibrary.org/obo/OBI_0500000" #{"study_design"},
+ "http://purl.obolibrary.org/obo/OBI_0500001"
+ #{"clinical_study_design"},
+ "http://purl.obolibrary.org/obo/OBI_0500002"
+ #{"repeated_measure_design"},
+ "http://purl.obolibrary.org/obo/OBI_0500003" #{"cross_over_design"},
+ "http://purl.obolibrary.org/obo/OBI_0500004" #{"n-to-1_design"},
+ "http://purl.obolibrary.org/obo/OBI_0500005"
+ #{"matched_pairs_design"},
+ "http://purl.obolibrary.org/obo/OBI_0500006"
+ #{"parallel_group_design"},
+ "http://purl.obolibrary.org/obo/OBI_0500007"
+ #{"randomized_complete_block_design"},
+ "http://purl.obolibrary.org/obo/OBI_0500008"
+ #{"balanced_incomplete_block_design"},
+ "http://purl.obolibrary.org/obo/OBI_0500009" #{"loop_design"},
+ "http://purl.obolibrary.org/obo/OBI_0500010" #{"reference_design"},
+ "http://purl.obolibrary.org/obo/OBI_0500011" #{"latin_square_design"},
+ "http://purl.obolibrary.org/obo/OBI_0500012"
+ #{"graeco_latin_square_design"},
+ "http://purl.obolibrary.org/obo/OBI_0500013"
+ #{"hyper_graeco_latin_square_design"},
+ "http://purl.obolibrary.org/obo/OBI_0500014" #{"factorial_design"},
+ "http://purl.obolibrary.org/obo/OBI_0500015"
+ #{"_2x2_factorial_design"},
+ "http://purl.obolibrary.org/obo/OBI_0500016"
+ #{"fractional_factorial_design"},
+ "http://purl.obolibrary.org/obo/OBI_0500017" #{"dye_swap_design"},
+ "http://purl.obolibrary.org/obo/OBI_0500018" #{"replicate_design"},
+ "http://purl.obolibrary.org/obo/OBI_0500019" #{"self_vs_self_design"},
+ "http://purl.obolibrary.org/obo/OBI_0500020" #{"time_series_design"},
+ "http://purl.obolibrary.org/obo/OBI_0500022" #{"stopping_rule"},
+ "http://purl.obolibrary.org/obo/OBI_0500023" #{"compliance_rule"},
+ "http://purl.obolibrary.org/obo/OBI_0500024"
+ #{"standard_compliance_rule"},
+ "http://purl.obolibrary.org/obo/OBI_0500025"
+ #{"ethical_standard_compliance_rule"},
+ "http://purl.obolibrary.org/obo/OBI_0500026" #{"eligibility_rule"},
+ "http://purl.obolibrary.org/obo/OBI_0500027" #{"inclusion_rule"},
+ "http://purl.obolibrary.org/obo/OBI_0500028" #{"exclusion_rule"},
+ "http://purl.obolibrary.org/obo/OBI_0600000"
+ #{"adding_substance_to_cell_culture"},
+ "http://purl.obolibrary.org/obo/OBI_0600002" #{"tumor_grading"},
+ "http://purl.obolibrary.org/obo/OBI_0600003"
+ #{"performing_a_clinical_assessment"},
+ "http://purl.obolibrary.org/obo/OBI_0600004"
+ #{"human_subject_enrollment"},
+ "http://purl.obolibrary.org/obo/OBI_0600005"
+ #{"collecting_specimen_from_organism"},
+ "http://purl.obolibrary.org/obo/OBI_0600006" #{"killing"},
+ "http://purl.obolibrary.org/obo/OBI_0600007"
+ #{"administering_substance_in_vivo"},
+ "http://purl.obolibrary.org/obo/OBI_0600008" #{"acquisition"},
+ "http://purl.obolibrary.org/obo/OBI_0600009"
+ #{"exposure_of_material_to_environment"},
+ "http://purl.obolibrary.org/obo/OBI_0600010"
+ #{"material_acquisition"},
+ "http://purl.obolibrary.org/obo/OBI_0600011" #{"acclimatization"},
+ "http://purl.obolibrary.org/obo/OBI_0600012"
+ #{"environmental_material_collection"},
+ "http://purl.obolibrary.org/obo/OBI_0600013"
+ #{"information_acquisition"},
+ "http://purl.obolibrary.org/obo/OBI_0600014"
+ #{"material_component_separation"},
+ "http://purl.obolibrary.org/obo/OBI_0600015" #{"group_assignment"},
+ "http://purl.obolibrary.org/obo/OBI_0600016" #{"pooling_specimens"},
+ "http://purl.obolibrary.org/obo/OBI_0600017" #{"detection_of_label"},
+ "http://purl.obolibrary.org/obo/OBI_0600018" #{"material_portioning"},
+ "http://purl.obolibrary.org/obo/OBI_0600019"
+ #{"non-specific_labeling"},
+ "http://purl.obolibrary.org/obo/OBI_0600020" #{"histology"},
+ "http://purl.obolibrary.org/obo/OBI_0600021" #{"cell_fixation"},
+ "http://purl.obolibrary.org/obo/OBI_0600022" #{"excision"},
+ "http://purl.obolibrary.org/obo/OBI_0600023"
+ #{"non_specific_enzymatic_cleavage"},
+ "http://purl.obolibrary.org/obo/OBI_0600024"
+ #{"maintaining_cell_culture"},
+ "http://purl.obolibrary.org/obo/OBI_0600025" #{"substance_detection"},
+ "http://purl.obolibrary.org/obo/OBI_0600026"
+ #{"longitudinal_mass_measurement_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0600027"
+ #{"artificially_induced_cell_membrane_lysis"},
+ "http://purl.obolibrary.org/obo/OBI_0600028"
+ #{"artificially_induced_reverse_transcription"},
+ "http://purl.obolibrary.org/obo/OBI_0600029"
+ #{"isolation_of_cell_culture_supernatant"},
+ "http://purl.obolibrary.org/obo/OBI_0600030"
+ #{"experimental_disease_induction"},
+ "http://purl.obolibrary.org/obo/OBI_0600031" #{"ELISPOT_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0600032"
+ #{"artificially_induced_DNA_repair"},
+ "http://purl.obolibrary.org/obo/OBI_0600033"
+ #{"cell_permeabilization"},
+ "http://purl.obolibrary.org/obo/OBI_0600034" #{"precipitation"},
+ "http://purl.obolibrary.org/obo/OBI_0600036"
+ #{"establishing_cell_culture"},
+ "http://purl.obolibrary.org/obo/OBI_0600037"
+ #{"cell_culture_splitting"},
+ "http://purl.obolibrary.org/obo/OBI_0600038" #{"labeling"},
+ "http://purl.obolibrary.org/obo/OBI_0600039"
+ #{"artificially_induced_methylation"},
+ "http://purl.obolibrary.org/obo/OBI_0600040" #{"synthesis"},
+ "http://purl.obolibrary.org/obo/OBI_0600041" #{"concentrate"},
+ "http://purl.obolibrary.org/obo/OBI_0600042"
+ #{"recombinant_plasmid_cloning"},
+ "http://purl.obolibrary.org/obo/OBI_0600043"
+ #{"genetic_transformation"},
+ "http://purl.obolibrary.org/obo/OBI_0600044" #{"lavage"},
+ "http://purl.obolibrary.org/obo/OBI_0600045"
+ #{"structure_determination_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0600046"
+ #{"preparative_chromatography"},
+ "http://purl.obolibrary.org/obo/OBI_0600047" #{"sequencing_assay"},
+ "http://purl.obolibrary.org/obo/OBI_0600048"
+ #{"vector_mediated_amplification"},
+ "http://purl.obolibrary.org/obo/OBI_0600049"
+ #{"DNA_polymerase_amplification"},
+ "http://purl.obolibrary.org/obo/OBI_0600050"
+ #{"specific_enzymatic_cleavage"},
+ "http://purl.obolibrary.org/obo/OBI_0600051" #{"gradient_separation"},
+ "http://purl.obolibrary.org/obo/OBI_0600052" #{"dialysis"},
+ "http://purl.obolibrary.org/obo/OBI_0600053" #{"electrophoresis"},
+ "http://purl.obolibrary.org/obo/OBI_0600054"
+ #{"selection_by_survival"},
+ "http://purl.obolibrary.org/obo/OBI_0600055"
+ #{"DNA_cleavage,_restriction_analysis"},
+ "http://purl.obolibrary.org/obo/OBI_0600056" #{"protease_cleavage"},
+ "http://purl.obolibrary.org/obo/OBI_0600057"
+ #{"enzymatic_DNA_replication"},
+ "http://purl.obolibrary.org/obo/OBI_0600058"
+ #{"enzymatic_amplification"},
+ "http://purl.obolibrary.org/obo/OBI_0600059" #{"DNA_transduction"},
+ "http://purl.obolibrary.org/obo/OBI_0600060" #{"DNA_transfection"},
+ "http://purl.obolibrary.org/obo/OBI_0600063"
+ #{"vector_mediated_expression"},
+ "http://purl.obolibrary.org/obo/OBI_0600064"
+ #{"recombinant_vector_cloning"},
+ "http://purl.obolibrary.org/obo/OBI_0600065"
+ #{"obsolete_defined_processes"},
+ "http://purl.obolibrary.org/obo/OBI_0600067" #{"specific_labeling"},
+ "http://purl.obolibrary.org/obo/OBI_0666666" #{"RNA_extraction"},
+ "http://purl.obolibrary.org/obo/OBI_0666667"
+ #{"nucleic_acid_extraction"},
+ "http://purl.obolibrary.org/obo/OBI_1000023"
+ #{"cell_culture_supernatant"},
+ "http://purl.obolibrary.org/obo/OBI_1000024" #{"cell_pellet"},
+ "http://purl.obolibrary.org/obo/OBI_1000029"
+ #{"phage_display_library"},
+ "http://purl.obolibrary.org/obo/OBI_1000036" #{"cell_lysate"},
+ "http://purl.obolibrary.org/obo/OBI_1000042" #{"peptide_construct"},
+ "http://purl.obolibrary.org/obo/OBI_1000048" #{"transgenic_organism"},
+ "http://purl.obolibrary.org/obo/OBI_1000049" #{"whole_mount_tissue"},
+ "http://purl.obolibrary.org/obo/OBI_1000207" #{"bead"},
+ "http://purl.obolibrary.org/obo/OBI_1110001" #{"epitope"},
+ "http://purl.obolibrary.org/obo/OBI_1110002"
+ #{"obsolete_occurrence_of_disease"},
+ "http://purl.obolibrary.org/obo/OBI_1110003"
+ #{"host_exposure_to_infectious_agent"},
+ "http://purl.obolibrary.org/obo/OBI_1110007"
+ #{"administration_in_vivo_with_infectious_agent"},
+ "http://purl.obolibrary.org/obo/OBI_1110008"
+ #{"occurrence_of_infectious_disease"},
+ "http://purl.obolibrary.org/obo/OBI_1110010"
+ #{"disposition_to_cause_an_allergic_reaction"},
+ "http://purl.obolibrary.org/obo/OBI_1110011" #{"allergic_reaction"},
+ "http://purl.obolibrary.org/obo/OBI_1110012"
+ #{"occurrence_of_allergy"},
+ "http://purl.obolibrary.org/obo/OBI_1110013"
+ #{"T_cell_epitope_ELISPOT_IL-2_assay"},
+ "http://purl.obolibrary.org/obo/OBI_1110014"
+ #{"epitope_binding_by_adaptive_immune_receptor"},
+ "http://purl.obolibrary.org/obo/OBI_1110015"
+ #{"Immunization_in_vivo"},
+ "http://purl.obolibrary.org/obo/OBI_1110016"
+ #{"adaptive_immune_effector_function"},
+ "http://purl.obolibrary.org/obo/OBI_1110017"
+ #{"living_with_infected_household_contact"},
+ "http://purl.obolibrary.org/obo/OBI_1110018"
+ #{"living_in_endemic_area"},
+ "http://purl.obolibrary.org/obo/OBI_1110019"
+ #{"pathogen_release_in_laboratory_accident"},
+ "http://purl.obolibrary.org/obo/OBI_1110020"
+ #{"Immunization_in_vitro"},
+ "http://purl.obolibrary.org/obo/OBI_1110021" #{"infection"},
+ "http://purl.obolibrary.org/obo/OBI_1110022"
+ #{"adaptive_immune_receptor"},
+ "http://purl.obolibrary.org/obo/OBI_1110023" #{"immunogen"},
+ "http://purl.obolibrary.org/obo/OBI_1110024"
+ #{"environmental_exposure_to_infectious_agent"},
+ "http://purl.obolibrary.org/obo/OBI_1110026"
+ #{"host_of_immune_response"},
+ "http://purl.obolibrary.org/obo/OBI_1110028" #{"_293-T_cell_culture"},
+ "http://purl.obolibrary.org/obo/OBI_1110029" #{"C1R_cell_culture"},
+ "http://purl.obolibrary.org/obo/OBI_1110030"
+ #{"experimental_infection_of_cell_culture"},
+ "http://purl.obolibrary.org/obo/OBI_1110031" #{"EL-4_cell_culture"},
+ "http://purl.obolibrary.org/obo/OBI_1110032" #{"HeLa_cell_culture"},
+ "http://purl.obolibrary.org/obo/OBI_1110033"
+ #{"JAWS_II_cell_culture"},
+ "http://purl.obolibrary.org/obo/OBI_1110034" #{"antigen"},
+ "http://purl.obolibrary.org/obo/OBI_1110035" #{"Jurkat_cell_culture"},
+ "http://purl.obolibrary.org/obo/OBI_1110036" #{"JY_cell_culture"},
+ "http://purl.obolibrary.org/obo/OBI_1110037"
+ #{"T_cell__epitope_recognition_assay"},
+ "http://purl.obolibrary.org/obo/OBI_1110038" #{"RMA_cell_culture"},
+ "http://purl.obolibrary.org/obo/OBI_1110039" #{"T2_cell_culture"},
+ "http://purl.obolibrary.org/obo/OBI_1110040" #{"infectious_disease"},
+ "http://purl.obolibrary.org/obo/OBI_1110041" #{"lymph_node_cell"},
+ "http://purl.obolibrary.org/obo/OBI_1110043"
+ #{"adherent_cell_culture"},
+ "http://purl.obolibrary.org/obo/OBI_1110044" #{"PBMC_cell_culture"},
+ "http://purl.obolibrary.org/obo/OBI_1110045"
+ #{"disposition_to_be_bound_by_an_adaptive_immune_receptor"},
+ "http://purl.obolibrary.org/obo/OBI_1110046" #{"organ_harvesting"},
+ "http://purl.obolibrary.org/obo/OBI_1110047" #{"CD3+_T_cell_culture"},
+ "http://purl.obolibrary.org/obo/OBI_1110048" #{"CD3-_T_cell_culture"},
+ "http://purl.obolibrary.org/obo/OBI_1110049" #{"allergy"},
+ "http://purl.obolibrary.org/obo/OBI_1110050" #{"CD4-_T_cell_culture"},
+ "http://purl.obolibrary.org/obo/OBI_1110051" #{"CD8-_T_cell_culture"},
+ "http://purl.obolibrary.org/obo/OBI_1110052"
+ #{"CD4-_CD8-_T_cell_culture"},
+ "http://purl.obolibrary.org/obo/OBI_1110053" #{"cancer"},
+ "http://purl.obolibrary.org/obo/OBI_1110054" #{"autoimmune_disease"},
+ "http://purl.obolibrary.org/obo/OBI_1110055" #{"disease"},
+ "http://purl.obolibrary.org/obo/OBI_1110056"
+ #{"epitope_specific_IL-2_release_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_1110057"
+ #{"MHC:epitope_complex_binding_to_TCR"},
+ "http://purl.obolibrary.org/obo/OBI_1110059"
+ #{"T_cell_epitope_ELISPOT_IFN-g_assay"},
+ "http://purl.obolibrary.org/obo/OBI_1110060"
+ #{"process_is_result_of"},
+ "http://purl.obolibrary.org/obo/OBI_1110061"
+ #{"exposure_resulting_in_immune_reactivity"},
+ "http://purl.obolibrary.org/obo/OBI_1110082" #{"immunogen_role"},
+ "http://purl.obolibrary.org/obo/OBI_1110083"
+ #{"host_of_immune_response_role"},
+ "http://purl.obolibrary.org/obo/OBI_1110084"
+ #{"effector_T_cell_function"},
+ "http://purl.obolibrary.org/obo/OBI_1110085"
+ #{"antigen_presentation_function"},
+ "http://purl.obolibrary.org/obo/OBI_1110086"
+ #{"restricting_MHC_role"},
+ "http://purl.obolibrary.org/obo/OBI_1110087" #{"donor"},
+ "http://purl.obolibrary.org/obo/OBI_1110091"
+ #{"immune_epitope_carrier_role"},
+ "http://purl.obolibrary.org/obo/OBI_1110092" #{"adjuvant_role"},
+ "http://purl.obolibrary.org/obo/OBI_1110093"
+ #{"disposition_to_infect_an_organism"},
+ "http://purl.obolibrary.org/obo/OBI_1110094" #{"immunization"},
+ "http://purl.obolibrary.org/obo/OBI_1110095" #{"blood_harvesting"},
+ "http://purl.obolibrary.org/obo/OBI_1110099" #{"L_cell_culture"},
+ "http://purl.obolibrary.org/obo/OBI_1110106"
+ #{"culture_of_antigen_presenting_cells"},
+ "http://purl.obolibrary.org/obo/OBI_1110107"
+ #{"culture_of_effector_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_1110108"
+ #{"material_to_be_added"},
+ "http://purl.obolibrary.org/obo/OBI_1110109"
+ #{"target_of_material_addition"},
+ "http://purl.obolibrary.org/obo/OBI_1110111"
+ #{"environmental_proximity_to_infectious_agent"},
+ "http://purl.obolibrary.org/obo/OBI_1110112"
+ #{"obsolete_is_described_by"},
+ "http://purl.obolibrary.org/obo/OBI_1110114"
+ #{"contact_to_pathogen_carrying_biological_vector"},
+ "http://purl.obolibrary.org/obo/OBI_1110116" #{"splenocyte"},
+ "http://purl.obolibrary.org/obo/OBI_1110118" #{"P815_cell_culture"},
+ "http://purl.obolibrary.org/obo/OBI_1110119" #{"bound_to"},
+ "http://purl.obolibrary.org/obo/OBI_1110120" #{"assay_antigen_role"},
+ "http://purl.obolibrary.org/obo/OBI_1110122" #{"pathologic_process"},
+ "http://purl.obolibrary.org/obo/OBI_1110124"
+ #{"T_cell_TCR:epitope:MHC_binding_assay"},
+ "http://purl.obolibrary.org/obo/OBI_1110125"
+ #{"MHC_ligand_processing_and_presentation_assay"},
+ "http://purl.obolibrary.org/obo/OBI_1110126"
+ #{"MHC:ligand_binding_assay"},
+ "http://purl.obolibrary.org/obo/OBI_1110127"
+ #{"B_cell_epitope_recognition_assay"},
+ "http://purl.obolibrary.org/obo/OBI_1110128"
+ #{"immune_epitope_assay"},
+ "http://purl.obolibrary.org/obo/OBI_1110129"
+ #{"T_cell_epitope_specific_cytokine_production_assay"},
+ "http://purl.obolibrary.org/obo/OBI_1110130"
+ #{"T_cell_epitope_specific_killing_assay"},
+ "http://purl.obolibrary.org/obo/OBI_1110131"
+ #{"T_cell_epitope_specific_proliferation_assay"},
+ "http://purl.obolibrary.org/obo/OBI_1110132" #{"CD8_receptor"},
+ "http://purl.obolibrary.org/obo/OBI_1110150"
+ #{"T_cell_epitope_chromium_release_assay"},
+ "http://purl.obolibrary.org/obo/OBI_1110151"
+ #{"T_cell_epitope_ELISA_IFN-g_assay"},
+ "http://purl.obolibrary.org/obo/OBI_1110152"
+ #{"T_cell_epitope_ELISA_IL-2_assay"},
+ "http://purl.obolibrary.org/obo/OBI_1110153"
+ #{"T_cell_epitope_ELISA_IL-4_assay"},
+ "http://purl.obolibrary.org/obo/OBI_1110154"
+ #{"T_cell_epitope_ELISA_IL-5_assay"},
+ "http://purl.obolibrary.org/obo/OBI_1110155"
+ #{"T_cell_epitope_ELISA_TNF_assay"},
+ "http://purl.obolibrary.org/obo/OBI_1110156"
+ #{"T_cell_epitope_ELISA_IL-10_assay"},
+ "http://purl.obolibrary.org/obo/OBI_1110157"
+ #{"T_cell_epitope_ELISA_GM-CSF_assay"},
+ "http://purl.obolibrary.org/obo/OBI_1110158"
+ #{"T_cell_epitope_ELISA_IL-6_assay"},
+ "http://purl.obolibrary.org/obo/OBI_1110159"
+ #{"T_cell_epitope_ELISA_IL-13_assay"},
+ "http://purl.obolibrary.org/obo/OBI_1110160"
+ #{"T_cell_epitope_ELISA_IL-12_assay"},
+ "http://purl.obolibrary.org/obo/OBI_1110161"
+ #{"T_cell_epitope_ELISA_IL-1b_assay"},
+ "http://purl.obolibrary.org/obo/OBI_1110162"
+ #{"T_cell_epitope_ELISA_IL-17_assay"},
+ "http://purl.obolibrary.org/obo/OBI_1110163"
+ #{"T_cell_epitope_ELISA_IL-18_assay"},
+ "http://purl.obolibrary.org/obo/OBI_1110167"
+ #{"T_cell_epitope_ELISPOT_IL-4_assay"},
+ "http://purl.obolibrary.org/obo/OBI_1110168"
+ #{"T_cell_epitope_ELISPOT_TNF_assay"},
+ "http://purl.obolibrary.org/obo/OBI_1110170"
+ #{"T_cell_epitope_ELISPOT_IL-10_assay"},
+ "http://purl.obolibrary.org/obo/OBI_1110171"
+ #{"T_cell_epitope_ELISPOT_IL-13_assay"},
+ "http://purl.obolibrary.org/obo/OBI_1110172"
+ #{"T_cell_epitope_intracellular_cytokine_staining__ICS__IFN-g_assay"},
+ "http://purl.obolibrary.org/obo/OBI_1110173"
+ #{"T_cell_epitope_intracellular_cytokine_staining__ICS__IL-2_assay"},
+ "http://purl.obolibrary.org/obo/OBI_1110174"
+ #{"T_cell_epitope_intracellular_cytokine_staining__ICS__TNF_assay"},
+ "http://purl.obolibrary.org/obo/OBI_1110175"
+ #{"T_cell_epitope_intracellular_cytokine_staining__ICS__IL-4_assay"},
+ "http://purl.obolibrary.org/obo/OBI_1110177"
+ #{"T_cell_epitope_intracellular_cytokine_staining__ICS__IL-10_assay"},
+ "http://purl.obolibrary.org/obo/OBI_1110178"
+ #{"T_cell_epitope_intracellular_cytokine_staining__ICS__IL-17_assay"},
+ "http://purl.obolibrary.org/obo/OBI_1110179"
+ #{"T_cell_epitope_MHC_tetramer_multimer_staining_assay"},
+ "http://purl.obolibrary.org/obo/OBI_1110180"
+ #{"T_cell_epitope__3H-Thymidine__cell_proliferation_assay"},
+ "http://purl.obolibrary.org/obo/OBI_1110181"
+ #{"T_cell_epitope__BrdU__cell_proliferation_assay"},
+ "http://purl.obolibrary.org/obo/OBI_1110182"
+ #{"epitope_specific_T_cell_proliferation"},
+ "http://purl.obolibrary.org/obo/OBI_1110184"
+ #{"epitope_specific_GM-CSF_release_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_1110185"
+ #{"epitope_specific_IFN-g_release_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_1110187"
+ #{"epitope_specific_IL-10_release_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_1110190"
+ #{"epitope_specific_IL-12_release_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_1110191"
+ #{"epitope_specific_IL-13_release_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_1110193"
+ #{"epitope_specific_IL-17_release_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_1110195"
+ #{"epitope_specific_IL-18_release_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_1110196"
+ #{"epitope_specific_IL-1b_release_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_1110199"
+ #{"epitope_specific_IL-4_release_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_1110201" #{"allergen"},
+ "http://purl.obolibrary.org/obo/OBI_1110202"
+ #{"epitope_specific_IL-5_release_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_1110203"
+ #{"epitope_specific_IL-6_release_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_1110204"
+ #{"epitope_specific_killing_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_1110206"
+ #{"epitope_specific_TNF_release_by_T_cells"},
+ "http://purl.obolibrary.org/obo/OBI_1110207"
+ #{"assay_detecting_IFN-gamma_production"},
+ "http://purl.obolibrary.org/obo/OBI_1110300"
+ #{"direct_submission_to_IEDB"},
+ "http://purl.obolibrary.org/obo/OBI_9991118"
+ #{"IEDB_alternative_term"},
+ "http://purl.obolibrary.org/obo/OBI_9991119"
+ #{"FGED_alternative_term"},
+ "http://purl.obolibrary.org/obo/OBI_9999994"
+ #{"chromium_release_assay"}}
