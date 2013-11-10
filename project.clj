@@ -6,13 +6,7 @@
             :url "http://www.gnu.org/licenses/lgpl-3.0.txt"
             :distribution :repo}
 
-  :dependencies [[org.clojure/clojure "1.5.0"]
-                 [uk.org.russet/tawny-owl "0.12-SNAPSHOT"]
-
-                 [net.sourceforge.owlapi/owlapi-api "3.4.4"]
-
-
-                 ]
+  :dependencies [[uk.org.russet/tawny-owl "1.0-rc2-SNAPSHOT"]]
 
 
   :test-selectors {:default (constantly true)
