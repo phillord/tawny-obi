@@ -25,10 +25,9 @@
 
 
 
-
-(deftest ^:heavy consistent
-  (is (r/consistent?))
-  (is (r/coherent?)))
+;; (deftest ^:heavy consistent
+;;   (is (r/consistent?))
+;;   (is (r/coherent?)))
 
 
 ;; (deftest profile
